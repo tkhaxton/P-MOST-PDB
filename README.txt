@@ -28,7 +28,7 @@ PUBLICATION
 Details of the oriented coarse-grained protein model appear in my paper:
 
 [1] T. K. Haxton, "High-resolution coarse-grained modeling using oriented 
-coarse-grained sites."
+coarse-grained sites," submitted (available online at arxiv.org/abs/1409.8658).
 
 AUTHORS, CITATION, AND CONTACT INFORMATION
 -------------------------------------------
