@@ -1,0 +1,2603 @@
+../../PDB_files/entire_PDB/files/87/pdb487d.ent	N	94	ALA	HMB1	HMB2	HMB3
+../../PDB_files/entire_PDB/files/a2/pdb1a2s.ent	A	1	GLU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/a2/pdb1a2s.ent	A	1	GLU	 HG2	 HG3
+../../PDB_files/entire_PDB/files/a2/pdb1a2s.ent	A	1	GLU	 HM1	 HM2	 HM3
+../../PDB_files/entire_PDB/files/a2/pdb4a29.ent	A	211	LEU	HD11	HD12	HD13
+../../PDB_files/entire_PDB/files/a2/pdb4a29.ent	A	211	LEU	HD21	HD22	HD23
+../../PDB_files/entire_PDB/files/a2/pdb4a29.ent	A	211	LEU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/a2/pdb4a2s.ent	A	60	LEU	HD11	HD12	HD13
+../../PDB_files/entire_PDB/files/a2/pdb4a2s.ent	A	60	LEU	HD21	HD22	HD23
+../../PDB_files/entire_PDB/files/a2/pdb4a2s.ent	A	60	LEU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/a2/pdb4a2s.ent	A	182	MET	 HB2	 HB3
+../../PDB_files/entire_PDB/files/a2/pdb4a2s.ent	A	248	GLU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/a3/pdb1a3y.ent	A	9	PRO	HPN1	HPN2
+../../PDB_files/entire_PDB/files/a3/pdb2a31.ent	A	188	LYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/a3/pdb2a31.ent	A	244	ALA	HMB1	HMB2	HMB3
+../../PDB_files/entire_PDB/files/a3/pdb2a32.ent	A	188	LYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/a3/pdb2a3d.ent	A	14	ILE	HG21	HG22	HG23
+../../PDB_files/entire_PDB/files/a3/pdb2a3d.ent	A	14	ILE	HD11	HD12	HD13
+../../PDB_files/entire_PDB/files/a3/pdb2a3d.ent	A	14	ILE	HG12	HG13
+../../PDB_files/entire_PDB/files/a3/pdb2a3d.ent	A	35	ILE	HG21	HG22	HG23
+../../PDB_files/entire_PDB/files/a3/pdb2a3d.ent	A	35	ILE	HD11	HD12	HD13
+../../PDB_files/entire_PDB/files/a3/pdb2a3d.ent	A	35	ILE	HG12	HG13
+../../PDB_files/entire_PDB/files/ab/pdb1ab1.ent	A	7	ILE	HG21	HG22	HG23
+../../PDB_files/entire_PDB/files/ab/pdb1ab1.ent	A	7	ILE	HG12	HG13
+../../PDB_files/entire_PDB/files/ab/pdb1ab1.ent	A	10	ARG	 HG2	 HG3
+../../PDB_files/entire_PDB/files/ab/pdb1ab1.ent	A	25	ILE	HG12	HG13
+../../PDB_files/entire_PDB/files/ab/pdb1ab1.ent	A	34	ILE	HG12	HG13
+../../PDB_files/entire_PDB/files/ag/pdb1ag4.ent	A	60	PHE	 HB2	 HB3
+../../PDB_files/entire_PDB/files/ag/pdb1agy.ent	A	32	ARG	 HB2	 HB3
+../../PDB_files/entire_PDB/files/ag/pdb1agy.ent	A	197	GLY	 HA2	 HA3
+../../PDB_files/entire_PDB/files/ah/pdb1ah0.ent	A	242	LYS	 HZ1	 HZ3
+../../PDB_files/entire_PDB/files/ai/pdb3aid.ent	A	1	PRO	HPN1	HPN2
+../../PDB_files/entire_PDB/files/ai/pdb3aid.ent	B	1	PRO	HPN1	HPN2
+../../PDB_files/entire_PDB/files/aj/pdb2aj1.ent	A	1	MET	 HE2	 HE3
+../../PDB_files/entire_PDB/files/aj/pdb2aj1.ent	A	1	MET	 HG2	 HG3
+../../PDB_files/entire_PDB/files/aj/pdb2aj1.ent	A	1	MET	 HM3
+../../PDB_files/entire_PDB/files/aj/pdb2aj1.ent	A	64	LYS	 HZ3
+../../PDB_files/entire_PDB/files/aj/pdb2aj1.ent	A	64	LYS	 HE2	 HE3
+../../PDB_files/entire_PDB/files/aq/pdb1aqa.ent	A	61	VAL	HG22
+../../PDB_files/entire_PDB/files/at/pdb1atb.ent	A	31	ARG	 HB2	 HB3
+../../PDB_files/entire_PDB/files/at/pdb1atb.ent	A	31	ARG	 HG2	 HG3
+../../PDB_files/entire_PDB/files/at/pdb1atb.ent	A	56	LYS	 HZ1	 HZ2	 HZ3
+../../PDB_files/entire_PDB/files/at/pdb1atb.ent	A	56	LYS	 HD2	 HD3
+../../PDB_files/entire_PDB/files/av/pdb4av5.ent	A	158	THR	HG21	HG22	HG23
+../../PDB_files/entire_PDB/files/av/pdb4av5.ent	C	158	THR	HG21	HG22	HG23
+../../PDB_files/entire_PDB/files/av/pdb4avi.ent	A	7	ASN	HD21	HD22
+../../PDB_files/entire_PDB/files/av/pdb4avi.ent	A	7	ASN	 HB2	 HB3
+../../PDB_files/entire_PDB/files/aw/pdb1aw3.ent	A	1	ASP	 HB2	 HB3
+../../PDB_files/entire_PDB/files/aw/pdb1aw3.ent	A	1	ASP	 HM1	 HM2	 HM3
+../../PDB_files/entire_PDB/files/aw/pdb1aw3.ent	A	93	THR	HG21	HG22	HG23
+../../PDB_files/entire_PDB/files/ax/pdb1axc.ent	C	210	ARG	 HG2
+../../PDB_files/entire_PDB/files/ax/pdb4axj.ent	B	71	GLU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/ax/pdb4axj.ent	B	71	GLU	 HG2	 HG3
+../../PDB_files/entire_PDB/files/b3/pdb4b3b.ent	A	333	LEU	HD11	HD12	HD13
+../../PDB_files/entire_PDB/files/b3/pdb4b3b.ent	A	333	LEU	HD21	HD22	HD23
+../../PDB_files/entire_PDB/files/b3/pdb4b3b.ent	A	333	LEU	 HB3
+../../PDB_files/entire_PDB/files/b5/pdb1b53.ent	A	14	TYR	 HB2	 HB3
+../../PDB_files/entire_PDB/files/b5/pdb1b53.ent	B	14	TYR	 HB2	 HB3
+../../PDB_files/entire_PDB/files/b5/pdb2b54.ent	A	1	MET	 HM1
+../../PDB_files/entire_PDB/files/b5/pdb2b54.ent	A	5	GLN	HE22
+../../PDB_files/entire_PDB/files/b5/pdb2b54.ent	A	6	LYS	 HZ2
+../../PDB_files/entire_PDB/files/b5/pdb2b54.ent	A	23	ASN	HD22
+../../PDB_files/entire_PDB/files/b5/pdb2b54.ent	A	24	LYS	 HZ1	 HZ2
+../../PDB_files/entire_PDB/files/b5/pdb2b54.ent	A	33	LYS	 HZ1	 HZ3
+../../PDB_files/entire_PDB/files/b5/pdb2b54.ent	A	34	LYS	 HZ2	 HZ3
+../../PDB_files/entire_PDB/files/b5/pdb2b54.ent	A	36	ARG	HH11
+../../PDB_files/entire_PDB/files/b5/pdb2b54.ent	A	50	ARG	HH12
+../../PDB_files/entire_PDB/files/b5/pdb2b54.ent	A	50	ARG	HH21
+../../PDB_files/entire_PDB/files/b5/pdb2b54.ent	A	56	LYS	 HZ2	 HZ3
+../../PDB_files/entire_PDB/files/b5/pdb2b54.ent	A	65	LYS	 HZ2	 HZ3
+../../PDB_files/entire_PDB/files/b5/pdb2b54.ent	A	75	LYS	 HZ2
+../../PDB_files/entire_PDB/files/b5/pdb2b54.ent	A	88	LYS	 HZ3
+../../PDB_files/entire_PDB/files/b5/pdb2b54.ent	A	89	LYS	 HZ1	 HZ2
+../../PDB_files/entire_PDB/files/b5/pdb2b54.ent	A	126	ARG	HH22
+../../PDB_files/entire_PDB/files/b5/pdb2b54.ent	A	142	LYS	 HZ1
+../../PDB_files/entire_PDB/files/b5/pdb2b54.ent	A	150	ARG	HH22
+../../PDB_files/entire_PDB/files/b5/pdb2b54.ent	A	157	ARG	HH12
+../../PDB_files/entire_PDB/files/b5/pdb2b54.ent	A	157	ARG	HH21
+../../PDB_files/entire_PDB/files/b5/pdb2b54.ent	A	178	LYS	 HZ1	 HZ3
+../../PDB_files/entire_PDB/files/b5/pdb2b54.ent	A	237	LYS	 HZ2
+../../PDB_files/entire_PDB/files/b5/pdb2b54.ent	A	278	LYS	 HZ2	 HZ3
+../../PDB_files/entire_PDB/files/b5/pdb2b54.ent	A	291	LYS	 HZ1	 HZ2
+../../PDB_files/entire_PDB/files/b5/pdb2b54.ent	A	297	ARG	HH12
+../../PDB_files/entire_PDB/files/b8/pdb2b8f.ent	A	72	THR	HG21	HG22	HG23
+../../PDB_files/entire_PDB/files/b9/pdb4b9g.ent	A	40	THR	HG21	HG22	HG23
+../../PDB_files/entire_PDB/files/b9/pdb4b9g.ent	A	159	THR	HG21	HG22	HG23
+../../PDB_files/entire_PDB/files/b9/pdb4b9g.ent	B	107	THR	HG21	HG22	HG23
+../../PDB_files/entire_PDB/files/b9/pdb4b9g.ent	B	110	THR	HG21	HG22	HG23
+../../PDB_files/entire_PDB/files/b9/pdb4b9g.ent	B	129	THR	HG21	HG22	HG23
+../../PDB_files/entire_PDB/files/ba/pdb4baj.ent	A	3	ARG	HH11	HH12
+../../PDB_files/entire_PDB/files/ba/pdb4baj.ent	A	3	ARG	HH21	HH22
+../../PDB_files/entire_PDB/files/bb/pdb1bba.ent	A	1	ALA	HMB2	HMB3
+../../PDB_files/entire_PDB/files/bb/pdb1bba.ent	A	1	ALA	 HM2
+../../PDB_files/entire_PDB/files/bb/pdb1bba.ent	A	2	PRO	 HB2	 HB3
+../../PDB_files/entire_PDB/files/bb/pdb1bba.ent	A	2	PRO	 HG2
+../../PDB_files/entire_PDB/files/bb/pdb1bba.ent	A	2	PRO	 HD2	 HD3
+../../PDB_files/entire_PDB/files/bb/pdb1bba.ent	A	3	LEU	HD11	HD12	HD13
+../../PDB_files/entire_PDB/files/bb/pdb1bba.ent	A	3	LEU	HD21	HD22	HD23
+../../PDB_files/entire_PDB/files/bb/pdb1bba.ent	A	3	LEU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/bb/pdb1bba.ent	A	4	GLU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/bb/pdb1bba.ent	A	4	GLU	 HG2	 HG3
+../../PDB_files/entire_PDB/files/bb/pdb1bba.ent	A	6	GLU	 HB2
+../../PDB_files/entire_PDB/files/bb/pdb1bba.ent	A	6	GLU	 HG2	 HG3
+../../PDB_files/entire_PDB/files/bb/pdb1bba.ent	A	16	GLN	HE21	HE22
+../../PDB_files/entire_PDB/files/bb/pdb1bba.ent	A	16	GLN	 HB2	 HB3
+../../PDB_files/entire_PDB/files/bb/pdb1bba.ent	A	16	GLN	 HG3
+../../PDB_files/entire_PDB/files/bb/pdb1bba.ent	A	19	GLN	HE21	HE22
+../../PDB_files/entire_PDB/files/bb/pdb1bba.ent	A	19	GLN	 HB2	 HB3
+../../PDB_files/entire_PDB/files/bb/pdb1bba.ent	A	19	GLN	 HG2
+../../PDB_files/entire_PDB/files/bb/pdb1bba.ent	A	25	ARG	HH11	HH12
+../../PDB_files/entire_PDB/files/bb/pdb1bba.ent	A	26	ARG	HH11	HH12
+../../PDB_files/entire_PDB/files/bb/pdb1bba.ent	A	32	THR	HG21	HG22
+../../PDB_files/entire_PDB/files/bb/pdb1bba.ent	A	33	ARG	HH11	HH12
+../../PDB_files/entire_PDB/files/bb/pdb1bba.ent	A	33	ARG	HH21	HH22
+../../PDB_files/entire_PDB/files/bb/pdb1bba.ent	A	33	ARG	 HB2	 HB3
+../../PDB_files/entire_PDB/files/bb/pdb1bba.ent	A	34	PRO	 HB3
+../../PDB_files/entire_PDB/files/bb/pdb1bba.ent	A	34	PRO	 HG2	 HG3
+../../PDB_files/entire_PDB/files/bb/pdb1bba.ent	A	34	PRO	 HD2	 HD3
+../../PDB_files/entire_PDB/files/bb/pdb1bba.ent	A	35	ARG	HH11	HH12
+../../PDB_files/entire_PDB/files/bb/pdb1bba.ent	A	35	ARG	HH21	HH22
+../../PDB_files/entire_PDB/files/bb/pdb1bba.ent	A	35	ARG	 HB2	 HB3
+../../PDB_files/entire_PDB/files/bb/pdb1bba.ent	A	35	ARG	 HG3
+../../PDB_files/entire_PDB/files/bb/pdb1bba.ent	A	36	TYR	 HB2	 HB3
+../../PDB_files/entire_PDB/files/bb/pdb2bbm.ent	A	39	LEU	HD11
+../../PDB_files/entire_PDB/files/bb/pdb2bbm.ent	A	69	LEU	HD11	HD12	HD13
+../../PDB_files/entire_PDB/files/bb/pdb2bbm.ent	A	69	LEU	HD21	HD23
+../../PDB_files/entire_PDB/files/bb/pdb2bbm.ent	A	69	LEU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/bb/pdb2bbm.ent	A	74	ARG	 HB2	 HB3
+../../PDB_files/entire_PDB/files/bb/pdb2bbm.ent	A	74	ARG	 HG2	 HG3
+../../PDB_files/entire_PDB/files/bb/pdb2bbm.ent	A	112	LEU	HD11	HD12	HD13
+../../PDB_files/entire_PDB/files/bb/pdb2bbm.ent	A	112	LEU	HD21	HD22
+../../PDB_files/entire_PDB/files/bb/pdb2bbm.ent	A	112	LEU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/bc/pdb2bca.ent	A	41	LYS	 HZ3
+../../PDB_files/entire_PDB/files/bc/pdb2bca.ent	A	41	LYS	 HE2	 HE3
+../../PDB_files/entire_PDB/files/bc/pdb2bca.ent	A	55	LYS	 HZ3
+../../PDB_files/entire_PDB/files/bc/pdb2bca.ent	A	55	LYS	 HE2	 HE3
+../../PDB_files/entire_PDB/files/bd/pdb1bd6.ent	A	1	ALA	HMB1	HMB2	HMB3
+../../PDB_files/entire_PDB/files/bd/pdb1bd6.ent	A	1	ALA	 HN1	 HN2
+../../PDB_files/entire_PDB/files/be/pdb1ben.ent	A	11	CYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/be/pdb1ben.ent	B	12	VAL	HG11	HG12	HG13
+../../PDB_files/entire_PDB/files/be/pdb1ben.ent	B	12	VAL	HG21	HG22	HG23
+../../PDB_files/entire_PDB/files/be/pdb1ben.ent	B	18	VAL	HG11	HG12	HG13
+../../PDB_files/entire_PDB/files/be/pdb1ben.ent	B	18	VAL	HG21	HG22	HG23
+../../PDB_files/entire_PDB/files/be/pdb1ben.ent	B	22	ARG	HH11	HH12
+../../PDB_files/entire_PDB/files/be/pdb1ben.ent	B	22	ARG	HH21	HH22
+../../PDB_files/entire_PDB/files/be/pdb1ben.ent	B	22	ARG	 HB2	 HB3
+../../PDB_files/entire_PDB/files/be/pdb1ben.ent	B	22	ARG	 HG2	 HG3
+../../PDB_files/entire_PDB/files/be/pdb1ben.ent	C	8	THR	HG21	HG22	HG23
+../../PDB_files/entire_PDB/files/be/pdb1ben.ent	C	9	SER	 HB2	 HB3
+../../PDB_files/entire_PDB/files/be/pdb1ben.ent	D	26	TYR	 HB2	 HB3
+../../PDB_files/entire_PDB/files/be/pdb4beq.ent	A	73	MET	 HG3
+../../PDB_files/entire_PDB/files/be/pdb4beu.ent	A	73	MET	 HG3
+../../PDB_files/entire_PDB/files/bf/pdb1bfx.ent	A	1	ASP	 HB2	 HB3
+../../PDB_files/entire_PDB/files/bf/pdb1bfx.ent	A	2	LYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/bf/pdb1bfx.ent	A	2	LYS	 HG2	 HG3
+../../PDB_files/entire_PDB/files/bf/pdb1bfx.ent	A	5	LYS	 HZ3
+../../PDB_files/entire_PDB/files/bf/pdb1bfx.ent	A	5	LYS	 HE2	 HE3
+../../PDB_files/entire_PDB/files/bf/pdb1bfx.ent	A	44	GLU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/bf/pdb1bfx.ent	A	44	GLU	 HG2	 HG3
+../../PDB_files/entire_PDB/files/bf/pdb1bfx.ent	A	93	THR	HG21	HG22	HG23
+../../PDB_files/entire_PDB/files/bg/pdb4bgf.ent	E	141	LEU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/bh/pdb4bht.ent	B	193	VAL	HG11	HG12	HG13
+../../PDB_files/entire_PDB/files/bh/pdb4bht.ent	B	193	VAL	HG21	HG22	HG23
+../../PDB_files/entire_PDB/files/bh/pdb4bht.ent	D	303	VAL	HG11	HG12	HG13
+../../PDB_files/entire_PDB/files/bh/pdb4bht.ent	D	303	VAL	HG21	HG22	HG23
+../../PDB_files/entire_PDB/files/bh/pdb4bht.ent	E	267	THR	HG21	HG22	HG23
+../../PDB_files/entire_PDB/files/bh/pdb4bht.ent	E	288	SER	 HB2	 HB3
+../../PDB_files/entire_PDB/files/bj/pdb4bjs.ent	B	12	LEU	HD11	HD12	HD13
+../../PDB_files/entire_PDB/files/bj/pdb4bjs.ent	B	12	LEU	HD22	HD23
+../../PDB_files/entire_PDB/files/bj/pdb4bjs.ent	B	12	LEU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/bj/pdb4bjs.ent	D	14	LEU	HD12	HD13
+../../PDB_files/entire_PDB/files/bj/pdb4bjs.ent	D	14	LEU	HD21	HD22	HD23
+../../PDB_files/entire_PDB/files/bj/pdb4bjs.ent	D	14	LEU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/bl/pdb1blv.ent	A	1	ASP	 HB2	 HB3
+../../PDB_files/entire_PDB/files/bl/pdb1blv.ent	A	1	ASP	 HM1	 HM2	 HM3
+../../PDB_files/entire_PDB/files/bl/pdb1blv.ent	A	16	LYS	 HZ3
+../../PDB_files/entire_PDB/files/bl/pdb1blv.ent	A	16	LYS	 HE2	 HE3
+../../PDB_files/entire_PDB/files/bl/pdb1blv.ent	A	34	LYS	 HZ3
+../../PDB_files/entire_PDB/files/bl/pdb1blv.ent	A	34	LYS	 HE2	 HE3
+../../PDB_files/entire_PDB/files/bl/pdb1blv.ent	A	87	ILE	HD11	HD12	HD13
+../../PDB_files/entire_PDB/files/bl/pdb1blv.ent	A	87	ILE	HG13
+../../PDB_files/entire_PDB/files/bm/pdb4bm1.ent	B	315	ARG	HH11	HH12
+../../PDB_files/entire_PDB/files/bm/pdb4bm1.ent	B	315	ARG	HH21	HH22
+../../PDB_files/entire_PDB/files/bn/pdb4bn4.ent	A	190	LYS	 HD2	 HD3
+../../PDB_files/entire_PDB/files/bn/pdb4bn4.ent	A	261	ARG	 HG2	 HG3
+../../PDB_files/entire_PDB/files/bn/pdb4bn6.ent	A	202	LYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/bn/pdb4bn7.ent	A	202	LYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/bn/pdb4bn8.ent	A	88	LYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/bn/pdb4bn8.ent	A	202	LYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/bn/pdb4bn9.ent	A	86	ARG	 HB2	 HB3
+../../PDB_files/entire_PDB/files/bn/pdb4bn9.ent	A	202	LYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/bo/pdb2bo0.ent	A	323	ASP	 HB2	 HB3
+../../PDB_files/entire_PDB/files/bp/pdb4bpf.ent	A	74	LEU	HD11	HD12	HD13
+../../PDB_files/entire_PDB/files/bp/pdb4bpf.ent	A	74	LEU	HD21	HD22	HD23
+../../PDB_files/entire_PDB/files/bp/pdb4bpf.ent	A	74	LEU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/bt/pdb2bt3.ent	A	602	MET	 HB2	 HB3
+../../PDB_files/entire_PDB/files/bu/pdb1buy.ent	A	1	ALA	HMB1	HMB2	HMB3
+../../PDB_files/entire_PDB/files/bu/pdb1buy.ent	A	1	ALA	 HM1	 HM2	 HM3
+../../PDB_files/entire_PDB/files/bu/pdb1buy.ent	A	6	ILE	HG21	HG22	HG23
+../../PDB_files/entire_PDB/files/bu/pdb1buy.ent	A	6	ILE	HD11	HD12	HD13
+../../PDB_files/entire_PDB/files/bu/pdb1buy.ent	A	6	ILE	HG12	HG13
+../../PDB_files/entire_PDB/files/bu/pdb1buy.ent	A	25	ILE	HG21	HG22	HG23
+../../PDB_files/entire_PDB/files/bu/pdb1buy.ent	A	25	ILE	HD11	HD12	HD13
+../../PDB_files/entire_PDB/files/bu/pdb1buy.ent	A	25	ILE	HG12	HG13
+../../PDB_files/entire_PDB/files/bu/pdb1buy.ent	A	30	ALA	HMB2	HMB3
+../../PDB_files/entire_PDB/files/bu/pdb1buy.ent	A	39	ILE	HG21	HG22	HG23
+../../PDB_files/entire_PDB/files/bu/pdb1buy.ent	A	39	ILE	HD11	HD12	HD13
+../../PDB_files/entire_PDB/files/bu/pdb1buy.ent	A	39	ILE	HG12	HG13
+../../PDB_files/entire_PDB/files/bu/pdb1buy.ent	A	93	LEU	HD11	HD13
+../../PDB_files/entire_PDB/files/bu/pdb1buy.ent	A	93	LEU	HD21	HD22	HD23
+../../PDB_files/entire_PDB/files/bu/pdb1buy.ent	A	93	LEU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/bu/pdb1buy.ent	A	105	LEU	HD11	HD13
+../../PDB_files/entire_PDB/files/bu/pdb1buy.ent	A	105	LEU	HD21	HD22	HD23
+../../PDB_files/entire_PDB/files/bu/pdb1buy.ent	A	105	LEU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/bu/pdb1buy.ent	A	119	ILE	HG21	HG22	HG23
+../../PDB_files/entire_PDB/files/bu/pdb1buy.ent	A	119	ILE	HD11	HD12	HD13
+../../PDB_files/entire_PDB/files/bu/pdb1buy.ent	A	119	ILE	HG12	HG13
+../../PDB_files/entire_PDB/files/bu/pdb1buy.ent	A	124	ALA	HMB2	HMB3
+../../PDB_files/entire_PDB/files/bu/pdb1buy.ent	A	133	ILE	HG21	HG22	HG23
+../../PDB_files/entire_PDB/files/bu/pdb1buy.ent	A	133	ILE	HD11	HD12	HD13
+../../PDB_files/entire_PDB/files/bu/pdb1buy.ent	A	133	ILE	HG12	HG13
+../../PDB_files/entire_PDB/files/bu/pdb1buy.ent	A	154	LYS	 HZ1	 HZ2	 HZ3
+../../PDB_files/entire_PDB/files/bu/pdb1buy.ent	A	154	LYS	 HG2	 HG3
+../../PDB_files/entire_PDB/files/bu/pdb1buy.ent	A	154	LYS	 HD2	 HD3
+../../PDB_files/entire_PDB/files/bu/pdb1buy.ent	A	154	LYS	 HE3
+../../PDB_files/entire_PDB/files/bv/pdb1bv8.ent	A	2	GLU	 HB3
+../../PDB_files/entire_PDB/files/bv/pdb1bv8.ent	A	4	PRO	 HB3
+../../PDB_files/entire_PDB/files/bv/pdb1bv8.ent	A	4	PRO	 HD3
+../../PDB_files/entire_PDB/files/bv/pdb1bv8.ent	A	5	PHE	 HB3
+../../PDB_files/entire_PDB/files/bv/pdb1bv8.ent	A	10	GLN	HE21	HE22
+../../PDB_files/entire_PDB/files/bv/pdb1bv8.ent	A	10	GLN	 HG3
+../../PDB_files/entire_PDB/files/bv/pdb1bv8.ent	A	12	LEU	HD11	HD12	HD13
+../../PDB_files/entire_PDB/files/bv/pdb1bv8.ent	A	12	LEU	HD21	HD22	HD23
+../../PDB_files/entire_PDB/files/bv/pdb1bv8.ent	A	12	LEU	 HB3
+../../PDB_files/entire_PDB/files/bv/pdb1bv8.ent	A	14	GLN	HE21	HE22
+../../PDB_files/entire_PDB/files/bv/pdb1bv8.ent	A	15	THR	HG21	HG22	HG23
+../../PDB_files/entire_PDB/files/bv/pdb1bv8.ent	A	17	ASP	 HB3
+../../PDB_files/entire_PDB/files/bv/pdb1bv8.ent	A	18	GLU	 HG3
+../../PDB_files/entire_PDB/files/bv/pdb1bv8.ent	A	20	LYS	 HZ1	 HZ2
+../../PDB_files/entire_PDB/files/bv/pdb1bv8.ent	A	20	LYS	 HB3
+../../PDB_files/entire_PDB/files/bv/pdb1bv8.ent	A	20	LYS	 HD3
+../../PDB_files/entire_PDB/files/bv/pdb1bv8.ent	A	22	HIS	 HB3
+../../PDB_files/entire_PDB/files/bv/pdb1bv8.ent	A	24	SER	 HB3
+../../PDB_files/entire_PDB/files/bv/pdb1bv8.ent	A	25	PHE	 HB3
+../../PDB_files/entire_PDB/files/bv/pdb1bv8.ent	A	26	GLN	HE21	HE22
+../../PDB_files/entire_PDB/files/bv/pdb1bv8.ent	A	26	GLN	 HG3
+../../PDB_files/entire_PDB/files/bv/pdb1bv8.ent	A	27	ILE	HG13
+../../PDB_files/entire_PDB/files/bv/pdb1bv8.ent	A	28	SER	 HB3
+../../PDB_files/entire_PDB/files/bv/pdb1bv8.ent	A	29	LEU	HD21	HD22	HD23
+../../PDB_files/entire_PDB/files/bv/pdb1bv8.ent	A	29	LEU	 HB3
+../../PDB_files/entire_PDB/files/bv/pdb1bv8.ent	A	32	SER	 HB3
+../../PDB_files/entire_PDB/files/bv/pdb1bv8.ent	A	33	TYR	 HB3
+../../PDB_files/entire_PDB/files/bv/pdb1bv8.ent	A	35	GLY	 HA2	 HA3
+../../PDB_files/entire_PDB/files/bv/pdb1bv8.ent	A	37	ARG	HH11	HH12
+../../PDB_files/entire_PDB/files/bv/pdb1bv8.ent	A	37	ARG	HH21
+../../PDB_files/entire_PDB/files/bv/pdb1bv8.ent	A	37	ARG	 HB3
+../../PDB_files/entire_PDB/files/bv/pdb1bv8.ent	A	37	ARG	 HG3
+../../PDB_files/entire_PDB/files/bv/pdb1bv8.ent	A	39	ALA	HMB1	HMB2	HMB3
+../../PDB_files/entire_PDB/files/bv/pdb1bv8.ent	A	40	SER	 HB3
+../../PDB_files/entire_PDB/files/bv/pdb1bv8.ent	A	41	ASN	HD21	HD22
+../../PDB_files/entire_PDB/files/bv/pdb1bv8.ent	A	41	ASN	 HB2
+../../PDB_files/entire_PDB/files/bv/pdb1bv8.ent	A	45	VAL	HG11	HG12	HG13
+../../PDB_files/entire_PDB/files/bv/pdb1bv8.ent	A	45	VAL	HG21	HG22	HG23
+../../PDB_files/entire_PDB/files/bv/pdb1bv8.ent	A	48	LYS	 HG3
+../../PDB_files/entire_PDB/files/bv/pdb1bv8.ent	A	54	ILE	HD11	HD12	HD13
+../../PDB_files/entire_PDB/files/bv/pdb1bv8.ent	A	56	LEU	 HB3
+../../PDB_files/entire_PDB/files/bv/pdb1bv8.ent	A	57	LYS	 HZ1	 HZ2
+../../PDB_files/entire_PDB/files/bv/pdb1bv8.ent	A	60	VAL	HG11	HG12	HG13
+../../PDB_files/entire_PDB/files/bv/pdb1bv8.ent	A	60	VAL	HG21	HG22	HG23
+../../PDB_files/entire_PDB/files/bv/pdb1bv8.ent	A	61	LYS	 HZ1	 HZ2
+../../PDB_files/entire_PDB/files/bv/pdb1bv8.ent	A	61	LYS	 HG3
+../../PDB_files/entire_PDB/files/bv/pdb1bv8.ent	A	62	MET	 HE1	 HE2	 HE3
+../../PDB_files/entire_PDB/files/bv/pdb1bv8.ent	A	62	MET	 HB3
+../../PDB_files/entire_PDB/files/bv/pdb1bv8.ent	A	64	GLU	 HB3
+../../PDB_files/entire_PDB/files/bv/pdb1bv8.ent	A	65	ARG	HH11
+../../PDB_files/entire_PDB/files/bv/pdb1bv8.ent	A	65	ARG	 HG3
+../../PDB_files/entire_PDB/files/bv/pdb1bv8.ent	A	66	SER	 HB3
+../../PDB_files/entire_PDB/files/bv/pdb1bv8.ent	A	67	ASN	HD21	HD22
+../../PDB_files/entire_PDB/files/bv/pdb1bv8.ent	A	67	ASN	 HB3
+../../PDB_files/entire_PDB/files/bv/pdb1bv8.ent	A	68	HIS	 HB3
+../../PDB_files/entire_PDB/files/bv/pdb1bv8.ent	A	71	ARG	HH11	HH12
+../../PDB_files/entire_PDB/files/bv/pdb1bv8.ent	A	71	ARG	HH21
+../../PDB_files/entire_PDB/files/bv/pdb1bv8.ent	A	71	ARG	 HB3
+../../PDB_files/entire_PDB/files/bv/pdb1bv8.ent	A	73	GLU	 HG3
+../../PDB_files/entire_PDB/files/bv/pdb1bv8.ent	A	75	SER	 HB3
+../../PDB_files/entire_PDB/files/bv/pdb1bv8.ent	A	76	SER	 HB3
+../../PDB_files/entire_PDB/files/bv/pdb1bv8.ent	A	81	ILE	HG13
+../../PDB_files/entire_PDB/files/bv/pdb1bv8.ent	A	82	TYR	 HB3
+../../PDB_files/entire_PDB/files/bv/pdb1bv8.ent	A	83	LEU	HD11	HD12	HD13
+../../PDB_files/entire_PDB/files/bv/pdb1bv8.ent	A	83	LEU	HD21	HD22	HD23
+../../PDB_files/entire_PDB/files/bv/pdb1bv8.ent	A	84	ASP	 HB3
+../../PDB_files/entire_PDB/files/bv/pdb1bv8.ent	A	85	LYS	 HZ1	 HZ2
+../../PDB_files/entire_PDB/files/bv/pdb1bv8.ent	A	85	LYS	 HB3
+../../PDB_files/entire_PDB/files/bv/pdb1bv8.ent	A	88	ASN	 HB3
+../../PDB_files/entire_PDB/files/bv/pdb1bv8.ent	A	89	GLN	HE21	HE22
+../../PDB_files/entire_PDB/files/bv/pdb1bv8.ent	A	89	GLN	 HG3
+../../PDB_files/entire_PDB/files/bv/pdb1bv8.ent	A	92	SER	 HB3
+../../PDB_files/entire_PDB/files/bv/pdb1bv8.ent	A	94	PHE	 HB3
+../../PDB_files/entire_PDB/files/bv/pdb1bv8.ent	A	99	GLN	HE21	HE22
+../../PDB_files/entire_PDB/files/bv/pdb1bv8.ent	A	100	ASP	 HB3
+../../PDB_files/entire_PDB/files/bv/pdb1bv8.ent	A	101	VAL	HG11	HG12	HG13
+../../PDB_files/entire_PDB/files/bv/pdb1bv8.ent	A	101	VAL	HG21	HG22	HG23
+../../PDB_files/entire_PDB/files/bv/pdb1bv8.ent	A	103	VAL	HG11	HG12	HG13
+../../PDB_files/entire_PDB/files/bv/pdb1bv8.ent	A	104	ARG	HH11	HH12
+../../PDB_files/entire_PDB/files/bv/pdb1bv8.ent	A	104	ARG	HH21
+../../PDB_files/entire_PDB/files/bv/pdb1bv8.ent	A	105	ASP	 HB3
+../../PDB_files/entire_PDB/files/bv/pdb1bv8.ent	A	107	LYS	 HZ1	 HZ2
+../../PDB_files/entire_PDB/files/bv/pdb1bv8.ent	A	107	LYS	 HD3
+../../PDB_files/entire_PDB/files/bv/pdb1bv8.ent	A	110	ILE	HG21	HG22	HG23
+../../PDB_files/entire_PDB/files/bv/pdb1bv8.ent	A	110	ILE	HD11	HD12	HD13
+../../PDB_files/entire_PDB/files/bv/pdb1bv8.ent	A	112	LYS	 HG3
+../../PDB_files/entire_PDB/files/bv/pdb1bv8.ent	A	113	VAL	HG11	HG12	HG13
+../../PDB_files/entire_PDB/files/bv/pdb1bv8.ent	A	114	TYR	 HB3
+../../PDB_files/entire_PDB/files/bv/pdb1bv8.ent	A	116	TYR	 HB3
+../../PDB_files/entire_PDB/files/bv/pdb1bv8.ent	A	117	TYR	 HB3
+../../PDB_files/entire_PDB/files/bv/pdb1bv8.ent	A	118	GLU	 HB3
+../../PDB_files/entire_PDB/files/bv/pdb1bv8.ent	A	119	THR	HG21	HG22	HG23
+../../PDB_files/entire_PDB/files/bv/pdb1bv8.ent	A	122	PHE	 HB3
+../../PDB_files/entire_PDB/files/bv/pdb1bv8.ent	A	124	ILE	HD11	HD12	HD13
+../../PDB_files/entire_PDB/files/bv/pdb1bv8.ent	A	126	GLU	 HG3
+../../PDB_files/entire_PDB/files/bv/pdb1bv8.ent	A	127	TYR	 HB3
+../../PDB_files/entire_PDB/files/bv/pdb1bv8.ent	A	128	ASN	HD21	HD22
+../../PDB_files/entire_PDB/files/bv/pdb1bv8.ent	A	128	ASN	 HB3
+../../PDB_files/entire_PDB/files/bv/pdb1bv8.ent	A	133	LYS	 HZ1	 HZ2
+../../PDB_files/entire_PDB/files/bv/pdb1bv8.ent	A	133	LYS	 HD3
+../../PDB_files/entire_PDB/files/bv/pdb1bv8.ent	A	134	ASP	 HB3
+../../PDB_files/entire_PDB/files/bv/pdb1bv8.ent	A	135	LEU	HD21	HD22	HD23
+../../PDB_files/entire_PDB/files/bv/pdb1bv8.ent	A	135	LEU	 HB3
+../../PDB_files/entire_PDB/files/bv/pdb1bv8.ent	A	137	ASN	HD21	HD22
+../../PDB_files/entire_PDB/files/bv/pdb1bv8.ent	A	137	ASN	 HB3
+../../PDB_files/entire_PDB/files/bv/pdb1bv8.ent	A	138	ALA	HMB1	HMB2	HMB3
+../../PDB_files/entire_PDB/files/bx/pdb1bxo.ent	A	65	GLU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/bx/pdb1bxo.ent	A	203	GLN	 HB2	 HB3
+../../PDB_files/entire_PDB/files/bx/pdb1bxo.ent	A	238	GLN	 HB2	 HB3
+../../PDB_files/entire_PDB/files/bx/pdb1bxo.ent	A	278	GLY	 HA2	 HA3
+../../PDB_files/entire_PDB/files/bx/pdb1bxo.ent	A	279	ASP	 HB2	 HB3
+../../PDB_files/entire_PDB/files/bx/pdb3bxq.ent	B	13	GLU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/bx/pdb4bx3.ent	A	133	PRO	 HB2	 HB3
+../../PDB_files/entire_PDB/files/bx/pdb4bxd.ent	A	107	ASP	 HB2	 HB3
+../../PDB_files/entire_PDB/files/bz/pdb2bz6.ent	L	109	LYS	 HZ3
+../../PDB_files/entire_PDB/files/bz/pdb2bz6.ent	L	109	LYS	 HE2	 HE3
+../../PDB_files/entire_PDB/files/c1/pdb1c1n.ent	A	224	LYS	 HD2	 HD3
+../../PDB_files/entire_PDB/files/c1/pdb1c1p.ent	A	224	LYS	 HD2	 HD3
+../../PDB_files/entire_PDB/files/c1/pdb1c1q.ent	A	224	LYS	 HD2	 HD3
+../../PDB_files/entire_PDB/files/c1/pdb1c1r.ent	A	224	LYS	 HD2	 HD3
+../../PDB_files/entire_PDB/files/c1/pdb1c1t.ent	A	224	LYS	 HD2	 HD3
+../../PDB_files/entire_PDB/files/c1/pdb1c1u.ent	H	84	MET	 HG2	 HG3
+../../PDB_files/entire_PDB/files/c2/pdb1c2d.ent	A	224	LYS	 HD2	 HD3
+../../PDB_files/entire_PDB/files/c2/pdb1c2e.ent	A	224	LYS	 HD2	 HD3
+../../PDB_files/entire_PDB/files/c2/pdb1c2j.ent	A	224	LYS	 HD2	 HD3
+../../PDB_files/entire_PDB/files/c2/pdb1c2l.ent	A	224	LYS	 HD2	 HD3
+../../PDB_files/entire_PDB/files/c3/pdb3c3f.ent	C	21	ASN	 HB2	 HB3
+../../PDB_files/entire_PDB/files/c3/pdb3c3f.ent	D	21	ASN	 HB2	 HB3
+../../PDB_files/entire_PDB/files/c3/pdb3c3g.ent	A	3	LYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/c3/pdb3c3g.ent	A	6	GLU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/c3/pdb3c3h.ent	A	3	LYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/c3/pdb3c3h.ent	A	6	GLU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/c3/pdb3c3h.ent	A	8	LYS	 HE2	 HE3
+../../PDB_files/entire_PDB/files/c3/pdb3c3h.ent	A	33	ARG	 HB2	 HB3
+../../PDB_files/entire_PDB/files/c5/pdb1c5x.ent	B	116	ARG	 HG2	 HG3
+../../PDB_files/entire_PDB/files/c5/pdb3c5n.ent	A	291	ARG	 HB2	 HB3
+../../PDB_files/entire_PDB/files/c7/pdb1c75.ent	A	31	LYS	 HG3
+../../PDB_files/entire_PDB/files/ca/pdb2cal.ent	A	1016	LYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/ca/pdb2cal.ent	A	1025	LYS	 HE2	 HE3
+../../PDB_files/entire_PDB/files/ca/pdb2cal.ent	A	1099	MET	 HG2	 HG3
+../../PDB_files/entire_PDB/files/ca/pdb2cal.ent	A	1114	VAL	HG11	HG12	HG13
+../../PDB_files/entire_PDB/files/ca/pdb2cal.ent	A	1114	VAL	HG21	HG22	HG23
+../../PDB_files/entire_PDB/files/ca/pdb2cal.ent	A	1143	MET	 HE1	 HE2	 HE3
+../../PDB_files/entire_PDB/files/ca/pdb2cal.ent	A	1151	LYS	 HE2	 HE3
+../../PDB_files/entire_PDB/files/ca/pdb2cal.ent	A	1155	LYS	 HE2	 HE3
+../../PDB_files/entire_PDB/files/cb/pdb1cbn.ent	A	10	ARG	 HB2	 HB3
+../../PDB_files/entire_PDB/files/cb/pdb1cbn.ent	A	43	ASP	 HB2	 HB3
+../../PDB_files/entire_PDB/files/ce/pdb1cex.ent	A	57	SER	 HB2	 HB3
+../../PDB_files/entire_PDB/files/ce/pdb1cex.ent	A	61	SER	 HB2	 HB3
+../../PDB_files/entire_PDB/files/ce/pdb1cex.ent	A	104	GLN	 HB2	 HB3
+../../PDB_files/entire_PDB/files/ce/pdb1cex.ent	A	120	SER	 HB2	 HB3
+../../PDB_files/entire_PDB/files/ce/pdb1cex.ent	A	129	SER	 HB2	 HB3
+../../PDB_files/entire_PDB/files/ce/pdb1cex.ent	A	133	LEU	HD11	HD12	HD13
+../../PDB_files/entire_PDB/files/ce/pdb1cex.ent	A	133	LEU	HD21	HD22	HD23
+../../PDB_files/entire_PDB/files/ce/pdb1cex.ent	A	133	LEU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/ce/pdb1cex.ent	A	138	ARG	HH11	HH12
+../../PDB_files/entire_PDB/files/ce/pdb1cex.ent	A	138	ARG	HH21	HH22
+../../PDB_files/entire_PDB/files/ce/pdb1cex.ent	A	138	ARG	 HG2	 HG3
+../../PDB_files/entire_PDB/files/ce/pdb1cex.ent	A	151	LYS	 HE2	 HE3
+../../PDB_files/entire_PDB/files/ce/pdb1cex.ent	A	181	SER	 HB2	 HB3
+../../PDB_files/entire_PDB/files/cf/pdb2cf8.ent	H	75	ARG	 HB2	 HB3
+../../PDB_files/entire_PDB/files/cf/pdb2cfd.ent	B	602	MET	 HB2	 HB3
+../../PDB_files/entire_PDB/files/cf/pdb2cfk.ent	A	602	MET	 HB2	 HB3
+../../PDB_files/entire_PDB/files/cf/pdb2cfl.ent	A	602	MET	 HB2	 HB3
+../../PDB_files/entire_PDB/files/cg/pdb2cg0.ent	A	602	MET	 HB2	 HB3
+../../PDB_files/entire_PDB/files/cg/pdb2cg1.ent	A	491	THR	HG21	HG22	HG23
+../../PDB_files/entire_PDB/files/cg/pdb2cg1.ent	A	602	MET	 HB2	 HB3
+../../PDB_files/entire_PDB/files/cm/pdb6cmh.ent	A	17	LEU	HD11	HD12	HD13
+../../PDB_files/entire_PDB/files/cm/pdb6cmh.ent	A	17	LEU	HD21	HD22	HD23
+../../PDB_files/entire_PDB/files/cm/pdb6cmh.ent	A	17	LEU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/cn/pdb2cn0.ent	H	75	ARG	 HB2	 HB3
+../../PDB_files/entire_PDB/files/cn/pdb4cn8.ent	A	46	ALA	HMB1	HMB2	HMB3
+../../PDB_files/entire_PDB/files/co/pdb1cod.ent	A	1	LEU	HD11	HD12	HD13
+../../PDB_files/entire_PDB/files/co/pdb1cod.ent	A	1	LEU	HD21	HD22	HD23
+../../PDB_files/entire_PDB/files/co/pdb1cod.ent	A	3	CYS	 HB3
+../../PDB_files/entire_PDB/files/co/pdb1cod.ent	A	4	HIS	 HB3
+../../PDB_files/entire_PDB/files/co/pdb1cod.ent	A	5	ASN	HD21	HD22
+../../PDB_files/entire_PDB/files/co/pdb1cod.ent	A	6	GLN	HE21	HE22
+../../PDB_files/entire_PDB/files/co/pdb1cod.ent	A	6	GLN	 HG2	 HG3
+../../PDB_files/entire_PDB/files/co/pdb1cod.ent	A	7	GLN	HE21	HE22
+../../PDB_files/entire_PDB/files/co/pdb1cod.ent	A	7	GLN	 HB2	 HB3
+../../PDB_files/entire_PDB/files/co/pdb1cod.ent	A	10	GLN	 HB2	 HB3
+../../PDB_files/entire_PDB/files/co/pdb1cod.ent	A	15	THR	HG21	HG22	HG23
+../../PDB_files/entire_PDB/files/co/pdb1cod.ent	A	16	GLY	 HA2	 HA3
+../../PDB_files/entire_PDB/files/co/pdb1cod.ent	A	18	SER	 HB2
+../../PDB_files/entire_PDB/files/co/pdb1cod.ent	A	19	GLY	 HA2	 HA3
+../../PDB_files/entire_PDB/files/co/pdb1cod.ent	A	20	GLY	 HA2	 HA3
+../../PDB_files/entire_PDB/files/co/pdb1cod.ent	A	21	GLU	 HB2
+../../PDB_files/entire_PDB/files/co/pdb1cod.ent	A	22	THR	HG21
+../../PDB_files/entire_PDB/files/co/pdb1cod.ent	A	23	ASN	HD21	HD22
+../../PDB_files/entire_PDB/files/co/pdb1cod.ent	A	23	ASN	 HB2	 HB3
+../../PDB_files/entire_PDB/files/co/pdb1cod.ent	A	26	LYS	 HZ1	 HZ2	 HZ3
+../../PDB_files/entire_PDB/files/co/pdb1cod.ent	A	27	LYS	 HG3
+../../PDB_files/entire_PDB/files/co/pdb1cod.ent	A	28	ARG	HH11	HH12
+../../PDB_files/entire_PDB/files/co/pdb1cod.ent	A	28	ARG	HH21	HH22
+../../PDB_files/entire_PDB/files/co/pdb1cod.ent	A	28	ARG	 HB2	 HB3
+../../PDB_files/entire_PDB/files/co/pdb1cod.ent	A	30	ARG	HH11	HH12
+../../PDB_files/entire_PDB/files/co/pdb1cod.ent	A	30	ARG	HH21	HH22
+../../PDB_files/entire_PDB/files/co/pdb1cod.ent	A	31	ASP	 HB2	 HB3
+../../PDB_files/entire_PDB/files/co/pdb1cod.ent	A	33	ARG	HH11	HH12
+../../PDB_files/entire_PDB/files/co/pdb1cod.ent	A	33	ARG	HH21	HH22
+../../PDB_files/entire_PDB/files/co/pdb1cod.ent	A	33	ARG	 HG2	 HG3
+../../PDB_files/entire_PDB/files/co/pdb1cod.ent	A	36	ARG	HH11	HH12
+../../PDB_files/entire_PDB/files/co/pdb1cod.ent	A	36	ARG	HH21	HH22
+../../PDB_files/entire_PDB/files/co/pdb1cod.ent	A	36	ARG	 HB2	 HB3
+../../PDB_files/entire_PDB/files/co/pdb1cod.ent	A	40	GLY	 HA2	 HA3
+../../PDB_files/entire_PDB/files/co/pdb1cod.ent	A	44	PRO	 HB2
+../../PDB_files/entire_PDB/files/co/pdb1cod.ent	A	44	PRO	 HG2	 HG3
+../../PDB_files/entire_PDB/files/co/pdb1cod.ent	A	44	PRO	 HD2	 HD3
+../../PDB_files/entire_PDB/files/co/pdb1cod.ent	A	45	SER	 HB2	 HB3
+../../PDB_files/entire_PDB/files/co/pdb1cod.ent	A	47	LYS	 HB3
+../../PDB_files/entire_PDB/files/co/pdb1cod.ent	A	47	LYS	 HG2	 HG3
+../../PDB_files/entire_PDB/files/co/pdb1cod.ent	A	47	LYS	 HD2
+../../PDB_files/entire_PDB/files/co/pdb1cod.ent	A	47	LYS	 HE2	 HE3
+../../PDB_files/entire_PDB/files/co/pdb1cod.ent	A	48	ASN	HD21	HD22
+../../PDB_files/entire_PDB/files/co/pdb1cod.ent	A	48	ASN	 HB2	 HB3
+../../PDB_files/entire_PDB/files/co/pdb1cod.ent	A	50	ILE	HG12	HG13
+../../PDB_files/entire_PDB/files/co/pdb1cod.ent	A	51	GLU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/co/pdb1cod.ent	A	53	ASN	HD21	HD22
+../../PDB_files/entire_PDB/files/co/pdb1cod.ent	A	53	ASN	 HB2	 HB3
+../../PDB_files/entire_PDB/files/co/pdb1cod.ent	A	58	ASP	 HB2	 HB3
+../../PDB_files/entire_PDB/files/co/pdb1cod.ent	A	59	ARG	HH12
+../../PDB_files/entire_PDB/files/co/pdb1cod.ent	A	59	ARG	HH22
+../../PDB_files/entire_PDB/files/co/pdb1cod.ent	A	62	ASN	HD21	HD22
+../../PDB_files/entire_PDB/files/cv/pdb4cv4.ent	A	49	GLN	 HG2	 HG3
+../../PDB_files/entire_PDB/files/cv/pdb4cv4.ent	A	105	GLU	 HG2	 HG3
+../../PDB_files/entire_PDB/files/cx/pdb1cxn.ent	A	52	MET	 HE2	 HE3
+../../PDB_files/entire_PDB/files/cx/pdb1cxn.ent	A	52	MET	 HG2	 HG3
+../../PDB_files/entire_PDB/files/cx/pdb1cxn.ent	A	55	ASN	HD22
+../../PDB_files/entire_PDB/files/cx/pdb1cxn.ent	A	55	ASN	 HB2	 HB3
+../../PDB_files/entire_PDB/files/cy/pdb2cyk.ent	A	70	ALA	HMB1	HMB2	HMB3
+../../PDB_files/entire_PDB/files/d1/pdb3d1i.ent	A	61	MET	 HB2	 HB3
+../../PDB_files/entire_PDB/files/d1/pdb3d1i.ent	A	204	GLU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/d1/pdb3d1i.ent	A	213	GLU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/d1/pdb3d1i.ent	A	216	GLU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/d1/pdb3d1i.ent	A	275	GLN	 HB2	 HB3
+../../PDB_files/entire_PDB/files/d1/pdb3d1i.ent	A	278	ARG	 HB2	 HB3
+../../PDB_files/entire_PDB/files/d1/pdb3d1i.ent	B	61	MET	 HB2	 HB3
+../../PDB_files/entire_PDB/files/d1/pdb3d1i.ent	B	88	LEU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/d1/pdb3d1i.ent	B	204	GLU	 HG2	 HG3
+../../PDB_files/entire_PDB/files/d1/pdb3d1i.ent	B	216	GLU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/d1/pdb3d1i.ent	B	222	ASN	 HB2	 HB3
+../../PDB_files/entire_PDB/files/d1/pdb3d1i.ent	B	316	ARG	 HB2	 HB3
+../../PDB_files/entire_PDB/files/d1/pdb3d1i.ent	B	348	ARG	 HB2	 HB3
+../../PDB_files/entire_PDB/files/d5/pdb1d5h.ent	B	85	ARG	HH11	HH12
+../../PDB_files/entire_PDB/files/d5/pdb1d5h.ent	B	85	ARG	HH21	HH22
+../../PDB_files/entire_PDB/files/d9/pdb4d9w.ent	A	182	LYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/dg/pdb1dgu.ent	A	72	SER	 HB2	 HB3
+../../PDB_files/entire_PDB/files/dg/pdb1dgv.ent	A	72	SER	 HB2	 HB3
+../../PDB_files/entire_PDB/files/dh/pdb4dhx.ent	D	1234	GLU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/dh/pdb4dhx.ent	E	60	GLU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/dh/pdb4dhx.ent	E	100	SER	 HB2	 HB3
+../../PDB_files/entire_PDB/files/dn/pdb3dnj.ent	C	3	PHE	 HB2	 HB3
+../../PDB_files/entire_PDB/files/dn/pdb3dnj.ent	D	3	PHE	 HB2	 HB3
+../../PDB_files/entire_PDB/files/ds/pdb1dsw.ent	A	1	ALA	HMB1	HMB2	HMB3
+../../PDB_files/entire_PDB/files/ds/pdb1dsw.ent	A	1	ALA	 HM1	 HM2	 HM3
+../../PDB_files/entire_PDB/files/dx/pdb1dx0.ent	A	191	THR	HG21	HG22	HG23
+../../PDB_files/entire_PDB/files/dy/pdb3dyb.ent	A	250	ARG	 HG2	 HG3
+../../PDB_files/entire_PDB/files/e3/pdb2e35.ent	A	30	HIS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/e3/pdb4e3y.ent	A	1131	ARG	 HB3
+../../PDB_files/entire_PDB/files/e8/pdb3e8m.ent	C	164	GLN	 HB2	 HB3
+../../PDB_files/entire_PDB/files/e9/pdb1e9g.ent	A	255	LYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/e9/pdb1e9g.ent	A	274	LYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/e9/pdb1e9g.ent	B	76	LYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/e9/pdb1e9g.ent	B	183	ARG	HH11	HH12
+../../PDB_files/entire_PDB/files/e9/pdb1e9g.ent	B	183	ARG	HH21	HH22
+../../PDB_files/entire_PDB/files/e9/pdb1e9g.ent	B	183	ARG	 HG2	 HG3
+../../PDB_files/entire_PDB/files/e9/pdb1e9k.ent	A	11	ASN	HD21	HD22
+../../PDB_files/entire_PDB/files/e9/pdb1e9k.ent	A	11	ASN	 HB2	 HB3
+../../PDB_files/entire_PDB/files/e9/pdb4e9j.ent	B	195	GLU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/e9/pdb4e9j.ent	B	195	GLU	 HG3
+../../PDB_files/entire_PDB/files/ed/pdb4edq.ent	A	174	ASN	HD21	HD22
+../../PDB_files/entire_PDB/files/ed/pdb4edq.ent	A	174	ASN	 HB3
+../../PDB_files/entire_PDB/files/ee/pdb1ee4.ent	A	257	GLN	HE21
+../../PDB_files/entire_PDB/files/ee/pdb1ee5.ent	A	257	GLN	HE22
+../../PDB_files/entire_PDB/files/eg/pdb1egp.ent	A	8	LYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/eg/pdb1egp.ent	B	49	TYR	 HB2	 HB3
+../../PDB_files/entire_PDB/files/eg/pdb4egu.ent	A	20	LYS	 HZ1
+../../PDB_files/entire_PDB/files/eg/pdb4egu.ent	A	20	LYS	 HE2	 HE3
+../../PDB_files/entire_PDB/files/eg/pdb4egu.ent	A	110	LYS	 HZ3
+../../PDB_files/entire_PDB/files/eg/pdb4egu.ent	A	110	LYS	 HE2	 HE3
+../../PDB_files/entire_PDB/files/eh/pdb1ehj.ent	A	1	ALA	HMB1	HMB2	HMB3
+../../PDB_files/entire_PDB/files/eh/pdb1ehj.ent	A	1	ALA	 HM2
+../../PDB_files/entire_PDB/files/ei/pdb4eie.ent	A	39	ASN	 HB2	 HB3
+../../PDB_files/entire_PDB/files/ei/pdb4eir.ent	A	85	LYS	 HZ2
+../../PDB_files/entire_PDB/files/ei/pdb4eir.ent	A	85	LYS	 HE2	 HE3
+../../PDB_files/entire_PDB/files/ei/pdb4eir.ent	A	131	LYS	 HZ1
+../../PDB_files/entire_PDB/files/ei/pdb4eir.ent	A	131	LYS	 HE2	 HE3
+../../PDB_files/entire_PDB/files/ej/pdb1ejg.ent	A	13	PHE	 HB2	 HB3
+../../PDB_files/entire_PDB/files/ej/pdb1ejg.ent	A	23	GLU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/ej/pdb1ejg.ent	A	29	TYR	 HB2	 HB3
+../../PDB_files/entire_PDB/files/ej/pdb1ejg.ent	A	36	PRO	 HD2	 HD3
+../../PDB_files/entire_PDB/files/ej/pdb1ejg.ent	A	46	ASN	 HB2	 HB3
+../../PDB_files/entire_PDB/files/el/pdb4elk.ent	B	176	GLN	HE21	HE22
+../../PDB_files/entire_PDB/files/el/pdb4elk.ent	B	181	GLN	HE21	HE22
+../../PDB_files/entire_PDB/files/el/pdb4elk.ent	B	183	ALA	HMB1	HMB2	HMB3
+../../PDB_files/entire_PDB/files/el/pdb4elk.ent	B	185	ASN	HD21	HD22
+../../PDB_files/entire_PDB/files/el/pdb4elk.ent	B	185	ASN	 HB2	 HB3
+../../PDB_files/entire_PDB/files/el/pdb4elk.ent	D	243	ARG	HH11	HH12
+../../PDB_files/entire_PDB/files/el/pdb4elk.ent	D	243	ARG	HH21	HH22
+../../PDB_files/entire_PDB/files/em/pdb4emi.ent	A	403	ARG	 HB2	 HB3
+../../PDB_files/entire_PDB/files/em/pdb4emj.ent	A	1	MET	 HB2	 HB3
+../../PDB_files/entire_PDB/files/en/pdb3enj.ent	A	437	LYS	 HG2	 HG3
+../../PDB_files/entire_PDB/files/er/pdb1era.ent	A	47	LYS	 HZ1	 HZ2	 HZ3
+../../PDB_files/entire_PDB/files/er/pdb1era.ent	A	47	LYS	 HG2	 HG3
+../../PDB_files/entire_PDB/files/er/pdb1era.ent	A	47	LYS	 HD2	 HD3
+../../PDB_files/entire_PDB/files/er/pdb1era.ent	A	47	LYS	 HE2
+../../PDB_files/entire_PDB/files/es/pdb4es1.ent	A	71	LEU	HD11	HD12	HD13
+../../PDB_files/entire_PDB/files/es/pdb4es1.ent	A	71	LEU	HD21	HD22	HD23
+../../PDB_files/entire_PDB/files/es/pdb4es1.ent	A	71	LEU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/et/pdb1etn.ent	A	17	CYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/et/pdb4etn.ent	A	11	THR	HG21	HG22	HG23
+../../PDB_files/entire_PDB/files/eu/pdb1euw.ent	A	35	ALA	HMB1	HMB2	HMB3
+../../PDB_files/entire_PDB/files/eu/pdb1euw.ent	A	99	ILE	HG12	HG13
+../../PDB_files/entire_PDB/files/ev/pdb4evz.ent	A	25	ASN	 HB2	 HB3
+../../PDB_files/entire_PDB/files/ev/pdb4evz.ent	B	59	ARG	 HB2	 HB3
+../../PDB_files/entire_PDB/files/ez/pdb3eza.ent	A	97	HIS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/f0/pdb1f03.ent	A	3	ALA	HMB1	HMB2	HMB3
+../../PDB_files/entire_PDB/files/f0/pdb1f03.ent	A	3	ALA	 HM1	 HM2	 HM3
+../../PDB_files/entire_PDB/files/f0/pdb1f07.ent	B	1129	LYS	 HZ1	 HZ2
+../../PDB_files/entire_PDB/files/f0/pdb1f07.ent	B	1176	LYS	 HZ2	 HZ3
+../../PDB_files/entire_PDB/files/f0/pdb1f07.ent	B	1186	LYS	 HZ2	 HZ3
+../../PDB_files/entire_PDB/files/f0/pdb1f07.ent	B	1285	LYS	 HZ2	 HZ3
+../../PDB_files/entire_PDB/files/f0/pdb1f07.ent	B	1307	LYS	 HZ2	 HZ3
+../../PDB_files/entire_PDB/files/f0/pdb1f07.ent	C	2122	ARG	HH12
+../../PDB_files/entire_PDB/files/f0/pdb1f07.ent	C	2122	ARG	HH21	HH22
+../../PDB_files/entire_PDB/files/f0/pdb1f07.ent	C	2194	LYS	 HZ3
+../../PDB_files/entire_PDB/files/f0/pdb1f07.ent	C	2255	LYS	 HZ2	 HZ3
+../../PDB_files/entire_PDB/files/f0/pdb1f07.ent	C	2309	LYS	 HZ3
+../../PDB_files/entire_PDB/files/f0/pdb1f07.ent	C	2312	LYS	 HZ1	 HZ3
+../../PDB_files/entire_PDB/files/f0/pdb1f07.ent	D	3021	LYS	 HZ1	 HZ3
+../../PDB_files/entire_PDB/files/f0/pdb1f07.ent	D	3129	LYS	 HZ1	 HZ3
+../../PDB_files/entire_PDB/files/f0/pdb1f07.ent	D	3194	LYS	 HZ2	 HZ3
+../../PDB_files/entire_PDB/files/f0/pdb1f07.ent	D	3247	LYS	 HZ2	 HZ3
+../../PDB_files/entire_PDB/files/f0/pdb1f07.ent	D	3255	LYS	 HZ2	 HZ3
+../../PDB_files/entire_PDB/files/f0/pdb1f07.ent	D	3307	LYS	 HZ1	 HZ3
+../../PDB_files/entire_PDB/files/f1/pdb4f18.ent	A	1238	GLY	 HA2	 HA3
+../../PDB_files/entire_PDB/files/f1/pdb4f19.ent	A	1238	GLY	 HA2	 HA3
+../../PDB_files/entire_PDB/files/f4/pdb3f4z.ent	A	4	GLU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/f4/pdb3f4z.ent	A	30	LYS	 HD2	 HD3
+../../PDB_files/entire_PDB/files/f4/pdb3f4z.ent	A	38	LEU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/f4/pdb3f4z.ent	B	6	TRP	 HB2	 HB3
+../../PDB_files/entire_PDB/files/f4/pdb3f4z.ent	B	25	GLN	 HB2	 HB3
+../../PDB_files/entire_PDB/files/f4/pdb3f4z.ent	C	4	GLU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/f4/pdb3f4z.ent	C	30	LYS	 HG2	 HG3
+../../PDB_files/entire_PDB/files/f4/pdb3f4z.ent	C	37	GLU	 HG2	 HG3
+../../PDB_files/entire_PDB/files/f4/pdb3f4z.ent	C	38	LEU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/f8/pdb3f86.ent	A	8	LYS	 HE2	 HE3
+../../PDB_files/entire_PDB/files/f8/pdb3f86.ent	B	3	LYS	 HG2	 HG3
+../../PDB_files/entire_PDB/files/f8/pdb3f86.ent	B	15	LYS	 HD2	 HD3
+../../PDB_files/entire_PDB/files/f8/pdb3f86.ent	C	1	ARG	 HB2	 HB3
+../../PDB_files/entire_PDB/files/f8/pdb3f86.ent	C	3	LYS	 HE2	 HE3
+../../PDB_files/entire_PDB/files/f8/pdb3f86.ent	D	3	LYS	 HG2	 HG3
+../../PDB_files/entire_PDB/files/f8/pdb3f86.ent	E	1	ARG	 HB2	 HB3
+../../PDB_files/entire_PDB/files/f8/pdb3f86.ent	F	1	ARG	 HG2	 HG3
+../../PDB_files/entire_PDB/files/f8/pdb3f86.ent	F	3	LYS	 HE2	 HE3
+../../PDB_files/entire_PDB/files/f8/pdb3f86.ent	F	28	LYS	 HD2	 HD3
+../../PDB_files/entire_PDB/files/f8/pdb3f86.ent	G	1	ARG	 HG2	 HG3
+../../PDB_files/entire_PDB/files/f8/pdb3f86.ent	G	28	LYS	 HD2	 HD3
+../../PDB_files/entire_PDB/files/f8/pdb3f86.ent	H	1	ARG	 HB2	 HB3
+../../PDB_files/entire_PDB/files/f8/pdb3f86.ent	H	15	LYS	 HD2	 HD3
+../../PDB_files/entire_PDB/files/f8/pdb3f86.ent	H	27	LYS	 HE2	 HE3
+../../PDB_files/entire_PDB/files/f8/pdb3f87.ent	D	1	ARG	 HB2	 HB3
+../../PDB_files/entire_PDB/files/f8/pdb4f8l.ent	A	2	ASN	 HB2	 HB3
+../../PDB_files/entire_PDB/files/f8/pdb4f8o.ent	A	1	MET	 HB2	 HB3
+../../PDB_files/entire_PDB/files/f8/pdb4f8o.ent	A	2	ASN	 HB2	 HB3
+../../PDB_files/entire_PDB/files/f8/pdb4f8o.ent	A	138	LEU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/fa/pdb1far.ent	A	170	TYR	 HB2	 HB3
+../../PDB_files/entire_PDB/files/fd/pdb2fdn.ent	A	54	GLN	 HB2	 HB3
+../../PDB_files/entire_PDB/files/fe/pdb1fes.ent	A	35	LYS	 HZ3
+../../PDB_files/entire_PDB/files/fe/pdb1fes.ent	A	35	LYS	 HE2	 HE3
+../../PDB_files/entire_PDB/files/ff/pdb2ffk.ent	A	28	VAL	HG23
+../../PDB_files/entire_PDB/files/ff/pdb2ffk.ent	A	197	VAL	HG23
+../../PDB_files/entire_PDB/files/fk/pdb4fk9.ent	A	35	HIS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/fm/pdb1fmm.ent	S	101	VAL	HG11	HG12	HG13
+../../PDB_files/entire_PDB/files/fm/pdb1fmm.ent	S	101	VAL	HG21	HG22	HG23
+../../PDB_files/entire_PDB/files/fn/pdb1fna.ent	A	6	ARG	 HM1	 HM2	 HM3
+../../PDB_files/entire_PDB/files/fn/pdb1fna.ent	A	30	ARG	HH11	HH12
+../../PDB_files/entire_PDB/files/fn/pdb1fna.ent	A	30	ARG	HH21	HH22
+../../PDB_files/entire_PDB/files/fo/pdb3fo3.ent	A	46	GLU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/fo/pdb3fo3.ent	A	52	ARG	 HB2	 HB3
+../../PDB_files/entire_PDB/files/fo/pdb3fo3.ent	A	316	ARG	 HB2	 HB3
+../../PDB_files/entire_PDB/files/fo/pdb3fo3.ent	A	456	LYS	 HG2	 HG3
+../../PDB_files/entire_PDB/files/fo/pdb3fo3.ent	B	316	ARG	 HB2	 HB3
+../../PDB_files/entire_PDB/files/fq/pdb4fqw.ent	A	64	VAL	HG22
+../../PDB_files/entire_PDB/files/fq/pdb4fqw.ent	A	75	LYS	 HZ1	 HZ2
+../../PDB_files/entire_PDB/files/fq/pdb4fqw.ent	A	75	LYS	 HE2	 HE3
+../../PDB_files/entire_PDB/files/fq/pdb4fqw.ent	A	124	LYS	 HZ3
+../../PDB_files/entire_PDB/files/fq/pdb4fqw.ent	A	124	LYS	 HE2	 HE3
+../../PDB_files/entire_PDB/files/fq/pdb4fqw.ent	A	292	GLN	HE22
+../../PDB_files/entire_PDB/files/fq/pdb4fqw.ent	A	292	GLN	 HG2	 HG3
+../../PDB_files/entire_PDB/files/fr/pdb4fra.ent	A	173	LEU	HD22	HD23
+../../PDB_files/entire_PDB/files/fr/pdb4frd.ent	A	125	LYS	 HZ3
+../../PDB_files/entire_PDB/files/fr/pdb4frd.ent	A	125	LYS	 HE2	 HE3
+../../PDB_files/entire_PDB/files/fr/pdb4frd.ent	A	324	LEU	HD11	HD12	HD13
+../../PDB_files/entire_PDB/files/fr/pdb4frd.ent	A	324	LEU	HD21	HD22	HD23
+../../PDB_files/entire_PDB/files/fr/pdb4frd.ent	A	324	LEU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/fr/pdb4fre.ent	A	75	LYS	 HZ1	 HZ2
+../../PDB_files/entire_PDB/files/fr/pdb4fre.ent	A	75	LYS	 HE2	 HE3
+../../PDB_files/entire_PDB/files/fr/pdb4fre.ent	A	82	LYS	 HZ2	 HZ3
+../../PDB_files/entire_PDB/files/fr/pdb4fre.ent	A	82	LYS	 HE2	 HE3
+../../PDB_files/entire_PDB/files/fr/pdb4frh.ent	A	82	LYS	 HZ2	 HZ3
+../../PDB_files/entire_PDB/files/fr/pdb4frh.ent	A	82	LYS	 HE2	 HE3
+../../PDB_files/entire_PDB/files/fr/pdb4frh.ent	A	329	LEU	HD11	HD12
+../../PDB_files/entire_PDB/files/fr/pdb4frl.ent	A	346	LYS	 HZ2	 HZ3
+../../PDB_files/entire_PDB/files/fr/pdb4frl.ent	A	346	LYS	 HE2	 HE3
+../../PDB_files/entire_PDB/files/fr/pdb4fro.ent	A	179	LYS	 HZ2
+../../PDB_files/entire_PDB/files/fr/pdb4fro.ent	A	179	LYS	 HE2	 HE3
+../../PDB_files/entire_PDB/files/fr/pdb4frp.ent	A	179	LYS	 HZ2	 HZ3
+../../PDB_files/entire_PDB/files/fr/pdb4frp.ent	A	179	LYS	 HE2	 HE3
+../../PDB_files/entire_PDB/files/fu/pdb4fu9.ent	A	1	ILE	 HM1	 HM2
+../../PDB_files/entire_PDB/files/fu/pdb4fuc.ent	A	1	ILE	 HM1	 HM3
+../../PDB_files/entire_PDB/files/fu/pdb4fuh.ent	A	1	ILE	 HM1	 HM3
+../../PDB_files/entire_PDB/files/fy/pdb1fy4.ent	A	59	TYR	 HB2	 HB3
+../../PDB_files/entire_PDB/files/fy/pdb1fy4.ent	A	84	SER	 HB2	 HB3
+../../PDB_files/entire_PDB/files/fy/pdb1fy4.ent	A	86	SER	 HB2	 HB3
+../../PDB_files/entire_PDB/files/fy/pdb1fy4.ent	A	114	SER	 HB2	 HB3
+../../PDB_files/entire_PDB/files/fy/pdb1fy5.ent	A	59	TYR	 HB2	 HB3
+../../PDB_files/entire_PDB/files/fy/pdb1fy5.ent	A	84	SER	 HB2	 HB3
+../../PDB_files/entire_PDB/files/fy/pdb1fy5.ent	A	114	SER	 HB2	 HB3
+../../PDB_files/entire_PDB/files/fy/pdb2fyl.ent	A	69	GLU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/fy/pdb2fyl.ent	A	69	GLU	 HG2	 HG3
+../../PDB_files/entire_PDB/files/fy/pdb2fyl.ent	B	65	CYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/fy/pdb2fyl.ent	B	69	ASN	HD21	HD22
+../../PDB_files/entire_PDB/files/fy/pdb2fyl.ent	B	69	ASN	 HB2	 HB3
+../../PDB_files/entire_PDB/files/g1/pdb4g1q.ent	B	104	LYS	 HZ1	 HZ2	 HZ3
+../../PDB_files/entire_PDB/files/g1/pdb4g1q.ent	B	104	LYS	 HD2	 HD3
+../../PDB_files/entire_PDB/files/g1/pdb4g1q.ent	B	104	LYS	 HE2
+../../PDB_files/entire_PDB/files/g1/pdb4g1q.ent	B	224	GLU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/g1/pdb4g1q.ent	B	357	MET	 HE1	 HE2	 HE3
+../../PDB_files/entire_PDB/files/g1/pdb4g1q.ent	B	357	MET	 HB2	 HB3
+../../PDB_files/entire_PDB/files/g1/pdb4g1q.ent	B	357	MET	 HG3
+../../PDB_files/entire_PDB/files/g6/pdb1g66.ent	A	154	GLN	 HG2	 HG3
+../../PDB_files/entire_PDB/files/g7/pdb3g7a.ent	A	5	GLN	 HB2	 HB3
+../../PDB_files/entire_PDB/files/g7/pdb3g7a.ent	A	32	GLN	 HG2	 HG3
+../../PDB_files/entire_PDB/files/g7/pdb3g7a.ent	A	34	ARG	 HB2	 HB3
+../../PDB_files/entire_PDB/files/g7/pdb3g7a.ent	A	36	LEU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/gb/pdb1gbn.ent	A	217	ARG	HH12
+../../PDB_files/entire_PDB/files/gb/pdb1gbn.ent	A	217	ARG	HH21	HH22
+../../PDB_files/entire_PDB/files/gb/pdb1gbn.ent	B	217	ARG	HH12
+../../PDB_files/entire_PDB/files/gb/pdb1gbn.ent	B	217	ARG	HH21	HH22
+../../PDB_files/entire_PDB/files/gb/pdb1gbn.ent	C	217	ARG	HH12
+../../PDB_files/entire_PDB/files/gb/pdb1gbn.ent	C	217	ARG	HH21	HH22
+../../PDB_files/entire_PDB/files/gb/pdb1gbq.ent	A	44	LYS	 HZ1	 HZ3
+../../PDB_files/entire_PDB/files/gb/pdb1gbq.ent	A	44	LYS	 HD2	 HD3
+../../PDB_files/entire_PDB/files/gb/pdb1gbq.ent	A	44	LYS	 HE2	 HE3
+../../PDB_files/entire_PDB/files/gb/pdb4gbp.ent	A	194	ASP	 HB2	 HB3
+../../PDB_files/entire_PDB/files/gb/pdb4gbp.ent	A	195	PHE	 HB2	 HB3
+../../PDB_files/entire_PDB/files/gc/pdb1gci.ent	A	27	LYS	 HD2	 HD3
+../../PDB_files/entire_PDB/files/gc/pdb1gci.ent	A	206	GLN	 HB2	 HB3
+../../PDB_files/entire_PDB/files/gd/pdb1gdc.ent	A	27	LYS	 HZ2	 HZ3
+../../PDB_files/entire_PDB/files/gd/pdb1gdc.ent	A	27	LYS	 HD2	 HD3
+../../PDB_files/entire_PDB/files/gd/pdb1gdc.ent	A	27	LYS	 HE2	 HE3
+../../PDB_files/entire_PDB/files/gd/pdb4gdj.ent	A	337	CYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/gd/pdb4gdo.ent	C	1384	GLU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/gd/pdb4gdo.ent	C	1385	GLU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/gd/pdb4gdo.ent	C	1386	ARG	 HB2	 HB3
+../../PDB_files/entire_PDB/files/gd/pdb4gdo.ent	D	1380	HIS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/gd/pdb4gdo.ent	D	1418	LYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/gd/pdb4gdo.ent	D	1419	GLU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/gd/pdb4gdo.ent	D	1420	LEU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/gd/pdb4gdo.ent	E	1391	GLU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/gd/pdb4gdo.ent	E	1401	GLN	 HB2	 HB3
+../../PDB_files/entire_PDB/files/gd/pdb4gdo.ent	E	1404	GLU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/gd/pdb4gdo.ent	E	1408	GLN	 HB2	 HB3
+../../PDB_files/entire_PDB/files/gd/pdb4gdo.ent	E	1414	GLU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/gd/pdb4gdo.ent	E	1415	ARG	 HB2	 HB3
+../../PDB_files/entire_PDB/files/gd/pdb4gdo.ent	E	1418	LYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/gd/pdb4gdo.ent	E	1419	GLU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/gd/pdb4gdo.ent	E	1420	LEU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/gd/pdb4gdo.ent	F	1388	ARG	 HB2	 HB3
+../../PDB_files/entire_PDB/files/gd/pdb4gdo.ent	F	1389	LEU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/gd/pdb4gdo.ent	F	1391	GLU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/gd/pdb4gdo.ent	F	1393	GLU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/gd/pdb4gdo.ent	F	1396	LEU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/gd/pdb4gdo.ent	F	1400	ARG	 HB2	 HB3
+../../PDB_files/entire_PDB/files/gd/pdb4gdo.ent	F	1404	GLU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/gd/pdb4gdo.ent	F	1408	GLN	 HB2	 HB3
+../../PDB_files/entire_PDB/files/gd/pdb4gdo.ent	F	1412	GLN	 HB2	 HB3
+../../PDB_files/entire_PDB/files/gd/pdb4gdo.ent	F	1414	GLU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/gd/pdb4gdo.ent	F	1415	ARG	 HB2	 HB3
+../../PDB_files/entire_PDB/files/gd/pdb4gdx.ent	A	199	ARG	 HG2	 HG3
+../../PDB_files/entire_PDB/files/gg/pdb4gg2.ent	A	123	GLU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/gg/pdb4gg2.ent	A	199	ARG	 HB2	 HB3
+../../PDB_files/entire_PDB/files/gg/pdb4gg2.ent	A	340	GLU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/gh/pdb1ghv.ent	H	60	LYS	 HD2	 HD3
+../../PDB_files/entire_PDB/files/gh/pdb1ghv.ent	H	84	MET	 HB2	 HB3
+../../PDB_files/entire_PDB/files/gh/pdb1ghw.ent	H	84	MET	 HG2	 HG3
+../../PDB_files/entire_PDB/files/gh/pdb1ghx.ent	H	84	MET	 HG2	 HG3
+../../PDB_files/entire_PDB/files/gh/pdb1ghy.ent	H	84	MET	 HG2	 HG3
+../../PDB_files/entire_PDB/files/gh/pdb1ghz.ent	A	224	LYS	 HD2	 HD3
+../../PDB_files/entire_PDB/files/gh/pdb1ghz.ent	A	230	LYS	 HG2	 HG3
+../../PDB_files/entire_PDB/files/gi/pdb1gi0.ent	A	224	LYS	 HD2	 HD3
+../../PDB_files/entire_PDB/files/gi/pdb1giw.ent	A	33	HIS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/gj/pdb1gj5.ent	H	84	MET	 HG2	 HG3
+../../PDB_files/entire_PDB/files/gj/pdb1gj7.ent	B	16	ILE	 HM1	 HM2	 HM3
+../../PDB_files/entire_PDB/files/gj/pdb1gj8.ent	A	10	LYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/go/pdb1go9.ent	A	13	HIS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/gq/pdb1gqv.ent	A	22	GLN	HE22
+../../PDB_files/entire_PDB/files/gq/pdb1gqv.ent	A	25	ASN	HD22
+../../PDB_files/entire_PDB/files/gq/pdb1gqv.ent	A	28	GLN	HE22
+../../PDB_files/entire_PDB/files/gq/pdb1gqv.ent	A	30	ILE	HG22	HG23
+../../PDB_files/entire_PDB/files/gq/pdb1gqv.ent	A	30	ILE	HD12	HD13
+../../PDB_files/entire_PDB/files/gq/pdb1gqv.ent	A	30	ILE	HG13
+../../PDB_files/entire_PDB/files/gq/pdb1gqv.ent	A	32	ASN	HD22
+../../PDB_files/entire_PDB/files/gq/pdb1gqv.ent	A	53	ASN	HD22
+../../PDB_files/entire_PDB/files/gq/pdb1gqv.ent	A	68	ARG	HH12
+../../PDB_files/entire_PDB/files/gq/pdb1gqv.ent	A	68	ARG	HH22
+../../PDB_files/entire_PDB/files/gq/pdb1gqv.ent	A	81	ILE	HG22	HG23
+../../PDB_files/entire_PDB/files/gq/pdb1gqv.ent	A	81	ILE	HD12	HD13
+../../PDB_files/entire_PDB/files/gq/pdb1gqv.ent	A	81	ILE	HG13
+../../PDB_files/entire_PDB/files/gq/pdb1gqv.ent	A	100	GLN	HE22
+../../PDB_files/entire_PDB/files/gq/pdb1gqv.ent	A	109	VAL	HG12	HG13
+../../PDB_files/entire_PDB/files/gq/pdb1gqv.ent	A	109	VAL	HG22	HG23
+../../PDB_files/entire_PDB/files/gq/pdb1gqv.ent	A	133	ILE	HG22	HG23
+../../PDB_files/entire_PDB/files/gq/pdb1gqv.ent	A	133	ILE	HD12	HD13
+../../PDB_files/entire_PDB/files/gq/pdb1gqv.ent	A	133	ILE	HG13
+../../PDB_files/entire_PDB/files/gs/pdb4gs9.ent	B	417	LYS	 HZ2
+../../PDB_files/entire_PDB/files/gs/pdb4gs9.ent	B	417	LYS	 HE2	 HE3
+../../PDB_files/entire_PDB/files/h4/pdb4h44.ent	B	39	VAL	HG11	HG12	HG13
+../../PDB_files/entire_PDB/files/h4/pdb4h44.ent	B	39	VAL	HG21	HG22	HG23
+../../PDB_files/entire_PDB/files/h5/pdb2h5c.ent	A	48	GLY	 HA2	 HA3
+../../PDB_files/entire_PDB/files/h5/pdb2h5c.ent	A	66	ILE	HG21	HG22	HG23
+../../PDB_files/entire_PDB/files/h5/pdb2h5d.ent	A	48	GLY	 HA2	 HA3
+../../PDB_files/entire_PDB/files/h5/pdb2h5d.ent	A	120	GLY	 HA2	 HA3
+../../PDB_files/entire_PDB/files/hc/pdb1hcc.ent	A	59	ILE	HG21	HG22	HG23
+../../PDB_files/entire_PDB/files/hc/pdb1hcc.ent	A	59	ILE	HD11	HD12	HD13
+../../PDB_files/entire_PDB/files/hc/pdb1hcc.ent	A	59	ILE	HG12	HG13
+../../PDB_files/entire_PDB/files/hc/pdb1hcd.ent	A	55	ILE	HG21	HG22	HG23
+../../PDB_files/entire_PDB/files/hc/pdb1hcd.ent	A	55	ILE	HD11	HD12	HD13
+../../PDB_files/entire_PDB/files/hc/pdb1hcd.ent	A	55	ILE	HG12	HG13
+../../PDB_files/entire_PDB/files/hc/pdb1hcd.ent	A	93	ILE	HG21	HG22	HG23
+../../PDB_files/entire_PDB/files/hc/pdb1hcd.ent	A	93	ILE	HD11	HD12	HD13
+../../PDB_files/entire_PDB/files/hc/pdb1hcd.ent	A	93	ILE	HG12	HG13
+../../PDB_files/entire_PDB/files/hc/pdb1hcd.ent	A	116	ILE	HG21	HG22	HG23
+../../PDB_files/entire_PDB/files/hc/pdb1hcd.ent	A	116	ILE	HD11	HD12	HD13
+../../PDB_files/entire_PDB/files/hc/pdb1hcd.ent	A	116	ILE	HG12	HG13
+../../PDB_files/entire_PDB/files/hc/pdb1hce.ent	A	14	LEU	HD11	HD12	HD13
+../../PDB_files/entire_PDB/files/hc/pdb1hce.ent	A	14	LEU	HD21	HD22	HD23
+../../PDB_files/entire_PDB/files/hc/pdb1hce.ent	A	14	LEU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/hc/pdb1hce.ent	A	27	HIS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/hc/pdb1hce.ent	A	53	LEU	HD11	HD12	HD13
+../../PDB_files/entire_PDB/files/hc/pdb1hce.ent	A	53	LEU	HD21	HD22	HD23
+../../PDB_files/entire_PDB/files/hc/pdb1hce.ent	A	53	LEU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/hc/pdb1hce.ent	A	76	LEU	HD11	HD12	HD13
+../../PDB_files/entire_PDB/files/hc/pdb1hce.ent	A	76	LEU	HD21	HD22	HD23
+../../PDB_files/entire_PDB/files/hc/pdb1hce.ent	A	76	LEU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/hc/pdb4hc1.ent	M	138	GLY	 HA2	 HA3
+../../PDB_files/entire_PDB/files/hd/pdb1hdo.ent	A	185	MET	 HB2	 HB3
+../../PDB_files/entire_PDB/files/hd/pdb1hdp.ent	A	1	ARG	 HG2
+../../PDB_files/entire_PDB/files/hd/pdb1hdp.ent	A	2	ARG	HH11
+../../PDB_files/entire_PDB/files/hd/pdb1hdp.ent	A	2	ARG	 HB2	 HB3
+../../PDB_files/entire_PDB/files/hd/pdb1hdp.ent	A	3	LYS	 HG2	 HG3
+../../PDB_files/entire_PDB/files/hd/pdb1hdp.ent	A	3	LYS	 HD2
+../../PDB_files/entire_PDB/files/hd/pdb1hdp.ent	A	3	LYS	 HE2	 HE3
+../../PDB_files/entire_PDB/files/hd/pdb1hdp.ent	A	4	LYS	 HZ1	 HZ2	 HZ3
+../../PDB_files/entire_PDB/files/hd/pdb1hdp.ent	A	4	LYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/hd/pdb1hdp.ent	A	4	LYS	 HD2	 HD3
+../../PDB_files/entire_PDB/files/hd/pdb1hdp.ent	A	5	ARG	HH11	HH12
+../../PDB_files/entire_PDB/files/hd/pdb1hdp.ent	A	5	ARG	HH21	HH22
+../../PDB_files/entire_PDB/files/hd/pdb1hdp.ent	A	5	ARG	 HG2	 HG3
+../../PDB_files/entire_PDB/files/hd/pdb1hdp.ent	A	8	ILE	HD13
+../../PDB_files/entire_PDB/files/hd/pdb1hdp.ent	A	9	GLU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/hd/pdb1hdp.ent	A	10	THR	HG21
+../../PDB_files/entire_PDB/files/hd/pdb1hdp.ent	A	12	VAL	HG11	HG12	HG13
+../../PDB_files/entire_PDB/files/hd/pdb1hdp.ent	A	12	VAL	HG21	HG22	HG23
+../../PDB_files/entire_PDB/files/hd/pdb1hdp.ent	A	13	ARG	HH11	HH12
+../../PDB_files/entire_PDB/files/hd/pdb1hdp.ent	A	13	ARG	HH21	HH22
+../../PDB_files/entire_PDB/files/hd/pdb1hdp.ent	A	13	ARG	 HG2	 HG3
+../../PDB_files/entire_PDB/files/hd/pdb1hdp.ent	A	14	PHE	 HB2	 HB3
+../../PDB_files/entire_PDB/files/hd/pdb1hdp.ent	A	17	GLU	 HG2	 HG3
+../../PDB_files/entire_PDB/files/hd/pdb1hdp.ent	A	18	LYS	 HZ1	 HZ2	 HZ3
+../../PDB_files/entire_PDB/files/hd/pdb1hdp.ent	A	18	LYS	 HG2	 HG3
+../../PDB_files/entire_PDB/files/hd/pdb1hdp.ent	A	19	SER	 HB2
+../../PDB_files/entire_PDB/files/hd/pdb1hdp.ent	A	21	LEU	HD13
+../../PDB_files/entire_PDB/files/hd/pdb1hdp.ent	A	21	LEU	HD21	HD22
+../../PDB_files/entire_PDB/files/hd/pdb1hdp.ent	A	21	LEU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/hd/pdb1hdp.ent	A	23	ASN	HD21	HD22
+../../PDB_files/entire_PDB/files/hd/pdb1hdp.ent	A	23	ASN	 HB2	 HB3
+../../PDB_files/entire_PDB/files/hd/pdb1hdp.ent	A	24	GLN	HE21	HE22
+../../PDB_files/entire_PDB/files/hd/pdb1hdp.ent	A	24	GLN	 HG2	 HG3
+../../PDB_files/entire_PDB/files/hd/pdb1hdp.ent	A	25	LYS	 HE2	 HE3
+../../PDB_files/entire_PDB/files/hd/pdb1hdp.ent	A	29	GLU	 HG2
+../../PDB_files/entire_PDB/files/hd/pdb1hdp.ent	A	31	ILE	HD13
+../../PDB_files/entire_PDB/files/hd/pdb1hdp.ent	A	33	LEU	HD13
+../../PDB_files/entire_PDB/files/hd/pdb1hdp.ent	A	33	LEU	HD21	HD22	HD23
+../../PDB_files/entire_PDB/files/hd/pdb1hdp.ent	A	37	GLN	HE21	HE22
+../../PDB_files/entire_PDB/files/hd/pdb1hdp.ent	A	37	GLN	 HB2	 HB3
+../../PDB_files/entire_PDB/files/hd/pdb1hdp.ent	A	38	LEU	HD12
+../../PDB_files/entire_PDB/files/hd/pdb1hdp.ent	A	40	MET	 HE1	 HE2	 HE3
+../../PDB_files/entire_PDB/files/hd/pdb1hdp.ent	A	40	MET	 HB3
+../../PDB_files/entire_PDB/files/hd/pdb1hdp.ent	A	41	GLU	 HB2
+../../PDB_files/entire_PDB/files/hd/pdb1hdp.ent	A	41	GLU	 HG2
+../../PDB_files/entire_PDB/files/hd/pdb1hdp.ent	A	42	LYS	 HZ1	 HZ2	 HZ3
+../../PDB_files/entire_PDB/files/hd/pdb1hdp.ent	A	42	LYS	 HB3
+../../PDB_files/entire_PDB/files/hd/pdb1hdp.ent	A	42	LYS	 HG2
+../../PDB_files/entire_PDB/files/hd/pdb1hdp.ent	A	43	GLU	 HG2	 HG3
+../../PDB_files/entire_PDB/files/hd/pdb1hdp.ent	A	44	VAL	HG11	HG12	HG13
+../../PDB_files/entire_PDB/files/hd/pdb1hdp.ent	A	44	VAL	HG21	HG22	HG23
+../../PDB_files/entire_PDB/files/hd/pdb1hdp.ent	A	46	ARG	HH12
+../../PDB_files/entire_PDB/files/hd/pdb1hdp.ent	A	46	ARG	HH21	HH22
+../../PDB_files/entire_PDB/files/hd/pdb1hdp.ent	A	47	VAL	HG11	HG12	HG13
+../../PDB_files/entire_PDB/files/hd/pdb1hdp.ent	A	47	VAL	HG21	HG22	HG23
+../../PDB_files/entire_PDB/files/hd/pdb1hdp.ent	A	50	CYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/hd/pdb1hdp.ent	A	51	ASN	HD21	HD22
+../../PDB_files/entire_PDB/files/hd/pdb1hdp.ent	A	51	ASN	 HB2	 HB3
+../../PDB_files/entire_PDB/files/hd/pdb1hdp.ent	A	52	ARG	HH11	HH12
+../../PDB_files/entire_PDB/files/hd/pdb1hdp.ent	A	52	ARG	HH21	HH22
+../../PDB_files/entire_PDB/files/hd/pdb1hdp.ent	A	53	ARG	HH21	HH22
+../../PDB_files/entire_PDB/files/hd/pdb1hdp.ent	A	53	ARG	 HB2
+../../PDB_files/entire_PDB/files/hd/pdb1hdp.ent	A	54	GLN	HE21	HE22
+../../PDB_files/entire_PDB/files/hd/pdb1hdp.ent	A	54	GLN	 HB2	 HB3
+../../PDB_files/entire_PDB/files/hd/pdb1hdp.ent	A	54	GLN	 HG3
+../../PDB_files/entire_PDB/files/hd/pdb1hdp.ent	A	55	LYS	 HZ1	 HZ2	 HZ3
+../../PDB_files/entire_PDB/files/hd/pdb1hdp.ent	A	56	GLU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/hd/pdb1hdp.ent	A	57	LYS	 HB2
+../../PDB_files/entire_PDB/files/hd/pdb1hdp.ent	A	57	LYS	 HG2	 HG3
+../../PDB_files/entire_PDB/files/hd/pdb1hdp.ent	A	57	LYS	 HE2	 HE3
+../../PDB_files/entire_PDB/files/hd/pdb1hdp.ent	A	58	ARG	 HB2	 HB3
+../../PDB_files/entire_PDB/files/hd/pdb1hdp.ent	A	59	ILE	HD11	HD12	HD13
+../../PDB_files/entire_PDB/files/hd/pdb1hdp.ent	A	60	ASN	HD21	HD22
+../../PDB_files/entire_PDB/files/hd/pdb1hdp.ent	A	60	ASN	 HB2	 HB3
+../../PDB_files/entire_PDB/files/hd/pdb1hdp.ent	A	61	PRO	 HB2	 HB3
+../../PDB_files/entire_PDB/files/hd/pdb1hdp.ent	A	63	SER	 HB2	 HB3
+../../PDB_files/entire_PDB/files/he/pdb1he2.ent	A	158	PRO	 HB2	 HB3
+../../PDB_files/entire_PDB/files/he/pdb1he2.ent	A	158	PRO	 HD2	 HD3
+../../PDB_files/entire_PDB/files/he/pdb1he2.ent	A	170	ARG	HH21	HH22
+../../PDB_files/entire_PDB/files/he/pdb1he2.ent	A	185	MET	 HB2	 HB3
+../../PDB_files/entire_PDB/files/he/pdb3het.ent	A	3	LYS	 HG2	 HG3
+../../PDB_files/entire_PDB/files/he/pdb3het.ent	B	3	LYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/he/pdb3het.ent	B	27	LYS	 HD2	 HD3
+../../PDB_files/entire_PDB/files/he/pdb3heu.ent	A	32	GLU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/he/pdb3hev.ent	A	3	LYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/he/pdb3hew.ent	A	3	LYS	 HG2	 HG3
+../../PDB_files/entire_PDB/files/he/pdb3hew.ent	A	6	GLU	 HG2	 HG3
+../../PDB_files/entire_PDB/files/he/pdb3hew.ent	A	27	LYS	 HD2	 HD3
+../../PDB_files/entire_PDB/files/he/pdb3hex.ent	A	3	LYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/he/pdb3hex.ent	A	6	GLU	 HG2	 HG3
+../../PDB_files/entire_PDB/files/he/pdb3hex.ent	A	27	LYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/he/pdb3hey.ent	A	3	LYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/he/pdb3hey.ent	A	20	GLU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/he/pdb3hez.ent	B	3	LYS	 HE2	 HE3
+../../PDB_files/entire_PDB/files/he/pdb4hen.ent	A	172	ARG	 HB2	 HB3
+../../PDB_files/entire_PDB/files/he/pdb4hen.ent	B	137	MET	 HG2	 HG3
+../../PDB_files/entire_PDB/files/he/pdb4hen.ent	C	137	MET	 HG2	 HG3
+../../PDB_files/entire_PDB/files/he/pdb4hen.ent	C	165	ARG	 HB2	 HB3
+../../PDB_files/entire_PDB/files/he/pdb4hen.ent	D	137	MET	 HG2	 HG3
+../../PDB_files/entire_PDB/files/he/pdb4hen.ent	E	137	MET	 HG2	 HG3
+../../PDB_files/entire_PDB/files/he/pdb4hen.ent	E	172	ARG	 HB2	 HB3
+../../PDB_files/entire_PDB/files/he/pdb4hen.ent	F	88	ARG	 HG2	 HG3
+../../PDB_files/entire_PDB/files/he/pdb4hen.ent	F	124	GLU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/he/pdb4hen.ent	F	137	MET	 HG2	 HG3
+../../PDB_files/entire_PDB/files/he/pdb4hen.ent	F	165	ARG	 HB2	 HB3
+../../PDB_files/entire_PDB/files/hf/pdb3hf0.ent	A	4	GLN	HE21	HE22
+../../PDB_files/entire_PDB/files/hf/pdb3hf0.ent	A	4	GLN	 HG2	 HG3
+../../PDB_files/entire_PDB/files/hf/pdb3hf0.ent	A	27	LYS	 HG2	 HG3
+../../PDB_files/entire_PDB/files/hg/pdb3hgp.ent	A	61	ARG	 HB2	 HB3
+../../PDB_files/entire_PDB/files/hg/pdb3hgp.ent	A	227	VAL	HG11	HG12	HG13
+../../PDB_files/entire_PDB/files/hg/pdb3hgp.ent	A	227	VAL	HG21	HG22	HG23
+../../PDB_files/entire_PDB/files/hi/pdb5hir.ent	A	1	VAL	HG11	HG12	HG13
+../../PDB_files/entire_PDB/files/hi/pdb5hir.ent	A	1	VAL	HG21	HG22
+../../PDB_files/entire_PDB/files/hi/pdb5hir.ent	A	1	VAL	 HM1	 HM2	 HM3
+../../PDB_files/entire_PDB/files/hj/pdb4hjb.ent	A	8	LYS	 HD2	 HD3
+../../PDB_files/entire_PDB/files/hj/pdb4hjd.ent	A	4	LYS	 HZ2	 HZ3
+../../PDB_files/entire_PDB/files/hj/pdb4hjd.ent	A	4	LYS	 HE2	 HE3
+../../PDB_files/entire_PDB/files/hj/pdb4hjd.ent	A	28	LYS	 HG2	 HG3
+../../PDB_files/entire_PDB/files/hj/pdb4hjd.ent	A	32	GLU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/hj/pdb4hjd.ent	A	33	ARG	 HG2	 HG3
+../../PDB_files/entire_PDB/files/hj/pdb4hjd.ent	B	2	ARG	 HG2	 HG3
+../../PDB_files/entire_PDB/files/hj/pdb4hjd.ent	B	28	LYS	 HD2	 HD3
+../../PDB_files/entire_PDB/files/hj/pdb4hjd.ent	B	33	ARG	 HG2	 HG3
+../../PDB_files/entire_PDB/files/hl/pdb1hll.ent	A	3	SER	 HB2	 HB3
+../../PDB_files/entire_PDB/files/hl/pdb1hll.ent	A	4	ILE	HD11	HD12	HD13
+../../PDB_files/entire_PDB/files/hl/pdb1hll.ent	A	7	LEU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/hl/pdb1hll.ent	A	8	CYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/hl/pdb1hll.ent	A	11	SER	 HB2	 HB3
+../../PDB_files/entire_PDB/files/hl/pdb1hll.ent	A	12	LEU	 HB2
+../../PDB_files/entire_PDB/files/hl/pdb1hll.ent	A	13	ASP	 HB2	 HB3
+../../PDB_files/entire_PDB/files/hl/pdb1hll.ent	A	14	ARG	HH11
+../../PDB_files/entire_PDB/files/hl/pdb1hll.ent	A	15	TYR	 HB2	 HB3
+../../PDB_files/entire_PDB/files/hl/pdb1hll.ent	A	17	SER	 HB2	 HB3
+../../PDB_files/entire_PDB/files/hl/pdb1hll.ent	A	20	GLN	HE21	HE22
+../../PDB_files/entire_PDB/files/hl/pdb1hll.ent	A	20	GLN	 HB2	 HB3
+../../PDB_files/entire_PDB/files/hl/pdb1hll.ent	A	22	ILE	HG12	HG13
+../../PDB_files/entire_PDB/files/hl/pdb1hll.ent	A	23	GLU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/hl/pdb1hll.ent	A	24	TYR	 HB2	 HB3
+../../PDB_files/entire_PDB/files/hl/pdb1hll.ent	A	25	ASN	HD22
+../../PDB_files/entire_PDB/files/hl/pdb1hll.ent	A	25	ASN	 HB2	 HB3
+../../PDB_files/entire_PDB/files/hl/pdb1hll.ent	A	26	LEU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/hl/pdb1hll.ent	A	27	LYS	 HZ1	 HZ2	 HZ3
+../../PDB_files/entire_PDB/files/hl/pdb1hll.ent	A	28	ARG	HH11	HH12
+../../PDB_files/entire_PDB/files/hl/pdb1hll.ent	A	28	ARG	HH21	HH22
+../../PDB_files/entire_PDB/files/hl/pdb1hll.ent	A	30	PRO	 HB3
+../../PDB_files/entire_PDB/files/hl/pdb1hll.ent	A	30	PRO	 HG2	 HG3
+../../PDB_files/entire_PDB/files/hl/pdb1hll.ent	A	30	PRO	 HD2	 HD3
+../../PDB_files/entire_PDB/files/hl/pdb1hll.ent	A	31	ARG	 HB2	 HB3
+../../PDB_files/entire_PDB/files/hl/pdb1hll.ent	A	32	ARG	HH11	HH12
+../../PDB_files/entire_PDB/files/hl/pdb1hll.ent	A	32	ARG	HH21	HH22
+../../PDB_files/entire_PDB/files/hl/pdb1hll.ent	A	32	ARG	 HG2	 HG3
+../../PDB_files/entire_PDB/files/hm/pdb4hms.ent	B	171	GLU	 HG2	 HG3
+../../PDB_files/entire_PDB/files/ho/pdb1hod.ent	A	3	SER	 HB2	 HB3
+../../PDB_files/entire_PDB/files/ho/pdb1hod.ent	A	4	ILE	HD11	HD12	HD13
+../../PDB_files/entire_PDB/files/ho/pdb1hod.ent	A	8	CYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/ho/pdb1hod.ent	A	10	ILE	HG12	HG13
+../../PDB_files/entire_PDB/files/ho/pdb1hod.ent	A	11	SER	 HB2	 HB3
+../../PDB_files/entire_PDB/files/ho/pdb1hod.ent	A	12	LEU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/ho/pdb1hod.ent	A	13	ILE	HG12	HG13
+../../PDB_files/entire_PDB/files/ho/pdb1hod.ent	A	14	ARG	HH12
+../../PDB_files/entire_PDB/files/ho/pdb1hod.ent	A	14	ARG	HH22
+../../PDB_files/entire_PDB/files/ho/pdb1hod.ent	A	14	ARG	 HB2	 HB3
+../../PDB_files/entire_PDB/files/ho/pdb1hod.ent	A	15	TYR	 HB2	 HB3
+../../PDB_files/entire_PDB/files/ho/pdb1hod.ent	A	17	SER	 HB2	 HB3
+../../PDB_files/entire_PDB/files/ho/pdb1hod.ent	A	18	ILE	HD11	HD12	HD13
+../../PDB_files/entire_PDB/files/ho/pdb1hod.ent	A	20	GLN	HE21	HE22
+../../PDB_files/entire_PDB/files/ho/pdb1hod.ent	A	20	GLN	 HB2	 HB3
+../../PDB_files/entire_PDB/files/ho/pdb1hod.ent	A	22	ILE	HG12	HG13
+../../PDB_files/entire_PDB/files/ho/pdb1hod.ent	A	23	GLU	 HB2
+../../PDB_files/entire_PDB/files/ho/pdb1hod.ent	A	24	TYR	 HB2	 HB3
+../../PDB_files/entire_PDB/files/ho/pdb1hod.ent	A	26	LEU	HD11	HD12	HD13
+../../PDB_files/entire_PDB/files/ho/pdb1hod.ent	A	26	LEU	HD21	HD22	HD23
+../../PDB_files/entire_PDB/files/ho/pdb1hod.ent	A	26	LEU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/ho/pdb1hod.ent	A	27	LYS	 HB2
+../../PDB_files/entire_PDB/files/ho/pdb1hod.ent	A	27	LYS	 HE2	 HE3
+../../PDB_files/entire_PDB/files/ho/pdb1hod.ent	A	28	ARG	HH11	HH12
+../../PDB_files/entire_PDB/files/ho/pdb1hod.ent	A	28	ARG	HH21	HH22
+../../PDB_files/entire_PDB/files/ho/pdb1hod.ent	A	29	THR	HG21	HG22	HG23
+../../PDB_files/entire_PDB/files/ho/pdb1hod.ent	A	30	PRO	 HB2	 HB3
+../../PDB_files/entire_PDB/files/ho/pdb1hod.ent	A	30	PRO	 HD2	 HD3
+../../PDB_files/entire_PDB/files/ho/pdb1hod.ent	A	31	ARG	 HB2	 HB3
+../../PDB_files/entire_PDB/files/ho/pdb1hod.ent	A	32	ARG	HH11	HH12
+../../PDB_files/entire_PDB/files/ho/pdb1hod.ent	A	32	ARG	HH21	HH22
+../../PDB_files/entire_PDB/files/ho/pdb1hod.ent	A	32	ARG	 HG2	 HG3
+../../PDB_files/entire_PDB/files/hq/pdb2hq3.ent	A	35	LYS	 HG2	 HG3
+../../PDB_files/entire_PDB/files/hq/pdb2hq3.ent	A	35	LYS	 HE2	 HE3
+../../PDB_files/entire_PDB/files/hq/pdb2hq3.ent	A	37	GLN	HE21	HE22
+../../PDB_files/entire_PDB/files/hq/pdb2hq3.ent	A	37	GLN	 HG2	 HG3
+../../PDB_files/entire_PDB/files/hq/pdb2hq3.ent	A	38	ILE	HG12	HG13
+../../PDB_files/entire_PDB/files/hq/pdb2hq3.ent	A	39	PHE	 HB2	 HB3
+../../PDB_files/entire_PDB/files/hq/pdb2hq3.ent	A	41	GLU	 HG2	 HG3
+../../PDB_files/entire_PDB/files/hq/pdb2hq3.ent	A	43	SER	 HB2	 HB3
+../../PDB_files/entire_PDB/files/hq/pdb2hq3.ent	A	48	PHE	 HB2	 HB3
+../../PDB_files/entire_PDB/files/hq/pdb2hq3.ent	A	49	PHE	 HB2	 HB3
+../../PDB_files/entire_PDB/files/hq/pdb2hq3.ent	A	50	SER	 HB2	 HB3
+../../PDB_files/entire_PDB/files/hq/pdb2hq3.ent	A	51	GLN	HE21	HE22
+../../PDB_files/entire_PDB/files/hq/pdb2hq3.ent	A	51	GLN	 HG2	 HG3
+../../PDB_files/entire_PDB/files/hq/pdb2hq3.ent	A	54	ASP	 HB2	 HB3
+../../PDB_files/entire_PDB/files/hq/pdb2hq3.ent	A	58	TYR	 HB2	 HB3
+../../PDB_files/entire_PDB/files/hq/pdb2hq3.ent	A	60	ARG	HH11	HH12
+../../PDB_files/entire_PDB/files/hq/pdb2hq3.ent	A	60	ARG	HH21	HH22
+../../PDB_files/entire_PDB/files/hq/pdb2hq3.ent	A	60	ARG	 HG2	 HG3
+../../PDB_files/entire_PDB/files/hq/pdb2hq3.ent	A	63	GLU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/hq/pdb2hq3.ent	A	64	GLN	 HB2	 HB3
+../../PDB_files/entire_PDB/files/hq/pdb2hq3.ent	A	69	LEU	HD13
+../../PDB_files/entire_PDB/files/hq/pdb2hq3.ent	A	72	TYR	 HB2	 HB3
+../../PDB_files/entire_PDB/files/hq/pdb2hq3.ent	A	74	ASN	HD21	HD22
+../../PDB_files/entire_PDB/files/hq/pdb2hq3.ent	A	74	ASN	 HB2	 HB3
+../../PDB_files/entire_PDB/files/hq/pdb2hq3.ent	A	75	ASP	 HB2	 HB3
+../../PDB_files/entire_PDB/files/hq/pdb2hq3.ent	A	81	ALA	HMB1	HMB3
+../../PDB_files/entire_PDB/files/hq/pdb2hq3.ent	A	84	ASP	 HB2	 HB3
+../../PDB_files/entire_PDB/files/hq/pdb2hq3.ent	A	85	GLN	HE21	HE22
+../../PDB_files/entire_PDB/files/hq/pdb2hq3.ent	A	85	GLN	 HG2	 HG3
+../../PDB_files/entire_PDB/files/hq/pdb2hq3.ent	A	87	GLY	 HA2	 HA3
+../../PDB_files/entire_PDB/files/hq/pdb2hq3.ent	A	90	ASN	HD21	HD22
+../../PDB_files/entire_PDB/files/hq/pdb2hq3.ent	A	90	ASN	 HB2	 HB3
+../../PDB_files/entire_PDB/files/hq/pdb2hq3.ent	A	91	TRP	 HB2	 HB3
+../../PDB_files/entire_PDB/files/hq/pdb2hq3.ent	A	92	ILE	HG12	HG13
+../../PDB_files/entire_PDB/files/hq/pdb2hq3.ent	A	95	ASP	 HB2	 HB3
+../../PDB_files/entire_PDB/files/hq/pdb2hq3.ent	A	96	LYS	 HE2	 HE3
+../../PDB_files/entire_PDB/files/hq/pdb2hq3.ent	A	99	TYR	 HB2	 HB3
+../../PDB_files/entire_PDB/files/hq/pdb2hq3.ent	A	105	ARG	HH12
+../../PDB_files/entire_PDB/files/hq/pdb2hq3.ent	A	105	ARG	HH21	HH22
+../../PDB_files/entire_PDB/files/hq/pdb2hq3.ent	A	105	ARG	 HG2	 HG3
+../../PDB_files/entire_PDB/files/hq/pdb2hq3.ent	A	106	ARG	HH11	HH12
+../../PDB_files/entire_PDB/files/hq/pdb2hq3.ent	A	106	ARG	HH21	HH22
+../../PDB_files/entire_PDB/files/hq/pdb2hq3.ent	A	106	ARG	 HB2	 HB3
+../../PDB_files/entire_PDB/files/hq/pdb2hq3.ent	A	106	ARG	 HG3
+../../PDB_files/entire_PDB/files/hq/pdb2hq3.ent	A	107	GLY	 HA2	 HA3
+../../PDB_files/entire_PDB/files/hq/pdb2hq3.ent	A	109	MET	 HE1	 HE2	 HE3
+../../PDB_files/entire_PDB/files/hq/pdb2hq3.ent	A	109	MET	 HG2	 HG3
+../../PDB_files/entire_PDB/files/hq/pdb2hq3.ent	A	111	ALA	HMB3
+../../PDB_files/entire_PDB/files/hq/pdb2hq3.ent	A	113	GLU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/hq/pdb2hq3.ent	A	117	PHE	 HB2	 HB3
+../../PDB_files/entire_PDB/files/hq/pdb2hq3.ent	A	118	SER	 HB2	 HB3
+../../PDB_files/entire_PDB/files/hq/pdb2hq3.ent	A	119	SER	 HB2	 HB3
+../../PDB_files/entire_PDB/files/hq/pdb2hq3.ent	A	121	ASP	 HB2	 HB3
+../../PDB_files/entire_PDB/files/hq/pdb2hq3.ent	A	122	GLU	 HG2	 HG3
+../../PDB_files/entire_PDB/files/hq/pdb2hq3.ent	A	126	PHE	 HB2	 HB3
+../../PDB_files/entire_PDB/files/hq/pdb2hq3.ent	A	128	LEU	HD21	HD22	HD23
+../../PDB_files/entire_PDB/files/hq/pdb2hq3.ent	A	128	LEU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/hq/pdb2hq3.ent	A	130	GLU	 HG2	 HG3
+../../PDB_files/entire_PDB/files/hq/pdb2hq3.ent	A	133	GLN	HE21	HE22
+../../PDB_files/entire_PDB/files/hq/pdb2hq3.ent	A	133	GLN	 HG2	 HG3
+../../PDB_files/entire_PDB/files/hq/pdb2hq3.ent	A	139	ASP	 HB2	 HB3
+../../PDB_files/entire_PDB/files/hq/pdb2hq3.ent	A	142	ASP	 HB2	 HB3
+../../PDB_files/entire_PDB/files/hq/pdb2hq3.ent	A	144	MET	 HE1	 HE2	 HE3
+../../PDB_files/entire_PDB/files/hq/pdb2hq3.ent	A	144	MET	 HG2	 HG3
+../../PDB_files/entire_PDB/files/hq/pdb2hq3.ent	A	145	VAL	HG23
+../../PDB_files/entire_PDB/files/hq/pdb2hq3.ent	A	150	GLU	 HG2	 HG3
+../../PDB_files/entire_PDB/files/hq/pdb2hq3.ent	A	154	GLU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/hq/pdb2hq3.ent	A	156	ARG	HH11	HH12
+../../PDB_files/entire_PDB/files/hq/pdb2hq3.ent	A	156	ARG	HH22
+../../PDB_files/entire_PDB/files/hq/pdb2hq3.ent	A	158	ASP	 HB2	 HB3
+../../PDB_files/entire_PDB/files/hq/pdb2hq3.ent	A	159	ASP	 HB2	 HB3
+../../PDB_files/entire_PDB/files/hq/pdb2hq3.ent	A	160	GLU	 HB3
+../../PDB_files/entire_PDB/files/hq/pdb2hq3.ent	A	160	GLU	 HG2	 HG3
+../../PDB_files/entire_PDB/files/hq/pdb4hqz.ent	B	42	GLN	 HB2	 HB3
+../../PDB_files/entire_PDB/files/hr/pdb2hrf.ent	A	300	LYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/hr/pdb2hrf.ent	A	300	LYS	 HG2	 HG3
+../../PDB_files/entire_PDB/files/hr/pdb2hrf.ent	A	300	LYS	 HD2	 HD3
+../../PDB_files/entire_PDB/files/hw/pdb4hw4.ent	A	322	GLU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/hw/pdb4hw4.ent	A	323	ASP	 HB2	 HB3
+../../PDB_files/entire_PDB/files/hw/pdb4hw4.ent	A	324	LEU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/i0/pdb1i0u.ent	A	36	GLN	HE22
+../../PDB_files/entire_PDB/files/i0/pdb1i0u.ent	A	36	GLN	 HG2	 HG3
+../../PDB_files/entire_PDB/files/i1/pdb6i1b.ent	A	20	MET	 HE2	 HE3
+../../PDB_files/entire_PDB/files/i1/pdb6i1b.ent	A	20	MET	 HG2	 HG3
+../../PDB_files/entire_PDB/files/i5/pdb1i5u.ent	A	3	ALA	HMB1	HMB2	HMB3
+../../PDB_files/entire_PDB/files/i5/pdb1i5u.ent	A	3	ALA	 HM1	 HM2	 HM3
+../../PDB_files/entire_PDB/files/i9/pdb3i94.ent	A	1020	MET	 HB2	 HB3
+../../PDB_files/entire_PDB/files/i9/pdb3i94.ent	A	1038	LYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/i9/pdb3i94.ent	A	1063	ARG	 HB2	 HB3
+../../PDB_files/entire_PDB/files/i9/pdb3i94.ent	A	1073	MET	 HB2	 HB3
+../../PDB_files/entire_PDB/files/i9/pdb3i94.ent	A	1127	ARG	 HG2	 HG3
+../../PDB_files/entire_PDB/files/i9/pdb3i94.ent	A	1206	ARG	 HG2	 HG3
+../../PDB_files/entire_PDB/files/i9/pdb3i94.ent	A	1221	LYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/i9/pdb3i94.ent	A	1228	LYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/i9/pdb3i94.ent	A	1239	MET	 HB2	 HB3
+../../PDB_files/entire_PDB/files/i9/pdb3i94.ent	A	1241	GLN	 HB2	 HB3
+../../PDB_files/entire_PDB/files/ic/pdb1ic6.ent	A	27	GLU	 HB2
+../../PDB_files/entire_PDB/files/ic/pdb1ic6.ent	A	27	GLU	 HG2	 HG3
+../../PDB_files/entire_PDB/files/ic/pdb1ic6.ent	A	57	LYS	 HZ1
+../../PDB_files/entire_PDB/files/ic/pdb1ic6.ent	A	57	LYS	 HE2	 HE3
+../../PDB_files/entire_PDB/files/ic/pdb1ic6.ent	A	112	ASP	 HB2	 HB3
+../../PDB_files/entire_PDB/files/ic/pdb1ic6.ent	A	120	ASN	HD22
+../../PDB_files/entire_PDB/files/ic/pdb1ic6.ent	A	133	LEU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/ic/pdb1ic6.ent	A	159	ALA	HMB1	HMB2	HMB3
+../../PDB_files/entire_PDB/files/ic/pdb1ic6.ent	A	219	SER	 HB2	 HB3
+../../PDB_files/entire_PDB/files/ic/pdb1ic6.ent	A	242	LYS	 HZ1	 HZ2	 HZ3
+../../PDB_files/entire_PDB/files/ic/pdb1ic6.ent	A	242	LYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/ic/pdb1ic6.ent	A	242	LYS	 HD3
+../../PDB_files/entire_PDB/files/ic/pdb1ic6.ent	A	242	LYS	 HE3
+../../PDB_files/entire_PDB/files/ic/pdb1ic6.ent	A	258	LYS	 HZ2
+../../PDB_files/entire_PDB/files/ic/pdb1ic6.ent	A	258	LYS	 HG2	 HG3
+../../PDB_files/entire_PDB/files/ic/pdb1ic6.ent	A	258	LYS	 HE3
+../../PDB_files/entire_PDB/files/ic/pdb1ic6.ent	A	276	ASN	 HB2
+../../PDB_files/entire_PDB/files/id/pdb1idg.ent	A	6	THR	HG21	HG22	HG23
+../../PDB_files/entire_PDB/files/id/pdb1idg.ent	A	11	ILE	HG21	HG22	HG23
+../../PDB_files/entire_PDB/files/id/pdb1idg.ent	A	11	ILE	HD11	HD12	HD13
+../../PDB_files/entire_PDB/files/id/pdb1idg.ent	A	11	ILE	HG12	HG13
+../../PDB_files/entire_PDB/files/id/pdb1idg.ent	A	19	GLY	 HA2	 HA3
+../../PDB_files/entire_PDB/files/id/pdb1idg.ent	A	32	PHE	 HB2	 HB3
+../../PDB_files/entire_PDB/files/id/pdb1idg.ent	A	72	ARG	 HB2	 HB3
+../../PDB_files/entire_PDB/files/id/pdb1idg.ent	A	73	PRO	 HB2	 HB3
+../../PDB_files/entire_PDB/files/id/pdb1idg.ent	A	73	PRO	 HD2	 HD3
+../../PDB_files/entire_PDB/files/id/pdb1idg.ent	B	184	TRP	 HB2	 HB3
+../../PDB_files/entire_PDB/files/id/pdb1idg.ent	B	188	VAL	HG11	HG12	HG13
+../../PDB_files/entire_PDB/files/id/pdb1idg.ent	B	188	VAL	HG21	HG22	HG23
+../../PDB_files/entire_PDB/files/id/pdb1idg.ent	B	196	THR	HG21	HG22	HG23
+../../PDB_files/entire_PDB/files/id/pdb1idi.ent	A	8	THR	HG21	HG22	HG23
+../../PDB_files/entire_PDB/files/id/pdb1idi.ent	A	38	LYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/id/pdb1idi.ent	A	38	LYS	 HG2	 HG3
+../../PDB_files/entire_PDB/files/id/pdb1idi.ent	A	55	GLU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/id/pdb1idi.ent	A	55	GLU	 HG2	 HG3
+../../PDB_files/entire_PDB/files/id/pdb1idi.ent	A	66	ASN	HD21	HD22
+../../PDB_files/entire_PDB/files/id/pdb1idi.ent	A	66	ASN	 HB2	 HB3
+../../PDB_files/entire_PDB/files/id/pdb1idi.ent	A	68	HIS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/ig/pdb4igh.ent	A	152	HIS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/ih/pdb4ihk.ent	A	1082	HIS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/ih/pdb4ihk.ent	A	1214	LYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/il/pdb1il8.ent	A	22	ILE	HD11	HD12	HD13
+../../PDB_files/entire_PDB/files/il/pdb1il8.ent	A	22	ILE	HG13
+../../PDB_files/entire_PDB/files/il/pdb1il8.ent	B	22	ILE	HD11	HD12	HD13
+../../PDB_files/entire_PDB/files/il/pdb1il8.ent	B	22	ILE	HG13
+../../PDB_files/entire_PDB/files/il/pdb1ilq.ent	A	22	ILE	HD11	HD12	HD13
+../../PDB_files/entire_PDB/files/il/pdb1ilq.ent	A	22	ILE	HG13
+../../PDB_files/entire_PDB/files/il/pdb1ilq.ent	B	22	ILE	HD11	HD12	HD13
+../../PDB_files/entire_PDB/files/il/pdb1ilq.ent	B	22	ILE	HG13
+../../PDB_files/entire_PDB/files/im/pdb1imo.ent	A	835	GLY	 HA2	 HA3
+../../PDB_files/entire_PDB/files/im/pdb1imo.ent	A	839	GLU	 HG2	 HG3
+../../PDB_files/entire_PDB/files/im/pdb1imo.ent	A	842	CYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/im/pdb1imo.ent	A	845	LYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/im/pdb1imo.ent	A	845	LYS	 HE2	 HE3
+../../PDB_files/entire_PDB/files/im/pdb1imo.ent	A	850	ILE	HG12	HG13
+../../PDB_files/entire_PDB/files/im/pdb1imo.ent	A	851	PHE	 HB2	 HB3
+../../PDB_files/entire_PDB/files/im/pdb1imo.ent	A	855	ARG	HH11	HH12
+../../PDB_files/entire_PDB/files/im/pdb1imo.ent	A	855	ARG	HH22
+../../PDB_files/entire_PDB/files/im/pdb1imo.ent	A	861	SER	 HB2	 HB3
+../../PDB_files/entire_PDB/files/im/pdb1imo.ent	A	864	ASP	 HB2	 HB3
+../../PDB_files/entire_PDB/files/im/pdb1imo.ent	A	865	PHE	 HB2	 HB3
+../../PDB_files/entire_PDB/files/im/pdb1imo.ent	A	866	SER	 HB2	 HB3
+../../PDB_files/entire_PDB/files/im/pdb1imo.ent	A	867	ARG	HH11	HH12
+../../PDB_files/entire_PDB/files/im/pdb1imo.ent	A	867	ARG	HH22
+../../PDB_files/entire_PDB/files/im/pdb1imo.ent	A	867	ARG	 HB2	 HB3
+../../PDB_files/entire_PDB/files/im/pdb1imo.ent	A	869	ARG	HH11	HH12
+../../PDB_files/entire_PDB/files/im/pdb1imo.ent	A	869	ARG	HH22
+../../PDB_files/entire_PDB/files/im/pdb1imo.ent	A	870	ARG	HH11	HH12
+../../PDB_files/entire_PDB/files/im/pdb1imo.ent	A	870	ARG	HH21	HH22
+../../PDB_files/entire_PDB/files/im/pdb1imo.ent	A	870	ARG	 HG2	 HG3
+../../PDB_files/entire_PDB/files/im/pdb1imo.ent	A	872	PHE	 HB2	 HB3
+../../PDB_files/entire_PDB/files/im/pdb1imo.ent	A	875	PHE	 HB2	 HB3
+../../PDB_files/entire_PDB/files/im/pdb1imo.ent	A	876	ASP	 HB2	 HB3
+../../PDB_files/entire_PDB/files/im/pdb1imo.ent	A	878	ASP	 HB2	 HB3
+../../PDB_files/entire_PDB/files/im/pdb1imo.ent	A	879	LEU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/im/pdb1imo.ent	A	881	GLN	HE21	HE22
+../../PDB_files/entire_PDB/files/im/pdb1imo.ent	A	881	GLN	 HG2	 HG3
+../../PDB_files/entire_PDB/files/im/pdb1imo.ent	A	882	GLU	 HG2	 HG3
+../../PDB_files/entire_PDB/files/im/pdb1imo.ent	A	883	PHE	 HB2	 HB3
+../../PDB_files/entire_PDB/files/im/pdb1imo.ent	A	884	ASP	 HB2	 HB3
+../../PDB_files/entire_PDB/files/im/pdb1imo.ent	A	887	SER	 HB2	 HB3
+../../PDB_files/entire_PDB/files/im/pdb1imo.ent	A	893	GLY	 HA2	 HA3
+../../PDB_files/entire_PDB/files/im/pdb1imo.ent	A	894	SER	 HB2	 HB3
+../../PDB_files/entire_PDB/files/im/pdb1imo.ent	A	895	ARG	HH11	HH12
+../../PDB_files/entire_PDB/files/im/pdb1imo.ent	A	895	ARG	HH22
+../../PDB_files/entire_PDB/files/im/pdb1imo.ent	A	896	ASP	 HB2	 HB3
+../../PDB_files/entire_PDB/files/im/pdb1imo.ent	A	897	LYS	 HE2	 HE3
+../../PDB_files/entire_PDB/files/im/pdb1imo.ent	A	907	GLU	 HG2	 HG3
+../../PDB_files/entire_PDB/files/im/pdb1imo.ent	A	909	ILE	HG12	HG13
+../../PDB_files/entire_PDB/files/im/pdb1imo.ent	A	912	CYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/im/pdb1imo.ent	A	913	ILE	HG13
+../../PDB_files/entire_PDB/files/im/pdb1imo.ent	A	914	ARG	HH22
+../../PDB_files/entire_PDB/files/im/pdb1imo.ent	A	914	ARG	 HB2	 HB3
+../../PDB_files/entire_PDB/files/im/pdb1imo.ent	A	914	ARG	 HG3
+../../PDB_files/entire_PDB/files/im/pdb1imo.ent	A	915	LYS	 HE2	 HE3
+../../PDB_files/entire_PDB/files/im/pdb1imo.ent	A	916	ARG	HH11
+../../PDB_files/entire_PDB/files/im/pdb1imo.ent	A	916	ARG	 HB2	 HB3
+../../PDB_files/entire_PDB/files/im/pdb1imo.ent	A	917	ARG	 HB2	 HB3
+../../PDB_files/entire_PDB/files/im/pdb1imo.ent	A	917	ARG	 HG3
+../../PDB_files/entire_PDB/files/im/pdb4imh.ent	B	204	ALA	HMB1	HMB2	HMB3
+../../PDB_files/entire_PDB/files/im/pdb4imy.ent	H	9	LEU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/io/pdb4io3.ent	A	33	ASN	 HB2	 HB3
+../../PDB_files/entire_PDB/files/ir/pdb1iro.ent	A	31	LYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/is/pdb4isk.ent	B	146	CYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/is/pdb4isk.ent	H	16	THR	HG23
+../../PDB_files/entire_PDB/files/it/pdb1itm.ent	A	3	CYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/it/pdb1itm.ent	A	6	THR	HG21	HG22	HG23
+../../PDB_files/entire_PDB/files/iz/pdb2izb.ent	A	59	ARG	HH12
+../../PDB_files/entire_PDB/files/iz/pdb2izb.ent	A	59	ARG	HH21	HH22
+../../PDB_files/entire_PDB/files/iz/pdb2izh.ent	D	44	GLU	 HG2	 HG3
+../../PDB_files/entire_PDB/files/iz/pdb2izi.ent	A	59	ARG	HH12
+../../PDB_files/entire_PDB/files/iz/pdb2izi.ent	A	59	ARG	HH21	HH22
+../../PDB_files/entire_PDB/files/iz/pdb2izj.ent	A	59	ARG	HH12
+../../PDB_files/entire_PDB/files/iz/pdb2izj.ent	A	59	ARG	HH21	HH22
+../../PDB_files/entire_PDB/files/iz/pdb2izk.ent	A	59	ARG	HH12
+../../PDB_files/entire_PDB/files/iz/pdb2izk.ent	A	59	ARG	HH21	HH22
+../../PDB_files/entire_PDB/files/j4/pdb1j4m.ent	A	1	ARG	HH11	HH12
+../../PDB_files/entire_PDB/files/j4/pdb1j4m.ent	A	1	ARG	HH21	HH22
+../../PDB_files/entire_PDB/files/j4/pdb1j4m.ent	A	1	ARG	 HB2	 HB3
+../../PDB_files/entire_PDB/files/j4/pdb1j4m.ent	A	1	ARG	 HM1	 HM2	 HM3
+../../PDB_files/entire_PDB/files/j4/pdb1j4m.ent	A	2	GLY	 HA2	 HA3
+../../PDB_files/entire_PDB/files/j4/pdb1j4m.ent	A	14	ARG	HH11	HH12
+../../PDB_files/entire_PDB/files/j4/pdb1j4m.ent	A	14	ARG	HH21	HH22
+../../PDB_files/entire_PDB/files/j4/pdb1j4m.ent	A	14	ARG	 HB2	 HB3
+../../PDB_files/entire_PDB/files/j4/pdb1j4m.ent	A	14	ARG	 HG2	 HG3
+../../PDB_files/entire_PDB/files/j4/pdb1j4o.ent	A	18	PHE	 HB2	 HB3
+../../PDB_files/entire_PDB/files/j4/pdb1j4o.ent	A	23	PHE	 HB2	 HB3
+../../PDB_files/entire_PDB/files/j4/pdb1j4q.ent	B	175	PHE	 HB2	 HB3
+../../PDB_files/entire_PDB/files/j4/pdb4j4j.ent	A	-7	ARG	 HB2	 HB3
+../../PDB_files/entire_PDB/files/j4/pdb4j4j.ent	A	247	HIS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/j4/pdb4j4j.ent	A	323	GLN	 HB2	 HB3
+../../PDB_files/entire_PDB/files/j4/pdb4j4j.ent	A	348	ASP	 HB2	 HB3
+../../PDB_files/entire_PDB/files/j4/pdb4j4j.ent	A	358	LYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/j4/pdb4j4j.ent	A	367	LYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/j4/pdb4j4j.ent	A	369	GLN	 HB2	 HB3
+../../PDB_files/entire_PDB/files/j4/pdb4j4j.ent	A	370	GLU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/j4/pdb4j4j.ent	A	373	GLU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/j4/pdb4j4j.ent	B	-7	ARG	 HB2	 HB3
+../../PDB_files/entire_PDB/files/j4/pdb4j4j.ent	B	233	TRP	 HB2	 HB3
+../../PDB_files/entire_PDB/files/j4/pdb4j4j.ent	B	245	GLU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/j4/pdb4j4j.ent	B	247	HIS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/j4/pdb4j4j.ent	B	323	GLN	 HB2	 HB3
+../../PDB_files/entire_PDB/files/j4/pdb4j4j.ent	B	355	LYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/j4/pdb4j4j.ent	B	373	GLU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/j5/pdb1j5d.ent	A	14	LEU	HD23
+../../PDB_files/entire_PDB/files/j5/pdb4j5c.ent	X	91	LYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/j5/pdb4j5e.ent	X	91	LYS	 HD2	 HD3
+../../PDB_files/entire_PDB/files/j5/pdb4j5e.ent	X	196	LYS	 HD2	 HD3
+../../PDB_files/entire_PDB/files/j7/pdb1j7r.ent	A	76	THR	HG21	HG22	HG23
+../../PDB_files/entire_PDB/files/j7/pdb1j7r.ent	A	84	GLN	 HB2	 HB3
+../../PDB_files/entire_PDB/files/j8/pdb1j8f.ent	A	265	GLN	HE22
+../../PDB_files/entire_PDB/files/j8/pdb1j8f.ent	A	267	GLN	HE22
+../../PDB_files/entire_PDB/files/j8/pdb1j8f.ent	A	347	ARG	HH22
+../../PDB_files/entire_PDB/files/j8/pdb1j8f.ent	B	42	ARG	HH11
+../../PDB_files/entire_PDB/files/j8/pdb1j8f.ent	B	42	ARG	HH22
+../../PDB_files/entire_PDB/files/j8/pdb1j8f.ent	B	57	ARG	HH11
+../../PDB_files/entire_PDB/files/j8/pdb1j8f.ent	B	69	ARG	HH12
+../../PDB_files/entire_PDB/files/j8/pdb1j8f.ent	B	69	ARG	HH21	HH22
+../../PDB_files/entire_PDB/files/j8/pdb1j8f.ent	B	109	LYS	 HZ1	 HZ3
+../../PDB_files/entire_PDB/files/j8/pdb1j8f.ent	B	167	GLN	HE22
+../../PDB_files/entire_PDB/files/j8/pdb1j8f.ent	B	242	ARG	HH22
+../../PDB_files/entire_PDB/files/j8/pdb1j8f.ent	B	275	LYS	 HZ1	 HZ3
+../../PDB_files/entire_PDB/files/j8/pdb1j8f.ent	B	289	LYS	 HZ1	 HZ3
+../../PDB_files/entire_PDB/files/j8/pdb1j8f.ent	C	57	ARG	HH11
+../../PDB_files/entire_PDB/files/j8/pdb1j8f.ent	C	72	GLN	HE22
+../../PDB_files/entire_PDB/files/j8/pdb1j8f.ent	C	75	ARG	HH21
+../../PDB_files/entire_PDB/files/j8/pdb1j8f.ent	C	77	ARG	HH11
+../../PDB_files/entire_PDB/files/j8/pdb1j8f.ent	C	229	LYS	 HZ1
+../../PDB_files/entire_PDB/files/j8/pdb1j8f.ent	C	248	GLN	HE22
+../../PDB_files/entire_PDB/files/j8/pdb1j8f.ent	C	292	GLN	HE22
+../../PDB_files/entire_PDB/files/j8/pdb1j8f.ent	C	355	GLN	HE22
+../../PDB_files/entire_PDB/files/jc/pdb2jc5.ent	A	41	GLU	 HG2	 HG3
+../../PDB_files/entire_PDB/files/jc/pdb2jc5.ent	A	62	GLU	 HG2	 HG3
+../../PDB_files/entire_PDB/files/jc/pdb2jc5.ent	A	88	GLU	 HG2	 HG3
+../../PDB_files/entire_PDB/files/jc/pdb2jc5.ent	A	117	GLU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/jc/pdb2jc5.ent	A	118	GLU	 HG2	 HG3
+../../PDB_files/entire_PDB/files/jc/pdb2jc5.ent	A	167	LYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/jc/pdb2jc5.ent	A	198	ASP	 HB2	 HB3
+../../PDB_files/entire_PDB/files/jc/pdb2jc5.ent	A	208	ARG	 HB2	 HB3
+../../PDB_files/entire_PDB/files/jc/pdb2jc5.ent	A	228	GLU	 HG2	 HG3
+../../PDB_files/entire_PDB/files/jc/pdb2jc5.ent	A	253	GLU	 HG2	 HG3
+../../PDB_files/entire_PDB/files/jf/pdb1jfb.ent	A	95	MET	 HB3
+../../PDB_files/entire_PDB/files/jf/pdb1jfc.ent	A	128	MET	 HB2
+../../PDB_files/entire_PDB/files/jf/pdb1jfc.ent	A	131	LYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/jf/pdb1jfc.ent	A	167	LEU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/jf/pdb1jfc.ent	A	217	GLU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/jf/pdb1jfc.ent	A	303	LYS	 HG2	 HG3
+../../PDB_files/entire_PDB/files/jf/pdb1jfc.ent	A	316	GLN	 HB2	 HB3
+../../PDB_files/entire_PDB/files/jf/pdb1jfc.ent	A	392	ARG	 HB2	 HB3
+../../PDB_files/entire_PDB/files/jf/pdb1jfp.ent	A	94	THR	HG21	HG22	HG23
+../../PDB_files/entire_PDB/files/jf/pdb1jfp.ent	A	110	CYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/jf/pdb1jfp.ent	A	133	ILE	HG21	HG22	HG23
+../../PDB_files/entire_PDB/files/jf/pdb1jfp.ent	A	133	ILE	HD11	HD12	HD13
+../../PDB_files/entire_PDB/files/jf/pdb1jfp.ent	A	133	ILE	HG12	HG13
+../../PDB_files/entire_PDB/files/jf/pdb1jfp.ent	A	140	CYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/jf/pdb1jfp.ent	A	142	PRO	 HB2	 HB3
+../../PDB_files/entire_PDB/files/jf/pdb1jfp.ent	A	142	PRO	 HG2	 HG3
+../../PDB_files/entire_PDB/files/jf/pdb1jfp.ent	A	191	TYR	 HB2	 HB3
+../../PDB_files/entire_PDB/files/jf/pdb1jfp.ent	A	222	CYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/jf/pdb1jfp.ent	A	232	GLU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/jf/pdb1jfp.ent	A	232	GLU	 HG2	 HG3
+../../PDB_files/entire_PDB/files/jf/pdb1jfp.ent	A	242	THR	HG21	HG22	HG23
+../../PDB_files/entire_PDB/files/jf/pdb1jfp.ent	A	276	PHE	 HB2	 HB3
+../../PDB_files/entire_PDB/files/jf/pdb1jfp.ent	A	335	THR	HG21	HG22	HG23
+../../PDB_files/entire_PDB/files/jf/pdb1jfp.ent	A	348	ALA	HMB1	HMB2	HMB3
+../../PDB_files/entire_PDB/files/jh/pdb1jhg.ent	A	8	SER	 HB2	 HB3
+../../PDB_files/entire_PDB/files/jh/pdb1jhg.ent	A	11	MET	 HB2	 HB3
+../../PDB_files/entire_PDB/files/jh/pdb1jhg.ent	A	74	GLU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/jm/pdb1jm1.ent	A	87	ASP	 HB2	 HB3
+../../PDB_files/entire_PDB/files/jx/pdb1jxt.ent	A	23	GLU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/jx/pdb1jxt.ent	A	34	ILE	HG21	HG22	HG23
+../../PDB_files/entire_PDB/files/jx/pdb1jxy.ent	A	34	ILE	HG21	HG22	HG23
+../../PDB_files/entire_PDB/files/jx/pdb4jx1.ent	B	186	ARG	 HB2	 HB3
+../../PDB_files/entire_PDB/files/jx/pdb4jx1.ent	F	186	ARG	 HB2	 HB3
+../../PDB_files/entire_PDB/files/jz/pdb2jzn.ent	A	123	ARG	HH11	HH12
+../../PDB_files/entire_PDB/files/jz/pdb2jzn.ent	A	123	ARG	HH21	HH22
+../../PDB_files/entire_PDB/files/jz/pdb2jzn.ent	A	123	ARG	 HG2	 HG3
+../../PDB_files/entire_PDB/files/jz/pdb2jzn.ent	B	10	GLU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/jz/pdb2jzn.ent	B	10	GLU	 HG3
+../../PDB_files/entire_PDB/files/jz/pdb2jzn.ent	B	105	ARG	HH11	HH12
+../../PDB_files/entire_PDB/files/jz/pdb2jzn.ent	B	105	ARG	HH21	HH22
+../../PDB_files/entire_PDB/files/jz/pdb2jzn.ent	B	105	ARG	 HG2	 HG3
+../../PDB_files/entire_PDB/files/jz/pdb2jzn.ent	B	123	ARG	HH11	HH12
+../../PDB_files/entire_PDB/files/jz/pdb2jzn.ent	B	123	ARG	HH21	HH22
+../../PDB_files/entire_PDB/files/jz/pdb2jzn.ent	B	123	ARG	 HG2	 HG3
+../../PDB_files/entire_PDB/files/jz/pdb2jzo.ent	A	105	ARG	HH11	HH12
+../../PDB_files/entire_PDB/files/jz/pdb2jzo.ent	A	105	ARG	HH21	HH22
+../../PDB_files/entire_PDB/files/jz/pdb2jzo.ent	A	105	ARG	 HG2	 HG3
+../../PDB_files/entire_PDB/files/jz/pdb2jzo.ent	A	123	ARG	HH11	HH12
+../../PDB_files/entire_PDB/files/jz/pdb2jzo.ent	A	123	ARG	HH21	HH22
+../../PDB_files/entire_PDB/files/jz/pdb2jzo.ent	A	123	ARG	 HG2	 HG3
+../../PDB_files/entire_PDB/files/jz/pdb2jzo.ent	B	105	ARG	HH11	HH12
+../../PDB_files/entire_PDB/files/jz/pdb2jzo.ent	B	105	ARG	HH21	HH22
+../../PDB_files/entire_PDB/files/jz/pdb2jzo.ent	B	105	ARG	 HG2	 HG3
+../../PDB_files/entire_PDB/files/jz/pdb2jzo.ent	B	123	ARG	HH11	HH12
+../../PDB_files/entire_PDB/files/jz/pdb2jzo.ent	B	123	ARG	HH21	HH22
+../../PDB_files/entire_PDB/files/jz/pdb2jzo.ent	B	123	ARG	 HG2	 HG3
+../../PDB_files/entire_PDB/files/jz/pdb2jzo.ent	D	184	LYS	 HZ1	 HZ2	 HZ3
+../../PDB_files/entire_PDB/files/jz/pdb2jzo.ent	D	184	LYS	 HG2	 HG3
+../../PDB_files/entire_PDB/files/jz/pdb2jzo.ent	D	184	LYS	 HD2	 HD3
+../../PDB_files/entire_PDB/files/jz/pdb2jzo.ent	D	184	LYS	 HE2	 HE3
+../../PDB_files/entire_PDB/files/k0/pdb3k0m.ent	A	165	GLU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/k0/pdb4k0a.ent	A	463	ASN	 HB2	 HB3
+../../PDB_files/entire_PDB/files/k1/pdb1k18.ent	A	10	ARG	 HB2	 HB3
+../../PDB_files/entire_PDB/files/k3/pdb1k3h.ent	A	50	LYS	 HZ3
+../../PDB_files/entire_PDB/files/k3/pdb1k3h.ent	A	50	LYS	 HE2	 HE3
+../../PDB_files/entire_PDB/files/k5/pdb1k5o.ent	A	1	ALA	HMB1	HMB2	HMB3
+../../PDB_files/entire_PDB/files/k5/pdb1k5o.ent	A	1	ALA	 HM1	 HM2	 HM3
+../../PDB_files/entire_PDB/files/k7/pdb1k76.ent	A	24	LYS	 HZ1	 HZ2	 HZ3
+../../PDB_files/entire_PDB/files/k7/pdb1k76.ent	A	24	LYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/k7/pdb1k76.ent	A	24	LYS	 HG2	 HG3
+../../PDB_files/entire_PDB/files/k7/pdb1k76.ent	A	24	LYS	 HD2	 HD3
+../../PDB_files/entire_PDB/files/k7/pdb1k76.ent	A	24	LYS	 HE2	 HE3
+../../PDB_files/entire_PDB/files/k8/pdb1k8m.ent	A	3	GLN	HE21	HE22
+../../PDB_files/entire_PDB/files/k8/pdb1k8m.ent	A	3	GLN	 HB3
+../../PDB_files/entire_PDB/files/k8/pdb1k8m.ent	A	6	GLN	HE21	HE22
+../../PDB_files/entire_PDB/files/k8/pdb1k8m.ent	A	6	GLN	 HG2	 HG3
+../../PDB_files/entire_PDB/files/k8/pdb1k8m.ent	A	8	LYS	 HG2	 HG3
+../../PDB_files/entire_PDB/files/k8/pdb1k8m.ent	A	8	LYS	 HE2	 HE3
+../../PDB_files/entire_PDB/files/k8/pdb1k8m.ent	A	12	ILE	HG12	HG13
+../../PDB_files/entire_PDB/files/k8/pdb1k8m.ent	A	16	ILE	HG12	HG13
+../../PDB_files/entire_PDB/files/k8/pdb1k8m.ent	A	17	ARG	HH11	HH12
+../../PDB_files/entire_PDB/files/k8/pdb1k8m.ent	A	17	ARG	HH21	HH22
+../../PDB_files/entire_PDB/files/k8/pdb1k8m.ent	A	17	ARG	 HB2	 HB3
+../../PDB_files/entire_PDB/files/k8/pdb1k8m.ent	A	18	GLU	 HG2	 HG3
+../../PDB_files/entire_PDB/files/k8/pdb1k8m.ent	A	22	LYS	 HZ1	 HZ2	 HZ3
+../../PDB_files/entire_PDB/files/k8/pdb1k8m.ent	A	22	LYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/k8/pdb1k8m.ent	A	23	GLU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/k8/pdb1k8m.ent	A	27	LYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/k8/pdb1k8m.ent	A	28	GLU	 HG2	 HG3
+../../PDB_files/entire_PDB/files/k8/pdb1k8m.ent	A	30	ASP	 HB2	 HB3
+../../PDB_files/entire_PDB/files/k8/pdb1k8m.ent	A	33	SER	 HB2	 HB3
+../../PDB_files/entire_PDB/files/k8/pdb1k8m.ent	A	34	GLN	HE21	HE22
+../../PDB_files/entire_PDB/files/k8/pdb1k8m.ent	A	37	SER	 HB2	 HB3
+../../PDB_files/entire_PDB/files/k8/pdb1k8m.ent	A	38	ILE	HG12	HG13
+../../PDB_files/entire_PDB/files/k8/pdb1k8m.ent	A	40	GLU	 HG2	 HG3
+../../PDB_files/entire_PDB/files/k8/pdb1k8m.ent	A	43	SER	 HB2	 HB3
+../../PDB_files/entire_PDB/files/k8/pdb1k8m.ent	A	45	LYS	 HZ1	 HZ2	 HZ3
+../../PDB_files/entire_PDB/files/k8/pdb1k8m.ent	A	45	LYS	 HE2
+../../PDB_files/entire_PDB/files/k8/pdb1k8m.ent	A	47	SER	 HB2	 HB3
+../../PDB_files/entire_PDB/files/k8/pdb1k8m.ent	A	50	ILE	HG12	HG13
+../../PDB_files/entire_PDB/files/k8/pdb1k8m.ent	A	52	SER	 HB2	 HB3
+../../PDB_files/entire_PDB/files/k8/pdb1k8m.ent	A	53	ARG	HH12
+../../PDB_files/entire_PDB/files/k8/pdb1k8m.ent	A	53	ARG	HH22
+../../PDB_files/entire_PDB/files/k8/pdb1k8m.ent	A	53	ARG	 HB2	 HB3
+../../PDB_files/entire_PDB/files/k8/pdb1k8m.ent	A	53	ARG	 HG2
+../../PDB_files/entire_PDB/files/k8/pdb1k8m.ent	A	58	ILE	HG12	HG13
+../../PDB_files/entire_PDB/files/k8/pdb1k8m.ent	A	59	LYS	 HZ1	 HZ2	 HZ3
+../../PDB_files/entire_PDB/files/k8/pdb1k8m.ent	A	59	LYS	 HD2	 HD3
+../../PDB_files/entire_PDB/files/k8/pdb1k8m.ent	A	60	LYS	 HE2	 HE3
+../../PDB_files/entire_PDB/files/k8/pdb1k8m.ent	A	66	ASP	 HB2	 HB3
+../../PDB_files/entire_PDB/files/k8/pdb1k8m.ent	A	68	ILE	HG12	HG13
+../../PDB_files/entire_PDB/files/k8/pdb1k8m.ent	A	73	LYS	 HZ1	 HZ2	 HZ3
+../../PDB_files/entire_PDB/files/k8/pdb1k8m.ent	A	73	LYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/k8/pdb1k8m.ent	A	75	LEU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/k8/pdb1k8m.ent	A	78	ILE	HG12	HG13
+../../PDB_files/entire_PDB/files/k8/pdb1k8m.ent	A	81	GLU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/k8/pdb1k8m.ent	A	84	LYS	 HZ1	 HZ2	 HZ3
+../../PDB_files/entire_PDB/files/k8/pdb1k8m.ent	A	84	LYS	 HG2	 HG3
+../../PDB_files/entire_PDB/files/k8/pdb1k8m.ent	A	85	ASP	 HB2	 HB3
+../../PDB_files/entire_PDB/files/k8/pdb1k8m.ent	A	86	LEU	HD11	HD12	HD13
+../../PDB_files/entire_PDB/files/k8/pdb1k8m.ent	A	86	LEU	 HB2
+../../PDB_files/entire_PDB/files/k8/pdb1k8m.ent	A	87	GLU	 HB3
+../../PDB_files/entire_PDB/files/k8/pdb1k8m.ent	A	87	GLU	 HG2
+../../PDB_files/entire_PDB/files/k9/pdb4k9j.ent	A	18	ASN	 HB3
+../../PDB_files/entire_PDB/files/k9/pdb4k9j.ent	A	92	LYS	 HD2	 HD3
+../../PDB_files/entire_PDB/files/k9/pdb4k9j.ent	A	93	ASP	 HB2	 HB3
+../../PDB_files/entire_PDB/files/ka/pdb4ka2.ent	A	463	ASN	 HB2	 HB3
+../../PDB_files/entire_PDB/files/kb/pdb1kbs.ent	A	20	LEU	HD22
+../../PDB_files/entire_PDB/files/kb/pdb1kbs.ent	A	41	VAL	HG13
+../../PDB_files/entire_PDB/files/kb/pdb1kbs.ent	A	60	ASN	HD21
+../../PDB_files/entire_PDB/files/kb/pdb1kbs.ent	A	60	ASN	 HB2	 HB3
+../../PDB_files/entire_PDB/files/kh/pdb4kha.ent	A	677	GLU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/km/pdb1kmt.ent	A	135	LYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/km/pdb1kmt.ent	B	135	LYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/kn/pdb4kn6.ent	A	13	GLU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/kn/pdb4kn6.ent	A	22	CYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/kn/pdb4kn6.ent	A	90	SER	 HB2	 HB3
+../../PDB_files/entire_PDB/files/kn/pdb4kn6.ent	A	102	LYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/kn/pdb4kn6.ent	A	140	LYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/kn/pdb4kn6.ent	A	205	CYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/kn/pdb4kn6.ent	A	216	LYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/kq/pdb1kqp.ent	A	192	LEU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/kq/pdb1kqp.ent	A	256	GLU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/kr/pdb1krs.ent	A	136	LEU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/kr/pdb3krj.ent	A	544	PRO	 HB2	 HB3
+../../PDB_files/entire_PDB/files/kr/pdb3krj.ent	A	545	LYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/kr/pdb3krl.ent	A	545	LYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/kr/pdb4kro.ent	A	474	SER	 HB2	 HB3
+../../PDB_files/entire_PDB/files/kr/pdb4krp.ent	A	25	LEU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/kr/pdb4krp.ent	A	27	LEU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/kr/pdb4krp.ent	A	29	ARG	 HB2	 HB3
+../../PDB_files/entire_PDB/files/kt/pdb4kt3.ent	B	92	LYS	 HZ1	 HZ2	 HZ3
+../../PDB_files/entire_PDB/files/kt/pdb4kt3.ent	B	92	LYS	 HG2	 HG3
+../../PDB_files/entire_PDB/files/kt/pdb4kt3.ent	B	92	LYS	 HD2	 HD3
+../../PDB_files/entire_PDB/files/kt/pdb4kt3.ent	B	92	LYS	 HE2	 HE3
+../../PDB_files/entire_PDB/files/kw/pdb1kwj.ent	A	1	ALA	HMB1	HMB2	HMB3
+../../PDB_files/entire_PDB/files/kw/pdb1kwj.ent	A	1	ALA	 HM1	 HM2	 HM3
+../../PDB_files/entire_PDB/files/kw/pdb4kw4.ent	A	5	GLU	 HG2	 HG3
+../../PDB_files/entire_PDB/files/kw/pdb4kw4.ent	A	158	LYS	 HE2	 HE3
+../../PDB_files/entire_PDB/files/kw/pdb4kw8.ent	A	5	GLU	 HG2	 HG3
+../../PDB_files/entire_PDB/files/kw/pdb4kw8.ent	A	26	LYS	 HG2	 HG3
+../../PDB_files/entire_PDB/files/kw/pdb4kw8.ent	A	80	GLN	 HG2	 HG3
+../../PDB_files/entire_PDB/files/kw/pdb4kw8.ent	A	101	LYS	 HD2	 HD3
+../../PDB_files/entire_PDB/files/kw/pdb4kw8.ent	A	126	LYS	 HG2	 HG3
+../../PDB_files/entire_PDB/files/kw/pdb4kw8.ent	A	133	ASP	 HB2	 HB3
+../../PDB_files/entire_PDB/files/kw/pdb4kw8.ent	A	158	LYS	 HE2	 HE3
+../../PDB_files/entire_PDB/files/kw/pdb4kw9.ent	A	5	GLU	 HG2	 HG3
+../../PDB_files/entire_PDB/files/kw/pdb4kw9.ent	A	32	GLU	 HG2	 HG3
+../../PDB_files/entire_PDB/files/kw/pdb4kw9.ent	A	133	ASP	 HB2	 HB3
+../../PDB_files/entire_PDB/files/kw/pdb4kw9.ent	A	142	GLU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/kw/pdb4kw9.ent	A	157	GLN	 HB2	 HB3
+../../PDB_files/entire_PDB/files/kw/pdb4kw9.ent	A	168	ARG	 HB2	 HB3
+../../PDB_files/entire_PDB/files/kw/pdb4kwp.ent	A	330	ASP	 HB2	 HB3
+../../PDB_files/entire_PDB/files/kx/pdb4kxq.ent	A	232	HIS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/ky/pdb1kyf.ent	A	707	ARG	HH11	HH12
+../../PDB_files/entire_PDB/files/ky/pdb1kyf.ent	A	707	ARG	HH21	HH22
+../../PDB_files/entire_PDB/files/ky/pdb1kyf.ent	A	707	ARG	 HG2	 HG3
+../../PDB_files/entire_PDB/files/kz/pdb1kzk.ent	A	70	LYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/kz/pdb1kzk.ent	B	70	LYS	 HD2	 HD3
+../../PDB_files/entire_PDB/files/l0/pdb1l0m.ent	A	41	LYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/l0/pdb1l0m.ent	A	41	LYS	 HG2	 HG3
+../../PDB_files/entire_PDB/files/l0/pdb1l0m.ent	A	45	ILE	HG21	HG22	HG23
+../../PDB_files/entire_PDB/files/l0/pdb1l0m.ent	A	45	ILE	HD11	HD12	HD13
+../../PDB_files/entire_PDB/files/l0/pdb1l0m.ent	A	45	ILE	HG12	HG13
+../../PDB_files/entire_PDB/files/l0/pdb1l0m.ent	A	87	LEU	HD11	HD12	HD13
+../../PDB_files/entire_PDB/files/l0/pdb1l0m.ent	A	87	LEU	HD21	HD22	HD23
+../../PDB_files/entire_PDB/files/l0/pdb1l0m.ent	A	87	LEU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/l2/pdb3l2l.ent	A	272	GLU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/l2/pdb3l2l.ent	A	368	LYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/l8/pdb1l8z.ent	A	61	LYS	 HZ1	 HZ2	 HZ3
+../../PDB_files/entire_PDB/files/l8/pdb1l8z.ent	A	61	LYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/l8/pdb1l8z.ent	A	61	LYS	 HG2	 HG3
+../../PDB_files/entire_PDB/files/l8/pdb1l8z.ent	A	61	LYS	 HD3
+../../PDB_files/entire_PDB/files/l8/pdb1l8z.ent	A	75	ALA	HMB1	HMB2	HMB3
+../../PDB_files/entire_PDB/files/l8/pdb1l8z.ent	A	77	THR	HG21	HG22	HG23
+../../PDB_files/entire_PDB/files/l8/pdb1l8z.ent	A	78	ASN	HD21	HD22
+../../PDB_files/entire_PDB/files/l8/pdb1l8z.ent	A	78	ASN	 HB3
+../../PDB_files/entire_PDB/files/l8/pdb1l8z.ent	A	79	SER	 HB2	 HB3
+../../PDB_files/entire_PDB/files/l8/pdb1l8z.ent	A	80	SER	 HB2	 HB3
+../../PDB_files/entire_PDB/files/l8/pdb1l8z.ent	A	81	LYS	 HZ1	 HZ2	 HZ3
+../../PDB_files/entire_PDB/files/l8/pdb1l8z.ent	A	81	LYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/l8/pdb1l8z.ent	A	81	LYS	 HG2
+../../PDB_files/entire_PDB/files/l8/pdb1l8z.ent	A	81	LYS	 HD2
+../../PDB_files/entire_PDB/files/l8/pdb1l8z.ent	A	81	LYS	 HE2	 HE3
+../../PDB_files/entire_PDB/files/l8/pdb1l8z.ent	A	82	LYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/l8/pdb1l8z.ent	A	83	LEU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/l9/pdb1l9l.ent	A	15	LYS	 HD2	 HD3
+../../PDB_files/entire_PDB/files/l9/pdb2l9h.ent	A	65	LEU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/l9/pdb2l9h.ent	C	28	PHE	 HB2	 HB3
+../../PDB_files/entire_PDB/files/la/pdb1lac.ent	A	30	ASN	HD22
+../../PDB_files/entire_PDB/files/la/pdb1lac.ent	A	30	ASN	 HB2	 HB3
+../../PDB_files/entire_PDB/files/la/pdb1lac.ent	A	35	LEU	HD11	HD12	HD13
+../../PDB_files/entire_PDB/files/la/pdb1lac.ent	A	35	LEU	HD21	HD22	HD23
+../../PDB_files/entire_PDB/files/la/pdb1lac.ent	A	35	LEU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/ld/pdb4ldc.ent	A	321	LYS	 HG2	 HG3
+../../PDB_files/entire_PDB/files/ld/pdb4ldc.ent	A	342	LYS	 HD2
+../../PDB_files/entire_PDB/files/ld/pdb4ldr.ent	A	259	LYS	 HZ2
+../../PDB_files/entire_PDB/files/ld/pdb4ldr.ent	A	259	LYS	 HE2	 HE3
+../../PDB_files/entire_PDB/files/ld/pdb4ldr.ent	A	279	ALA	HMB2	HMB3
+../../PDB_files/entire_PDB/files/ld/pdb4ldr.ent	B	67	ALA	HMB1	HMB2
+../../PDB_files/entire_PDB/files/lh/pdb2lhb.ent	A	18	LYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/lh/pdb2lhb.ent	A	38	LEU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/lh/pdb2lhb.ent	A	54	LYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/lh/pdb2lhb.ent	A	63	GLU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/lh/pdb2lhb.ent	A	76	ARG	HH11	HH12
+../../PDB_files/entire_PDB/files/lh/pdb2lhb.ent	A	76	ARG	HH21	HH22
+../../PDB_files/entire_PDB/files/lh/pdb2lhb.ent	A	76	ARG	 HG2	 HG3
+../../PDB_files/entire_PDB/files/lh/pdb2lhb.ent	A	93	LYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/lh/pdb2lhb.ent	A	97	LYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/lh/pdb2lhb.ent	A	99	ARG	 HG2	 HG3
+../../PDB_files/entire_PDB/files/lh/pdb2lhb.ent	A	107	LYS	 HG2	 HG3
+../../PDB_files/entire_PDB/files/lh/pdb2lhb.ent	A	114	GLU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/lh/pdb2lhb.ent	A	140	MET	 HG2	 HG3
+../../PDB_files/entire_PDB/files/lk/pdb1lkk.ent	A	122	LEU	HD11	HD12	HD13
+../../PDB_files/entire_PDB/files/lk/pdb1lkk.ent	A	122	LEU	HD21	HD22	HD23
+../../PDB_files/entire_PDB/files/lk/pdb1lkk.ent	A	122	LEU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/lk/pdb1lkk.ent	A	122	LEU	 HM1	 HM2	 HM3
+../../PDB_files/entire_PDB/files/lm/pdb1lms.ent	A	78	THR	HG23
+../../PDB_files/entire_PDB/files/lm/pdb1lms.ent	A	85	LEU	HD13
+../../PDB_files/entire_PDB/files/ln/pdb1ln6.ent	A	110	CYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/ln/pdb1ln6.ent	A	140	CYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/ln/pdb1ln6.ent	A	187	CYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/ln/pdb1ln6.ent	A	309	MET	 HE1	 HE2	 HE3
+../../PDB_files/entire_PDB/files/ln/pdb1ln6.ent	A	309	MET	 HB2	 HB3
+../../PDB_files/entire_PDB/files/ln/pdb1ln6.ent	A	348	ALA	HMB1	HMB2	HMB3
+../../PDB_files/entire_PDB/files/lp/pdb4lpk.ent	A	31	GLU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/lp/pdb4lpk.ent	A	34	PRO	 HD2	 HD3
+../../PDB_files/entire_PDB/files/lp/pdb4lpk.ent	B	34	PRO	 HD2	 HD3
+../../PDB_files/entire_PDB/files/lp/pdb4lpk.ent	B	99	GLN	 HB2	 HB3
+../../PDB_files/entire_PDB/files/lq/pdb1lqt.ent	A	286	ARG	 HB2	 HB3
+../../PDB_files/entire_PDB/files/lq/pdb1lqt.ent	A	343	ASN	 HB2	 HB3
+../../PDB_files/entire_PDB/files/lq/pdb1lqu.ent	A	69	LYS	 HZ3
+../../PDB_files/entire_PDB/files/lq/pdb1lqu.ent	A	69	LYS	 HE2	 HE3
+../../PDB_files/entire_PDB/files/lq/pdb1lqu.ent	A	246	LYS	 HZ2
+../../PDB_files/entire_PDB/files/lq/pdb1lqu.ent	A	246	LYS	 HE2	 HE3
+../../PDB_files/entire_PDB/files/lq/pdb1lqu.ent	A	281	LYS	 HZ2	 HZ3
+../../PDB_files/entire_PDB/files/lq/pdb1lqu.ent	A	281	LYS	 HE2	 HE3
+../../PDB_files/entire_PDB/files/lq/pdb1lqu.ent	A	396	LYS	 HZ3
+../../PDB_files/entire_PDB/files/lq/pdb1lqu.ent	A	396	LYS	 HE2	 HE3
+../../PDB_files/entire_PDB/files/lq/pdb1lqu.ent	B	192	GLN	HE22
+../../PDB_files/entire_PDB/files/lq/pdb1lqu.ent	B	192	GLN	 HG2	 HG3
+../../PDB_files/entire_PDB/files/lq/pdb1lqu.ent	B	246	LYS	 HZ2
+../../PDB_files/entire_PDB/files/lq/pdb1lqu.ent	B	246	LYS	 HE2	 HE3
+../../PDB_files/entire_PDB/files/lq/pdb1lqu.ent	B	373	LYS	 HZ2
+../../PDB_files/entire_PDB/files/lq/pdb1lqu.ent	B	373	LYS	 HE2	 HE3
+../../PDB_files/entire_PDB/files/ls/pdb1ls1.ent	A	54	ARG	 HG2	 HG3
+../../PDB_files/entire_PDB/files/ls/pdb1ls1.ent	A	98	ARG	 HB2	 HB3
+../../PDB_files/entire_PDB/files/ls/pdb1ls1.ent	A	157	LEU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/ls/pdb4lsc.ent	A	27	ASN	 HB2	 HB3
+../../PDB_files/entire_PDB/files/ls/pdb4lsc.ent	A	48	GLN	 HB2	 HB3
+../../PDB_files/entire_PDB/files/ls/pdb4lsc.ent	A	61	PHE	 HB2	 HB3
+../../PDB_files/entire_PDB/files/ls/pdb4lsp.ent	H	29	PRO	 HD2	 HD3
+../../PDB_files/entire_PDB/files/lx/pdb1lxd.ent	A	29	ASN	HD21	HD22
+../../PDB_files/entire_PDB/files/ly/pdb4lyh.ent	B	149	ARG	 HB2	 HB3
+../../PDB_files/entire_PDB/files/m0/pdb3m08.ent	A	71	GLU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/m0/pdb3m08.ent	A	143	GLU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/m0/pdb3m08.ent	A	144	LYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/m0/pdb3m09.ent	A	71	GLU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/m0/pdb3m09.ent	A	143	GLU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/m0/pdb3m09.ent	A	144	LYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/m4/pdb1m40.ent	A	187	ALA	HMB1	HMB2	HMB3
+../../PDB_files/entire_PDB/files/m6/pdb1m60.ent	A	33	HIS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/m6/pdb1m60.ent	A	104	GLU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/me/pdb1mea.ent	A	4	ARG	HH11	HH12
+../../PDB_files/entire_PDB/files/me/pdb1mea.ent	A	4	ARG	HH22
+../../PDB_files/entire_PDB/files/me/pdb1mea.ent	A	12	LYS	 HZ1	 HZ2	 HZ3
+../../PDB_files/entire_PDB/files/me/pdb1mea.ent	A	12	LYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/me/pdb1mea.ent	A	12	LYS	 HG2	 HG3
+../../PDB_files/entire_PDB/files/me/pdb1mea.ent	A	12	LYS	 HD3
+../../PDB_files/entire_PDB/files/me/pdb1mea.ent	A	12	LYS	 HE2	 HE3
+../../PDB_files/entire_PDB/files/me/pdb1mes.ent	A	55	LYS	 HZ1	 HZ2
+../../PDB_files/entire_PDB/files/me/pdb1met.ent	A	55	LYS	 HZ1	 HZ3
+../../PDB_files/entire_PDB/files/me/pdb1met.ent	B	55	LYS	 HZ2	 HZ3
+../../PDB_files/entire_PDB/files/me/pdb1meu.ent	A	14	LYS	 HZ1
+../../PDB_files/entire_PDB/files/me/pdb1meu.ent	A	20	LYS	 HZ1
+../../PDB_files/entire_PDB/files/me/pdb1meu.ent	A	43	LYS	 HZ1
+../../PDB_files/entire_PDB/files/me/pdb1meu.ent	A	45	LYS	 HZ1
+../../PDB_files/entire_PDB/files/me/pdb1meu.ent	A	55	LYS	 HZ1
+../../PDB_files/entire_PDB/files/me/pdb1meu.ent	A	70	LYS	 HZ1
+../../PDB_files/entire_PDB/files/me/pdb1meu.ent	B	14	LYS	 HZ1
+../../PDB_files/entire_PDB/files/me/pdb1meu.ent	B	20	LYS	 HZ1
+../../PDB_files/entire_PDB/files/me/pdb1meu.ent	B	43	LYS	 HZ3
+../../PDB_files/entire_PDB/files/me/pdb1meu.ent	B	45	LYS	 HZ1
+../../PDB_files/entire_PDB/files/me/pdb1meu.ent	B	55	LYS	 HZ2
+../../PDB_files/entire_PDB/files/me/pdb1meu.ent	B	70	LYS	 HZ1
+../../PDB_files/entire_PDB/files/mf/pdb4mf6.ent	A	1	MET	 HB2	 HB3
+../../PDB_files/entire_PDB/files/mf/pdb4mf6.ent	A	233	ARG	 HB2	 HB3
+../../PDB_files/entire_PDB/files/mg/pdb3mg3.ent	A	170	LYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/mg/pdb3mg3.ent	A	171	ARG	 HB2	 HB3
+../../PDB_files/entire_PDB/files/mh/pdb1mh6.ent	A	298	GLU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/mh/pdb1mh6.ent	B	98	GLU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/mh/pdb1mhe.ent	A	79	ARG	HH11	HH12
+../../PDB_files/entire_PDB/files/mh/pdb1mhe.ent	A	79	ARG	HH22
+../../PDB_files/entire_PDB/files/mh/pdb2mhr.ent	A	71	VAL	HG11	HG12	HG13
+../../PDB_files/entire_PDB/files/mh/pdb2mhr.ent	A	71	VAL	HG21	HG22	HG23
+../../PDB_files/entire_PDB/files/ml/pdb4mly.ent	B	169	ASP	 HB2	 HB3
+../../PDB_files/entire_PDB/files/ml/pdb4mly.ent	D	147	LYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/ml/pdb4mly.ent	D	166	GLU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/mn/pdb1mny.ent	A	3	ASP	 HB2	 HB3
+../../PDB_files/entire_PDB/files/mp/pdb1mpa.ent	L	27	GLN	HE22
+../../PDB_files/entire_PDB/files/mp/pdb4mpa.ent	A	35	LEU	HD11	HD12	HD13
+../../PDB_files/entire_PDB/files/mp/pdb4mpa.ent	A	35	LEU	HD21	HD22	HD23
+../../PDB_files/entire_PDB/files/mp/pdb4mpa.ent	A	35	LEU	 HB2
+../../PDB_files/entire_PDB/files/ms/pdb1mso.ent	D	1	PHE	 HB2	 HB3
+../../PDB_files/entire_PDB/files/ms/pdb4mss.ent	A	298	LYS	 HG2	 HG3
+../../PDB_files/entire_PDB/files/ms/pdb4mss.ent	A	320	LYS	 HD2	 HD3
+../../PDB_files/entire_PDB/files/mu/pdb1muw.ent	A	73	ARG	HH11	HH12
+../../PDB_files/entire_PDB/files/mu/pdb1muw.ent	A	73	ARG	HH21	HH22
+../../PDB_files/entire_PDB/files/mu/pdb1muw.ent	A	73	ARG	 HG2	 HG3
+../../PDB_files/entire_PDB/files/mx/pdb1mxt.ent	A	183	LYS	 HD2	 HD3
+../../PDB_files/entire_PDB/files/mx/pdb1mxt.ent	A	436	GLN	 HB2	 HB3
+../../PDB_files/entire_PDB/files/n0/pdb3n0u.ent	A	-1	HIS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/n0/pdb3n0u.ent	A	0	HIS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/n0/pdb3n0u.ent	B	-1	HIS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/n0/pdb3n0u.ent	B	0	HIS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/n0/pdb3n0u.ent	C	0	HIS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/n1/pdb1n1p.ent	A	183	LYS	 HD2	 HD3
+../../PDB_files/entire_PDB/files/n1/pdb1n1p.ent	A	241	LYS	 HE2	 HE3
+../../PDB_files/entire_PDB/files/n1/pdb1n1p.ent	A	436	GLN	 HB2	 HB3
+../../PDB_files/entire_PDB/files/n1/pdb4n19.ent	A	3	GLN	HE21	HE22
+../../PDB_files/entire_PDB/files/n1/pdb4n19.ent	A	3	GLN	 HB2	 HB3
+../../PDB_files/entire_PDB/files/n1/pdb4n19.ent	A	18	ARG	HH21	HH22
+../../PDB_files/entire_PDB/files/n1/pdb4n19.ent	A	18	ARG	 HG2	 HG3
+../../PDB_files/entire_PDB/files/n1/pdb4n19.ent	A	34	LYS	 HG2	 HG3
+../../PDB_files/entire_PDB/files/n1/pdb4n19.ent	A	44	LYS	 HG2	 HG3
+../../PDB_files/entire_PDB/files/n4/pdb1n4u.ent	A	278	LYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/n4/pdb1n4u.ent	A	436	GLN	 HB2	 HB3
+../../PDB_files/entire_PDB/files/n4/pdb1n4v.ent	A	436	GLN	 HB2	 HB3
+../../PDB_files/entire_PDB/files/n4/pdb1n4w.ent	A	183	LYS	 HD2	 HD3
+../../PDB_files/entire_PDB/files/n4/pdb1n4w.ent	A	210	LYS	 HD2	 HD3
+../../PDB_files/entire_PDB/files/n4/pdb1n4w.ent	A	273	LYS	 HE2	 HE3
+../../PDB_files/entire_PDB/files/n4/pdb1n4w.ent	A	344	PRO	 HB2	 HB3
+../../PDB_files/entire_PDB/files/n4/pdb1n4w.ent	A	344	PRO	 HD2	 HD3
+../../PDB_files/entire_PDB/files/n4/pdb1n4w.ent	A	436	GLN	 HB2	 HB3
+../../PDB_files/entire_PDB/files/n6/pdb4n65.ent	A	14	GLU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/n6/pdb4n65.ent	A	37	ARG	 HB2	 HB3
+../../PDB_files/entire_PDB/files/n6/pdb4n65.ent	A	63	GLN	 HB2	 HB3
+../../PDB_files/entire_PDB/files/n6/pdb4n65.ent	A	65	GLU	 HG2	 HG3
+../../PDB_files/entire_PDB/files/n6/pdb4n65.ent	A	72	GLN	 HB2	 HB3
+../../PDB_files/entire_PDB/files/n6/pdb4n65.ent	A	125	ASP	 HB2	 HB3
+../../PDB_files/entire_PDB/files/n6/pdb4n65.ent	A	126	ASN	 HB2	 HB3
+../../PDB_files/entire_PDB/files/n6/pdb4n65.ent	A	130	GLN	 HG2	 HG3
+../../PDB_files/entire_PDB/files/n6/pdb4n65.ent	A	136	ARG	 HB2	 HB3
+../../PDB_files/entire_PDB/files/n6/pdb4n65.ent	A	156	GLU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/n6/pdb4n65.ent	A	178	GLU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/n6/pdb4n65.ent	A	189	SER	 HB2	 HB3
+../../PDB_files/entire_PDB/files/n6/pdb4n65.ent	A	195	GLU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/n6/pdb4n65.ent	A	199	ASP	 HB2	 HB3
+../../PDB_files/entire_PDB/files/n6/pdb4n65.ent	A	200	GLU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/n6/pdb4n65.ent	B	15	ARG	 HG2	 HG3
+../../PDB_files/entire_PDB/files/n6/pdb4n65.ent	B	122	PHE	 HB2	 HB3
+../../PDB_files/entire_PDB/files/n6/pdb4n65.ent	B	130	GLN	 HB2	 HB3
+../../PDB_files/entire_PDB/files/n6/pdb4n65.ent	B	132	ARG	 HG2	 HG3
+../../PDB_files/entire_PDB/files/n6/pdb4n65.ent	B	136	ARG	 HB2	 HB3
+../../PDB_files/entire_PDB/files/n6/pdb4n65.ent	B	156	GLU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/n6/pdb4n65.ent	B	196	ASP	 HB2	 HB3
+../../PDB_files/entire_PDB/files/n6/pdb4n65.ent	B	199	ASP	 HB2	 HB3
+../../PDB_files/entire_PDB/files/n6/pdb4n65.ent	B	200	GLU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/n6/pdb4n65.ent	B	204	ARG	 HG2	 HG3
+../../PDB_files/entire_PDB/files/nc/pdb4nch.ent	A	872	GLU	 HG2	 HG3
+../../PDB_files/entire_PDB/files/nc/pdb4nch.ent	B	2	LYS	 HE2	 HE3
+../../PDB_files/entire_PDB/files/nc/pdb4nch.ent	B	23	GLU	 HG2	 HG3
+../../PDB_files/entire_PDB/files/nc/pdb4nch.ent	B	57	LYS	 HD2	 HD3
+../../PDB_files/entire_PDB/files/nc/pdb4nch.ent	B	109	LYS	 HD2	 HD3
+../../PDB_files/entire_PDB/files/nc/pdb4nck.ent	A	117	LYS	 HD2	 HD3
+../../PDB_files/entire_PDB/files/nc/pdb4nck.ent	A	155	LYS	 HD2	 HD3
+../../PDB_files/entire_PDB/files/nc/pdb4nck.ent	B	109	LYS	 HG2	 HG3
+../../PDB_files/entire_PDB/files/nc/pdb4nck.ent	B	155	LYS	 HD2	 HD3
+../../PDB_files/entire_PDB/files/nc/pdb4nck.ent	B	737	LYS	 HD2	 HD3
+../../PDB_files/entire_PDB/files/nc/pdb4nck.ent	B	877	LYS	 HG2	 HG3
+../../PDB_files/entire_PDB/files/ne/pdb1ney.ent	A	100	SER	 HB2	 HB3
+../../PDB_files/entire_PDB/files/ne/pdb1ney.ent	A	145	ARG	 HG2	 HG3
+../../PDB_files/entire_PDB/files/ne/pdb1ney.ent	A	187	SER	 HB2	 HB3
+../../PDB_files/entire_PDB/files/ne/pdb1ney.ent	B	96	SER	 HB2	 HB3
+../../PDB_files/entire_PDB/files/ne/pdb1ney.ent	B	100	SER	 HB2	 HB3
+../../PDB_files/entire_PDB/files/ne/pdb1ney.ent	B	103	HIS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/ne/pdb1ney.ent	B	107	LYS	 HE2	 HE3
+../../PDB_files/entire_PDB/files/ne/pdb1ney.ent	B	134	LYS	 HD2	 HD3
+../../PDB_files/entire_PDB/files/ne/pdb1ney.ent	B	152	GLU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/ne/pdb1ney.ent	B	159	ASN	 HB2	 HB3
+../../PDB_files/entire_PDB/files/ne/pdb1ney.ent	B	187	SER	 HB2	 HB3
+../../PDB_files/entire_PDB/files/ne/pdb1ney.ent	B	215	SER	 HB2	 HB3
+../../PDB_files/entire_PDB/files/ni/pdb1nil.ent	A	133	GLN	HE21	HE22
+../../PDB_files/entire_PDB/files/ni/pdb1nil.ent	A	133	GLN	 HB2
+../../PDB_files/entire_PDB/files/ni/pdb1nil.ent	A	134	ASP	 HB2	 HB3
+../../PDB_files/entire_PDB/files/ni/pdb1nil.ent	A	135	GLU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/ni/pdb1nil.ent	A	136	GLN	HE21	HE22
+../../PDB_files/entire_PDB/files/ni/pdb1nil.ent	A	137	PHE	 HB2	 HB3
+../../PDB_files/entire_PDB/files/ni/pdb1nil.ent	A	138	ILE	HG12
+../../PDB_files/entire_PDB/files/ni/pdb1nil.ent	A	139	PRO	 HB2	 HB3
+../../PDB_files/entire_PDB/files/ni/pdb1nil.ent	A	139	PRO	 HG2
+../../PDB_files/entire_PDB/files/ni/pdb1nil.ent	A	139	PRO	 HD2	 HD3
+../../PDB_files/entire_PDB/files/ni/pdb1nil.ent	A	140	LYS	 HZ1	 HZ2
+../../PDB_files/entire_PDB/files/ni/pdb1nil.ent	A	144	LYS	 HZ1	 HZ2
+../../PDB_files/entire_PDB/files/ni/pdb1niq.ent	B	121	LEU	HD11	HD12	HD13
+../../PDB_files/entire_PDB/files/ni/pdb1niq.ent	B	121	LEU	HD21	HD22	HD23
+../../PDB_files/entire_PDB/files/ni/pdb1niq.ent	B	121	LEU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/ni/pdb4ni2.ent	B	411	PRO	 HB2	 HB3
+../../PDB_files/entire_PDB/files/nk/pdb1nkd.ent	A	3	LYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/nk/pdb1nkd.ent	A	6	LYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/nk/pdb1nkd.ent	A	41	GLU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/nl/pdb2nlr.ent	A	98	VAL	HG11	HG12	HG13
+../../PDB_files/entire_PDB/files/nl/pdb2nlr.ent	A	98	VAL	HG21	HG22	HG23
+../../PDB_files/entire_PDB/files/nm/pdb1nmj.ent	A	1	ASP	 HB2	 HB3
+../../PDB_files/entire_PDB/files/nm/pdb1nmj.ent	A	1	ASP	 HM1	 HM2	 HM3
+../../PDB_files/entire_PDB/files/nm/pdb1nmj.ent	A	27	ASN	HD21	HD22
+../../PDB_files/entire_PDB/files/nm/pdb1nmj.ent	A	27	ASN	 HB2	 HB3
+../../PDB_files/entire_PDB/files/nm/pdb1nmj.ent	A	28	LYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/nm/pdb1nmj.ent	A	28	LYS	 HG2	 HG3
+../../PDB_files/entire_PDB/files/np/pdb2npl.ent	X	19	PHE	 HB2	 HB3
+../../PDB_files/entire_PDB/files/nq/pdb4nqk.ent	A	115	LYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/nq/pdb4nqk.ent	A	117	ARG	 HB2	 HB3
+../../PDB_files/entire_PDB/files/nq/pdb4nqk.ent	B	115	LYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/nq/pdb4nqk.ent	B	117	ARG	 HB2	 HB3
+../../PDB_files/entire_PDB/files/nq/pdb4nqk.ent	C	115	LYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/nq/pdb4nqk.ent	C	117	ARG	 HB2	 HB3
+../../PDB_files/entire_PDB/files/nq/pdb4nqk.ent	D	115	LYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/nq/pdb4nqk.ent	D	117	ARG	 HB2	 HB3
+../../PDB_files/entire_PDB/files/nu/pdb2nul.ent	A	77	LYS	 HZ3
+../../PDB_files/entire_PDB/files/nu/pdb4nuu.ent	A	370	LYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/nw/pdb2nwf.ent	A	118	GLU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/nw/pdb2nwf.ent	A	118	GLU	 HG2	 HG3
+../../PDB_files/entire_PDB/files/nw/pdb2nwf.ent	A	125	MET	 HB2	 HB3
+../../PDB_files/entire_PDB/files/nw/pdb2nwf.ent	A	154	SER	 HB2	 HB3
+../../PDB_files/entire_PDB/files/nw/pdb2nwf.ent	A	175	LEU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/nw/pdb2nwf.ent	A	177	LYS	 HZ2	 HZ3
+../../PDB_files/entire_PDB/files/nw/pdb2nwf.ent	A	177	LYS	 HE2	 HE3
+../../PDB_files/entire_PDB/files/nx/pdb4nxt.ent	B	175	LYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/nx/pdb4nxu.ent	C	131	LEU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/o2/pdb1o2g.ent	L	1	SER	 HB2	 HB3
+../../PDB_files/entire_PDB/files/o2/pdb2o21.ent	A	200	GLY	 HA2	 HA3
+../../PDB_files/entire_PDB/files/o2/pdb2o21.ent	A	201	PRO	 HD2	 HD3
+../../PDB_files/entire_PDB/files/o3/pdb3o3x.ent	A	69	GLU	 HG2	 HG3
+../../PDB_files/entire_PDB/files/o3/pdb3o3x.ent	A	73	GLN	 HG2	 HG3
+../../PDB_files/entire_PDB/files/o3/pdb3o3x.ent	A	126	GLU	 HG2	 HG3
+../../PDB_files/entire_PDB/files/o3/pdb3o3x.ent	A	129	ARG	 HB2	 HB3
+../../PDB_files/entire_PDB/files/o3/pdb3o3x.ent	A	154	GLN	 HB2	 HB3
+../../PDB_files/entire_PDB/files/o3/pdb3o3y.ent	A	4	GLU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/o3/pdb3o3z.ent	A	29	LYS	 HG2	 HG3
+../../PDB_files/entire_PDB/files/o3/pdb3o3z.ent	B	3	TRP	 HB2	 HB3
+../../PDB_files/entire_PDB/files/o3/pdb3o3z.ent	B	4	GLU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/o3/pdb3o3z.ent	B	6	TRP	 HB2	 HB3
+../../PDB_files/entire_PDB/files/o3/pdb3o3z.ent	B	30	LYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/o3/pdb3o3z.ent	B	37	GLU	 HG2	 HG3
+../../PDB_files/entire_PDB/files/o4/pdb3o43.ent	A	69	GLU	 HG2	 HG3
+../../PDB_files/entire_PDB/files/o4/pdb3o43.ent	A	151	LYS	 HG2	 HG3
+../../PDB_files/entire_PDB/files/o4/pdb3o43.ent	A	154	GLN	 HB2	 HB3
+../../PDB_files/entire_PDB/files/o4/pdb3o4p.ent	A	3	ILE	HG21	HG22	HG23
+../../PDB_files/entire_PDB/files/o4/pdb3o4p.ent	A	43	LYS	 HZ1	 HZ2	 HZ3
+../../PDB_files/entire_PDB/files/o4/pdb3o4p.ent	A	43	LYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/o4/pdb3o4p.ent	A	43	LYS	 HG2	 HG3
+../../PDB_files/entire_PDB/files/o4/pdb3o4p.ent	A	43	LYS	 HD2	 HD3
+../../PDB_files/entire_PDB/files/o4/pdb3o4p.ent	A	43	LYS	 HE2	 HE3
+../../PDB_files/entire_PDB/files/o4/pdb3o4p.ent	A	50	ARG	 HG2	 HG3
+../../PDB_files/entire_PDB/files/o4/pdb3o4p.ent	A	116	MET	 HB2	 HB3
+../../PDB_files/entire_PDB/files/o4/pdb3o4p.ent	A	138	GLU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/o4/pdb3o4p.ent	A	151	LYS	 HD2	 HD3
+../../PDB_files/entire_PDB/files/o4/pdb3o4p.ent	A	186	ARG	 HG2	 HG3
+../../PDB_files/entire_PDB/files/o4/pdb3o4p.ent	A	206	LYS	 HG2	 HG3
+../../PDB_files/entire_PDB/files/o4/pdb3o4p.ent	A	214	LYS	 HD2	 HD3
+../../PDB_files/entire_PDB/files/o4/pdb3o4p.ent	A	268	GLU	 HG2	 HG3
+../../PDB_files/entire_PDB/files/o4/pdb3o4p.ent	A	276	LYS	 HG2	 HG3
+../../PDB_files/entire_PDB/files/o4/pdb3o4p.ent	A	294	LYS	 HG2	 HG3
+../../PDB_files/entire_PDB/files/o4/pdb3o4p.ent	A	302	LYS	 HE2	 HE3
+../../PDB_files/entire_PDB/files/o5/pdb1o5b.ent	B	116	ARG	 HG2	 HG3
+../../PDB_files/entire_PDB/files/o5/pdb1o5c.ent	B	16	ILE	 HM1	 HM2	 HM3
+../../PDB_files/entire_PDB/files/o5/pdb1o5e.ent	L	62	ARG	 HB2	 HB3
+../../PDB_files/entire_PDB/files/o5/pdb1o5e.ent	L	62	ARG	 HG2	 HG3
+../../PDB_files/entire_PDB/files/o5/pdb1o5e.ent	L	79	ARG	 HB2	 HB3
+../../PDB_files/entire_PDB/files/o5/pdb1o5f.ent	L	62	ARG	 HB2	 HB3
+../../PDB_files/entire_PDB/files/o5/pdb1o5f.ent	L	79	ARG	 HB2	 HB3
+../../PDB_files/entire_PDB/files/o5/pdb1o5f.ent	H	179	LYS	 HD2	 HD3
+../../PDB_files/entire_PDB/files/o5/pdb1o5g.ent	H	84	MET	 HG2	 HG3
+../../PDB_files/entire_PDB/files/o6/pdb2o6n.ent	A	4	GLU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/o6/pdb2o6n.ent	A	5	GLN	 HG2	 HG3
+../../PDB_files/entire_PDB/files/o6/pdb2o6n.ent	A	8	LYS	 HG2	 HG3
+../../PDB_files/entire_PDB/files/o6/pdb2o6n.ent	A	18	LYS	 HD2	 HD3
+../../PDB_files/entire_PDB/files/o6/pdb2o6n.ent	A	24	GLU	 HG2	 HG3
+../../PDB_files/entire_PDB/files/o6/pdb2o6n.ent	A	26	LYS	 HG2	 HG3
+../../PDB_files/entire_PDB/files/o7/pdb1o7j.ent	A	3	LYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/o7/pdb1o7j.ent	B	3	LYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/o7/pdb1o7j.ent	C	3	LYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/o7/pdb1o7j.ent	D	3	LYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/o7/pdb1o7q.ent	A	166	MET	 HB2	 HB3
+../../PDB_files/entire_PDB/files/oc/pdb4ocs.ent	H	100	PRO	 HD2	 HD3
+../../PDB_files/entire_PDB/files/od/pdb4od3.ent	H	100	PRO	 HD2	 HD3
+../../PDB_files/entire_PDB/files/od/pdb4odh.ent	L	210	GLU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/od/pdb4odh.ent	H	100	GLY	 HA2	 HA3
+../../PDB_files/entire_PDB/files/oe/pdb1oe2.ent	A	5	LYS	 HD2	 HD3
+../../PDB_files/entire_PDB/files/oe/pdb1oe2.ent	A	10	LYS	 HG2	 HG3
+../../PDB_files/entire_PDB/files/oe/pdb1oe2.ent	A	27	LYS	 HG2	 HG3
+../../PDB_files/entire_PDB/files/oe/pdb1oe2.ent	A	31	LYS	 HD2	 HD3
+../../PDB_files/entire_PDB/files/oe/pdb1oe2.ent	A	48	ASP	 HB2	 HB3
+../../PDB_files/entire_PDB/files/oe/pdb1oe2.ent	A	162	LYS	 HD2	 HD3
+../../PDB_files/entire_PDB/files/oe/pdb1oe2.ent	A	186	LYS	 HD2	 HD3
+../../PDB_files/entire_PDB/files/oe/pdb1oe2.ent	A	230	LYS	 HG2	 HG3
+../../PDB_files/entire_PDB/files/oe/pdb1oe2.ent	A	319	LYS	 HG2	 HG3
+../../PDB_files/entire_PDB/files/oe/pdb1oe2.ent	A	329	LYS	 HD2	 HD3
+../../PDB_files/entire_PDB/files/of/pdb3ofg.ent	A	85	LYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/of/pdb3ofg.ent	A	86	LYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/of/pdb3ofg.ent	A	144	LYS	 HD2	 HD3
+../../PDB_files/entire_PDB/files/of/pdb3ofg.ent	A	145	ASN	 HB2	 HB3
+../../PDB_files/entire_PDB/files/of/pdb3ofg.ent	A	147	GLU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/of/pdb3ofg.ent	A	154	LYS	 HD2	 HD3
+../../PDB_files/entire_PDB/files/of/pdb3ofg.ent	A	168	GLU	 HG2	 HG3
+../../PDB_files/entire_PDB/files/of/pdb3ofg.ent	B	144	LYS	 HE2	 HE3
+../../PDB_files/entire_PDB/files/of/pdb3ofg.ent	B	147	GLU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/of/pdb3ofg.ent	B	158	LYS	 HD2	 HD3
+../../PDB_files/entire_PDB/files/of/pdb3ofg.ent	B	160	GLU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/ol/pdb1olr.ent	A	3	ARG	 HB2	 HB3
+../../PDB_files/entire_PDB/files/ol/pdb1olr.ent	A	26	LYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/ol/pdb1olr.ent	A	49	SER	 HB2	 HB3
+../../PDB_files/entire_PDB/files/ol/pdb1olr.ent	A	69	LYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/ol/pdb1olr.ent	A	73	ARG	 HB2	 HB3
+../../PDB_files/entire_PDB/files/ol/pdb1olr.ent	A	75	ARG	 HB2	 HB3
+../../PDB_files/entire_PDB/files/ol/pdb1olr.ent	A	82	SER	 HB2	 HB3
+../../PDB_files/entire_PDB/files/ol/pdb1olr.ent	A	88	SER	 HB2	 HB3
+../../PDB_files/entire_PDB/files/ol/pdb1olr.ent	A	114	ASN	 HB2	 HB3
+../../PDB_files/entire_PDB/files/ol/pdb1olr.ent	A	159	ARG	 HB2	 HB3
+../../PDB_files/entire_PDB/files/ol/pdb1olr.ent	A	183	TYR	 HB2	 HB3
+../../PDB_files/entire_PDB/files/ol/pdb1olr.ent	A	193	ARG	HH11	HH12
+../../PDB_files/entire_PDB/files/ol/pdb1olr.ent	A	193	ARG	HH21	HH22
+../../PDB_files/entire_PDB/files/ol/pdb1olr.ent	A	220	ARG	HH11	HH12
+../../PDB_files/entire_PDB/files/ol/pdb1olr.ent	A	220	ARG	HH21	HH22
+../../PDB_files/entire_PDB/files/ol/pdb1olr.ent	A	222	ASP	 HB2	 HB3
+../../PDB_files/entire_PDB/files/oo/pdb1oo9.ent	B	357	ASP	 HB2
+../../PDB_files/entire_PDB/files/oo/pdb1oo9.ent	B	377	HIS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/oo/pdb1oo9.ent	B	396	ILE	HD13
+../../PDB_files/entire_PDB/files/oo/pdb1oo9.ent	B	396	ILE	HG12	HG13
+../../PDB_files/entire_PDB/files/oo/pdb1oo9.ent	B	402	VAL	HG11	HG12	HG13
+../../PDB_files/entire_PDB/files/oo/pdb1oo9.ent	B	402	VAL	HG21	HG23
+../../PDB_files/entire_PDB/files/ot/pdb2ot4.ent	A	46	GLU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/ot/pdb2ot4.ent	A	61	MET	 HB2	 HB3
+../../PDB_files/entire_PDB/files/ot/pdb2ot4.ent	A	67	ALA	HMB1	HMB2	HMB3
+../../PDB_files/entire_PDB/files/ot/pdb2ot4.ent	A	79	GLU	 HG2	 HG3
+../../PDB_files/entire_PDB/files/ot/pdb2ot4.ent	A	88	LEU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/ot/pdb2ot4.ent	A	115	GLU	 HG2	 HG3
+../../PDB_files/entire_PDB/files/ot/pdb2ot4.ent	A	171	ARG	 HG2	 HG3
+../../PDB_files/entire_PDB/files/ot/pdb2ot4.ent	A	204	GLU	 HG2	 HG3
+../../PDB_files/entire_PDB/files/ot/pdb2ot4.ent	A	216	GLU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/ot/pdb2ot4.ent	A	265	GLU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/ot/pdb2ot4.ent	A	275	GLN	 HB2	 HB3
+../../PDB_files/entire_PDB/files/ot/pdb2ot4.ent	A	278	ARG	 HB2	 HB3
+../../PDB_files/entire_PDB/files/ot/pdb2ot4.ent	A	316	ARG	 HG2	 HG3
+../../PDB_files/entire_PDB/files/ot/pdb2ot4.ent	A	360	GLN	 HB2	 HB3
+../../PDB_files/entire_PDB/files/ot/pdb2ot4.ent	A	386	LYS	 HG2
+../../PDB_files/entire_PDB/files/ot/pdb2ot4.ent	A	388	GLN	 HB2	 HB3
+../../PDB_files/entire_PDB/files/ot/pdb2ot4.ent	A	456	LYS	 HG2	 HG3
+../../PDB_files/entire_PDB/files/ot/pdb2ot4.ent	B	61	MET	 HB2	 HB3
+../../PDB_files/entire_PDB/files/ot/pdb2ot4.ent	B	67	ALA	HMB1	HMB2	HMB3
+../../PDB_files/entire_PDB/files/ot/pdb2ot4.ent	B	88	LEU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/ot/pdb2ot4.ent	B	99	MET	 HB2	 HB3
+../../PDB_files/entire_PDB/files/ot/pdb2ot4.ent	B	115	GLU	 HG2	 HG3
+../../PDB_files/entire_PDB/files/ot/pdb2ot4.ent	B	204	GLU	 HG2	 HG3
+../../PDB_files/entire_PDB/files/ot/pdb2ot4.ent	B	360	GLN	 HB2	 HB3
+../../PDB_files/entire_PDB/files/ot/pdb2ot4.ent	B	388	GLN	 HB2	 HB3
+../../PDB_files/entire_PDB/files/ot/pdb2ot4.ent	B	408	GLY	 HA2	 HA3
+../../PDB_files/entire_PDB/files/ot/pdb2ot4.ent	B	409	GLN	 HB2	 HB3
+../../PDB_files/entire_PDB/files/ot/pdb2ot4.ent	B	456	LYS	 HG2	 HG3
+../../PDB_files/entire_PDB/files/ou/pdb4ouf.ent	A	1083	LYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/ou/pdb4ouj.ent	A	232	GLN	 HB2	 HB3
+../../PDB_files/entire_PDB/files/ou/pdb4ouj.ent	A	233	ASN	 HB2	 HB3
+../../PDB_files/entire_PDB/files/ou/pdb4ouj.ent	B	232	GLN	 HB2	 HB3
+../../PDB_files/entire_PDB/files/ou/pdb4ouj.ent	B	233	ASN	 HB2	 HB3
+../../PDB_files/entire_PDB/files/ov/pdb4ovr.ent	B	57	GLY	 HA2	 HA3
+../../PDB_files/entire_PDB/files/ov/pdb4ovz.ent	A	45	ILE	HG21	HG22	HG23
+../../PDB_files/entire_PDB/files/ov/pdb4ovz.ent	A	45	ILE	HD11	HD12	HD13
+../../PDB_files/entire_PDB/files/ov/pdb4ovz.ent	A	45	ILE	HG12	HG13
+../../PDB_files/entire_PDB/files/ov/pdb4ovz.ent	A	230	ASP	 HB2	 HB3
+../../PDB_files/entire_PDB/files/ox/pdb2oxj.ent	A	4	GLN	 HG2	 HG3
+../../PDB_files/entire_PDB/files/ox/pdb2oxj.ent	A	8	LYS	 HG2	 HG3
+../../PDB_files/entire_PDB/files/ox/pdb2oxj.ent	A	11	GLU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/ox/pdb2oxj.ent	C	8	LYS	 HD2	 HD3
+../../PDB_files/entire_PDB/files/ox/pdb2oxj.ent	C	27	LYS	 HE2	 HE3
+../../PDB_files/entire_PDB/files/ox/pdb2oxk.ent	A	8	LYS	 HG2	 HG3
+../../PDB_files/entire_PDB/files/p0/pdb4p0c.ent	A	31	ARG	 HB2	 HB3
+../../PDB_files/entire_PDB/files/p1/pdb4p17.ent	A	284	ARG	 HG2	 HG3
+../../PDB_files/entire_PDB/files/p3/pdb3p3c.ent	A	68	ARG	 HB2	 HB3
+../../PDB_files/entire_PDB/files/p3/pdb3p3c.ent	A	68	ARG	 HG3
+../../PDB_files/entire_PDB/files/p3/pdb3p3c.ent	A	74	HIS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/p3/pdb3p3c.ent	A	75	ILE	HG21	HG23
+../../PDB_files/entire_PDB/files/p3/pdb3p3c.ent	A	75	ILE	HG12
+../../PDB_files/entire_PDB/files/p3/pdb3p3g.ent	A	185	GLN	 HB2	 HB3
+../../PDB_files/entire_PDB/files/p3/pdb3p3g.ent	A	185	GLN	 HG3
+../../PDB_files/entire_PDB/files/p3/pdb4p36.ent	A	21	ILE	HD11	HD12	HD13
+../../PDB_files/entire_PDB/files/p3/pdb4p36.ent	A	21	ILE	HG12	HG13
+../../PDB_files/entire_PDB/files/p3/pdb4p36.ent	A	93	LYS	 HD2	 HD3
+../../PDB_files/entire_PDB/files/p3/pdb4p36.ent	A	93	LYS	 HE2	 HE3
+../../PDB_files/entire_PDB/files/p3/pdb4p36.ent	A	140	THR	HG21	HG22
+../../PDB_files/entire_PDB/files/p4/pdb3p42.ent	A	256	HIS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/p4/pdb3p42.ent	C	248	GLU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/p5/pdb1p57.ent	A	62	ARG	 HB2	 HB3
+../../PDB_files/entire_PDB/files/p5/pdb2p5k.ent	A	5	GLN	 HB2	 HB3
+../../PDB_files/entire_PDB/files/p5/pdb2p5k.ent	A	46	LYS	 HG2	 HG3
+../../PDB_files/entire_PDB/files/p5/pdb2p5k.ent	A	56	ASN	 HB2	 HB3
+../../PDB_files/entire_PDB/files/p7/pdb1p7v.ent	B	5	ALA	HMB1	HMB2	HMB3
+../../PDB_files/entire_PDB/files/p7/pdb1p7w.ent	B	5	ALA	HMB1	HMB2	HMB3
+../../PDB_files/entire_PDB/files/p7/pdb2p74.ent	A	264	TYR	 HB2	 HB3
+../../PDB_files/entire_PDB/files/p7/pdb2p74.ent	B	264	TYR	 HB2	 HB3
+../../PDB_files/entire_PDB/files/p9/pdb3p9y.ent	C	3	ASP	 HB2	 HB3
+../../PDB_files/entire_PDB/files/pd/pdb2pde.ent	A	1	VAL	HG11	HG12	HG13
+../../PDB_files/entire_PDB/files/pd/pdb2pde.ent	A	1	VAL	 HM1	 HM2
+../../PDB_files/entire_PDB/files/pd/pdb2pde.ent	A	2	ILE	HG21	HG22	HG23
+../../PDB_files/entire_PDB/files/pd/pdb2pde.ent	A	2	ILE	HD11
+../../PDB_files/entire_PDB/files/pd/pdb2pde.ent	A	2	ILE	HG12	HG13
+../../PDB_files/entire_PDB/files/pd/pdb2pde.ent	A	4	MET	 HB2	 HB3
+../../PDB_files/entire_PDB/files/pd/pdb2pde.ent	A	5	PRO	 HB2	 HB3
+../../PDB_files/entire_PDB/files/pd/pdb2pde.ent	A	5	PRO	 HG3
+../../PDB_files/entire_PDB/files/pd/pdb2pde.ent	A	5	PRO	 HD2	 HD3
+../../PDB_files/entire_PDB/files/pd/pdb2pde.ent	A	6	SER	 HB2	 HB3
+../../PDB_files/entire_PDB/files/pd/pdb2pde.ent	A	7	VAL	HG11	HG12	HG13
+../../PDB_files/entire_PDB/files/pd/pdb2pde.ent	A	7	VAL	HG21	HG22
+../../PDB_files/entire_PDB/files/pd/pdb2pde.ent	A	8	ARG	HH11	HH12
+../../PDB_files/entire_PDB/files/pd/pdb2pde.ent	A	8	ARG	HH21	HH22
+../../PDB_files/entire_PDB/files/pd/pdb2pde.ent	A	8	ARG	 HB2	 HB3
+../../PDB_files/entire_PDB/files/pd/pdb2pde.ent	A	8	ARG	 HG2	 HG3
+../../PDB_files/entire_PDB/files/pd/pdb2pde.ent	A	9	LYS	 HG2	 HG3
+../../PDB_files/entire_PDB/files/pd/pdb2pde.ent	A	9	LYS	 HD2	 HD3
+../../PDB_files/entire_PDB/files/pd/pdb2pde.ent	A	11	ALA	HMB1	HMB2	HMB3
+../../PDB_files/entire_PDB/files/pd/pdb2pde.ent	A	12	ARG	HH11	HH12
+../../PDB_files/entire_PDB/files/pd/pdb2pde.ent	A	12	ARG	HH21	HH22
+../../PDB_files/entire_PDB/files/pd/pdb2pde.ent	A	12	ARG	 HG2	 HG3
+../../PDB_files/entire_PDB/files/pd/pdb2pde.ent	A	13	GLU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/pd/pdb2pde.ent	A	14	LYS	 HG2	 HG3
+../../PDB_files/entire_PDB/files/pd/pdb2pde.ent	A	14	LYS	 HE2	 HE3
+../../PDB_files/entire_PDB/files/pd/pdb2pde.ent	A	15	GLY	 HA2	 HA3
+../../PDB_files/entire_PDB/files/pd/pdb2pde.ent	A	17	ASP	 HB2	 HB3
+../../PDB_files/entire_PDB/files/pd/pdb2pde.ent	A	18	ILE	HD11	HD12	HD13
+../../PDB_files/entire_PDB/files/pd/pdb2pde.ent	A	18	ILE	HG12	HG13
+../../PDB_files/entire_PDB/files/pd/pdb2pde.ent	A	19	ARG	HH21	HH22
+../../PDB_files/entire_PDB/files/pd/pdb2pde.ent	A	19	ARG	 HG2	 HG3
+../../PDB_files/entire_PDB/files/pd/pdb2pde.ent	A	20	LEU	HD21	HD22	HD23
+../../PDB_files/entire_PDB/files/pd/pdb2pde.ent	A	20	LEU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/pd/pdb2pde.ent	A	21	VAL	HG11	HG12	HG13
+../../PDB_files/entire_PDB/files/pd/pdb2pde.ent	A	21	VAL	HG21	HG22
+../../PDB_files/entire_PDB/files/pd/pdb2pde.ent	A	22	GLN	HE21	HE22
+../../PDB_files/entire_PDB/files/pd/pdb2pde.ent	A	22	GLN	 HB2	 HB3
+../../PDB_files/entire_PDB/files/pd/pdb2pde.ent	A	23	GLY	 HA2	 HA3
+../../PDB_files/entire_PDB/files/pd/pdb2pde.ent	A	26	LYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/pd/pdb2pde.ent	A	26	LYS	 HG2	 HG3
+../../PDB_files/entire_PDB/files/pd/pdb2pde.ent	A	26	LYS	 HE2	 HE3
+../../PDB_files/entire_PDB/files/pd/pdb2pde.ent	A	27	ASN	 HB2	 HB3
+../../PDB_files/entire_PDB/files/pd/pdb2pde.ent	A	29	ARG	HH11	HH12
+../../PDB_files/entire_PDB/files/pd/pdb2pde.ent	A	29	ARG	 HG2	 HG3
+../../PDB_files/entire_PDB/files/pd/pdb2pde.ent	A	32	LYS	 HZ1	 HZ2	 HZ3
+../../PDB_files/entire_PDB/files/pd/pdb2pde.ent	A	32	LYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/pd/pdb2pde.ent	A	32	LYS	 HD2	 HD3
+../../PDB_files/entire_PDB/files/pd/pdb2pde.ent	A	32	LYS	 HE2
+../../PDB_files/entire_PDB/files/pd/pdb2pde.ent	A	33	GLU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/pd/pdb2pde.ent	A	34	ASP	 HB2	 HB3
+../../PDB_files/entire_PDB/files/pf/pdb4pf4.ent	A	48	ARG	 HB2	 HB3
+../../PDB_files/entire_PDB/files/pf/pdb4pf4.ent	A	50	LYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/pf/pdb4pf4.ent	A	53	ARG	 HB2	 HB3
+../../PDB_files/entire_PDB/files/pf/pdb4pf4.ent	A	91	LEU	HD11	HD12	HD13
+../../PDB_files/entire_PDB/files/pf/pdb4pf4.ent	A	91	LEU	HD21	HD22	HD23
+../../PDB_files/entire_PDB/files/pf/pdb4pf4.ent	A	91	LEU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/pf/pdb4pf4.ent	A	109	GLU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/pj/pdb2pjh.ent	A	73	ASP	 HB2	 HB3
+../../PDB_files/entire_PDB/files/pj/pdb2pjh.ent	B	73	SER	 HB2	 HB3
+../../PDB_files/entire_PDB/files/pl/pdb1plb.ent	A	30	LYS	 HZ1	 HZ2	 HZ3
+../../PDB_files/entire_PDB/files/pl/pdb1plb.ent	A	30	LYS	 HG2	 HG3
+../../PDB_files/entire_PDB/files/pl/pdb1plb.ent	A	30	LYS	 HD2	 HD3
+../../PDB_files/entire_PDB/files/pl/pdb1plb.ent	A	30	LYS	 HE3
+../../PDB_files/entire_PDB/files/pn/pdb2pnb.ent	A	29	ARG	 HB2	 HB3
+../../PDB_files/entire_PDB/files/pn/pdb2pnb.ent	A	29	ARG	 HG2	 HG3
+../../PDB_files/entire_PDB/files/pp/pdb1ppz.ent	A	41	CYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/pp/pdb1ppz.ent	A	80	ILE	HG12	HG13
+../../PDB_files/entire_PDB/files/pp/pdb1ppz.ent	A	132	SER	 HB2	 HB3
+../../PDB_files/entire_PDB/files/pp/pdb1ppz.ent	A	142	SER	 HB2	 HB3
+../../PDB_files/entire_PDB/files/pp/pdb1ppz.ent	A	147	SER	 HB2	 HB3
+../../PDB_files/entire_PDB/files/pq/pdb1pq5.ent	A	21	SER	 HB2	 HB3
+../../PDB_files/entire_PDB/files/pq/pdb1pq5.ent	A	34	SER	 HB2	 HB3
+../../PDB_files/entire_PDB/files/pq/pdb1pq5.ent	A	39	PRO	 HB2	 HB3
+../../PDB_files/entire_PDB/files/pq/pdb1pq5.ent	A	39	PRO	 HD2	 HD3
+../../PDB_files/entire_PDB/files/pq/pdb1pq5.ent	A	49	ASN	 HB2	 HB3
+../../PDB_files/entire_PDB/files/pq/pdb1pq5.ent	A	83	SER	 HB2	 HB3
+../../PDB_files/entire_PDB/files/pq/pdb1pq5.ent	A	85	SER	 HB2	 HB3
+../../PDB_files/entire_PDB/files/pq/pdb1pq5.ent	A	111	SER	 HB2	 HB3
+../../PDB_files/entire_PDB/files/pq/pdb1pq5.ent	A	123	SER	 HB2	 HB3
+../../PDB_files/entire_PDB/files/pq/pdb1pq5.ent	A	142	SER	 HB2	 HB3
+../../PDB_files/entire_PDB/files/pq/pdb1pq5.ent	A	151	ASN	 HB2	 HB3
+../../PDB_files/entire_PDB/files/pq/pdb1pq5.ent	A	176	ASN	 HB2	 HB3
+../../PDB_files/entire_PDB/files/pq/pdb1pq5.ent	A	184	SER	 HB2	 HB3
+../../PDB_files/entire_PDB/files/pq/pdb1pq5.ent	A	236	ASP	 HB2	 HB3
+../../PDB_files/entire_PDB/files/pq/pdb1pq7.ent	A	21	SER	 HB2	 HB3
+../../PDB_files/entire_PDB/files/pq/pdb1pq7.ent	A	39	PRO	 HB2	 HB3
+../../PDB_files/entire_PDB/files/pq/pdb1pq7.ent	A	39	PRO	 HD2	 HD3
+../../PDB_files/entire_PDB/files/pq/pdb1pq7.ent	A	83	SER	 HB2	 HB3
+../../PDB_files/entire_PDB/files/pq/pdb1pq7.ent	A	184	SER	 HB2	 HB3
+../../PDB_files/entire_PDB/files/pq/pdb1pq7.ent	A	233	SER	 HB2	 HB3
+../../PDB_files/entire_PDB/files/pq/pdb1pq8.ent	A	21	SER	 HB2	 HB3
+../../PDB_files/entire_PDB/files/pq/pdb1pq8.ent	A	34	SER	 HB2	 HB3
+../../PDB_files/entire_PDB/files/pq/pdb1pq8.ent	A	74	SER	 HB2	 HB3
+../../PDB_files/entire_PDB/files/pq/pdb1pq8.ent	A	80	ILE	HG12	HG13
+../../PDB_files/entire_PDB/files/pq/pdb1pq8.ent	A	83	SER	 HB2	 HB3
+../../PDB_files/entire_PDB/files/pq/pdb1pq8.ent	A	106	SER	 HB2	 HB3
+../../PDB_files/entire_PDB/files/pq/pdb1pq8.ent	A	111	SER	 HB2	 HB3
+../../PDB_files/entire_PDB/files/pq/pdb1pq8.ent	A	184	SER	 HB2	 HB3
+../../PDB_files/entire_PDB/files/pq/pdb1pq8.ent	A	233	SER	 HB2	 HB3
+../../PDB_files/entire_PDB/files/pq/pdb1pqa.ent	A	63	GLN	 HB2	 HB3
+../../PDB_files/entire_PDB/files/pq/pdb1pqa.ent	A	132	SER	 HB2	 HB3
+../../PDB_files/entire_PDB/files/pq/pdb1pqa.ent	A	151	ASN	 HB2	 HB3
+../../PDB_files/entire_PDB/files/pq/pdb1pqa.ent	A	176	ASN	 HB2	 HB3
+../../PDB_files/entire_PDB/files/pq/pdb1pqa.ent	A	214	ASN	 HB2	 HB3
+../../PDB_files/entire_PDB/files/pr/pdb1prr.ent	A	166	ASN	HD21	HD22
+../../PDB_files/entire_PDB/files/pr/pdb1prr.ent	A	166	ASN	 HB2
+../../PDB_files/entire_PDB/files/ps/pdb3ps3.ent	A	5	ARG	 HB2	 HB3
+../../PDB_files/entire_PDB/files/ps/pdb3ps3.ent	A	5	ARG	 HG2	 HG3
+../../PDB_files/entire_PDB/files/ps/pdb3ps3.ent	A	185	GLN	 HB2	 HB3
+../../PDB_files/entire_PDB/files/ps/pdb3ps3.ent	A	185	GLN	 HG3
+../../PDB_files/entire_PDB/files/pu/pdb4pu2.ent	A	203	ARG	 HG2	 HG3
+../../PDB_files/entire_PDB/files/pv/pdb2pve.ent	A	7	LYS	 HE2	 HE3
+../../PDB_files/entire_PDB/files/pv/pdb2pve.ent	A	12	ILE	HD11	HD12	HD13
+../../PDB_files/entire_PDB/files/pv/pdb2pve.ent	A	12	ILE	HG12	HG13
+../../PDB_files/entire_PDB/files/pv/pdb2pve.ent	B	102	LYS	 HG2	 HG3
+../../PDB_files/entire_PDB/files/pv/pdb2pve.ent	C	202	LYS	 HZ1	 HZ2	 HZ3
+../../PDB_files/entire_PDB/files/pv/pdb2pve.ent	C	202	LYS	 HG2	 HG3
+../../PDB_files/entire_PDB/files/pv/pdb2pve.ent	C	216	GLU	 HG2	 HG3
+../../PDB_files/entire_PDB/files/pv/pdb2pvx.ent	A	2	LYS	 HD2	 HD3
+../../PDB_files/entire_PDB/files/pv/pdb2pvx.ent	A	29	LYS	 HD2	 HD3
+../../PDB_files/entire_PDB/files/pv/pdb2pvx.ent	A	32	GLU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/pv/pdb2pvx.ent	B	131	GLU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/pv/pdb2pvx.ent	B	135	ASP	 HB2	 HB3
+../../PDB_files/entire_PDB/files/pv/pdb2pvx.ent	C	202	LYS	 HD2	 HD3
+../../PDB_files/entire_PDB/files/pv/pdb2pvx.ent	C	221	ASP	 HB2	 HB3
+../../PDB_files/entire_PDB/files/pv/pdb2pvx.ent	C	231	GLU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/pv/pdb2pvx.ent	C	251	LYS	 HD2	 HD3
+../../PDB_files/entire_PDB/files/pv/pdb2pvx.ent	D	329	LYS	 HE2	 HE3
+../../PDB_files/entire_PDB/files/pv/pdb2pvx.ent	D	351	LYS	 HE2	 HE3
+../../PDB_files/entire_PDB/files/pv/pdb2pvx.ent	D	353	GLU	 HG2	 HG3
+../../PDB_files/entire_PDB/files/pv/pdb2pvx.ent	E	420	PRO	 HB2	 HB3
+../../PDB_files/entire_PDB/files/pv/pdb2pvx.ent	E	420	PRO	 HD2	 HD3
+../../PDB_files/entire_PDB/files/pv/pdb2pvx.ent	E	446	LYS	 HZ1	 HZ2	 HZ3
+../../PDB_files/entire_PDB/files/pv/pdb2pvx.ent	E	446	LYS	 HD2	 HD3
+../../PDB_files/entire_PDB/files/px/pdb3pxl.ent	A	117	CYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/px/pdb3pxl.ent	A	136	ARG	 HG2	 HG3
+../../PDB_files/entire_PDB/files/py/pdb1py3.ent	A	27	ASN	 HB2	 HB3
+../../PDB_files/entire_PDB/files/py/pdb1py3.ent	A	51	ASN	 HB2	 HB3
+../../PDB_files/entire_PDB/files/py/pdb1py3.ent	A	96	ARG	 HB2	 HB3
+../../PDB_files/entire_PDB/files/py/pdb1py3.ent	B	33	ASN	 HB2	 HB3
+../../PDB_files/entire_PDB/files/py/pdb1py3.ent	B	34	ARG	 HB2	 HB3
+../../PDB_files/entire_PDB/files/py/pdb1py3.ent	C	40	GLU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/py/pdb1pyl.ent	A	7	ASP	 HB2	 HB3
+../../PDB_files/entire_PDB/files/py/pdb1pyl.ent	A	34	ARG	 HG2	 HG3
+../../PDB_files/entire_PDB/files/py/pdb1pyl.ent	A	65	ASN	 HB2	 HB3
+../../PDB_files/entire_PDB/files/py/pdb1pyl.ent	A	80	GLN	 HB2	 HB3
+../../PDB_files/entire_PDB/files/py/pdb1pyl.ent	A	91	GLN	 HB2	 HB3
+../../PDB_files/entire_PDB/files/py/pdb2pya.ent	A	20	PRO	 HB2	 HB3
+../../PDB_files/entire_PDB/files/py/pdb2pya.ent	A	20	PRO	 HD2	 HD3
+../../PDB_files/entire_PDB/files/py/pdb2pya.ent	A	31	GLU	 HG2	 HG3
+../../PDB_files/entire_PDB/files/py/pdb2pya.ent	A	40	PRO	 HD2	 HD3
+../../PDB_files/entire_PDB/files/q8/pdb3q85.ent	A	154	GLU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/q8/pdb4q8g.ent	A	494	PHE	 HB2	 HB3
+../../PDB_files/entire_PDB/files/q8/pdb4q8g.ent	A	495	ASP	 HB2	 HB3
+../../PDB_files/entire_PDB/files/q8/pdb4q8g.ent	A	496	PHE	 HB2	 HB3
+../../PDB_files/entire_PDB/files/q8/pdb4q8g.ent	A	503	GLU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/q8/pdb4q8g.ent	A	538	LYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/q8/pdb4q8g.ent	A	539	ASP	 HB2	 HB3
+../../PDB_files/entire_PDB/files/q8/pdb4q8g.ent	A	575	LYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/q8/pdb4q8g.ent	A	576	SER	 HB2	 HB3
+../../PDB_files/entire_PDB/files/q8/pdb4q8g.ent	A	613	SER	 HB2	 HB3
+../../PDB_files/entire_PDB/files/q8/pdb4q8g.ent	A	615	LYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/q8/pdb4q8g.ent	A	616	ARG	 HB2	 HB3
+../../PDB_files/entire_PDB/files/q8/pdb4q8g.ent	A	636	GLN	 HB2	 HB3
+../../PDB_files/entire_PDB/files/q8/pdb4q8g.ent	A	639	ASN	 HB2	 HB3
+../../PDB_files/entire_PDB/files/q8/pdb4q8g.ent	A	640	HIS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/q8/pdb4q8g.ent	A	641	ASN	 HB2	 HB3
+../../PDB_files/entire_PDB/files/q8/pdb4q8g.ent	A	679	ASN	 HB2	 HB3
+../../PDB_files/entire_PDB/files/q8/pdb4q8g.ent	A	718	LYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/q8/pdb4q8g.ent	A	753	LYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/q8/pdb4q8g.ent	A	863	PHE	 HB2	 HB3
+../../PDB_files/entire_PDB/files/q8/pdb4q8g.ent	B	460	GLU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/q8/pdb4q8g.ent	B	492	ASP	 HB2	 HB3
+../../PDB_files/entire_PDB/files/q8/pdb4q8g.ent	B	575	LYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/q8/pdb4q8g.ent	B	616	ARG	 HB2	 HB3
+../../PDB_files/entire_PDB/files/q8/pdb4q8g.ent	B	640	HIS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/q8/pdb4q8g.ent	B	641	ASN	 HB2	 HB3
+../../PDB_files/entire_PDB/files/q8/pdb4q8g.ent	B	661	ASP	 HB2	 HB3
+../../PDB_files/entire_PDB/files/q8/pdb4q8g.ent	B	693	GLN	 HB2	 HB3
+../../PDB_files/entire_PDB/files/q8/pdb4q8g.ent	B	710	ASN	 HB2	 HB3
+../../PDB_files/entire_PDB/files/q8/pdb4q8g.ent	B	711	SER	 HB2	 HB3
+../../PDB_files/entire_PDB/files/q8/pdb4q8g.ent	B	718	LYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/q8/pdb4q8g.ent	B	815	LYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/q8/pdb4q8g.ent	B	816	GLU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/q8/pdb4q8g.ent	B	863	PHE	 HB2	 HB3
+../../PDB_files/entire_PDB/files/qb/pdb1qba.ent	A	57	ALA	HMB1	HMB2	HMB3
+../../PDB_files/entire_PDB/files/qb/pdb1qba.ent	A	68	ARG	HH11	HH12
+../../PDB_files/entire_PDB/files/qb/pdb1qba.ent	A	68	ARG	HH21	HH22
+../../PDB_files/entire_PDB/files/qb/pdb1qba.ent	A	68	ARG	 HG2	 HG3
+../../PDB_files/entire_PDB/files/qb/pdb1qba.ent	A	266	ASN	HD21	HD22
+../../PDB_files/entire_PDB/files/qb/pdb1qba.ent	A	266	ASN	 HB2	 HB3
+../../PDB_files/entire_PDB/files/qb/pdb1qba.ent	A	376	LEU	HD11	HD12	HD13
+../../PDB_files/entire_PDB/files/qb/pdb1qba.ent	A	376	LEU	HD21	HD22	HD23
+../../PDB_files/entire_PDB/files/qb/pdb1qba.ent	A	376	LEU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/qb/pdb1qba.ent	A	398	GLN	 HB2	 HB3
+../../PDB_files/entire_PDB/files/qb/pdb1qba.ent	A	627	LYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/qb/pdb1qba.ent	A	781	GLY	 HA2	 HA3
+../../PDB_files/entire_PDB/files/qb/pdb1qba.ent	A	859	ALA	HMB1	HMB2	HMB3
+../../PDB_files/entire_PDB/files/qb/pdb1qbb.ent	A	57	ALA	HMB1	HMB2	HMB3
+../../PDB_files/entire_PDB/files/qb/pdb1qbb.ent	A	266	ASN	HD21	HD22
+../../PDB_files/entire_PDB/files/qb/pdb1qbb.ent	A	266	ASN	 HB2	 HB3
+../../PDB_files/entire_PDB/files/qb/pdb1qbb.ent	A	376	LEU	HD11	HD12	HD13
+../../PDB_files/entire_PDB/files/qb/pdb1qbb.ent	A	376	LEU	HD21	HD22	HD23
+../../PDB_files/entire_PDB/files/qb/pdb1qbb.ent	A	376	LEU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/qb/pdb1qbb.ent	A	398	GLN	 HB2	 HB3
+../../PDB_files/entire_PDB/files/qb/pdb1qbb.ent	A	460	MET	 HB2	 HB3
+../../PDB_files/entire_PDB/files/qb/pdb1qbb.ent	A	627	LYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/qb/pdb1qbb.ent	A	773	ARG	HH11	HH12
+../../PDB_files/entire_PDB/files/qb/pdb1qbb.ent	A	773	ARG	HH21	HH22
+../../PDB_files/entire_PDB/files/qb/pdb1qbb.ent	A	773	ARG	 HG2	 HG3
+../../PDB_files/entire_PDB/files/qb/pdb1qbb.ent	A	859	ALA	HMB1	HMB2	HMB3
+../../PDB_files/entire_PDB/files/qg/pdb1qg1.ent	E	1	GLY	 HA2	 HA3
+../../PDB_files/entire_PDB/files/qg/pdb1qg1.ent	E	1	GLY	HGM1	HGM2	HGM3
+../../PDB_files/entire_PDB/files/qn/pdb1qnj.ent	A	188	ARG	HH11	HH12
+../../PDB_files/entire_PDB/files/qn/pdb1qnj.ent	A	188	ARG	HH21	HH22
+../../PDB_files/entire_PDB/files/qn/pdb1qnj.ent	A	188	ARG	 HB2	 HB3
+../../PDB_files/entire_PDB/files/qn/pdb1qnj.ent	A	188	ARG	 HG2	 HG3
+../../PDB_files/entire_PDB/files/qp/pdb1qpu.ent	A	106	ARG	 HB2	 HB3
+../../PDB_files/entire_PDB/files/qp/pdb1qpu.ent	A	106	ARG	 HG2	 HG3
+../../PDB_files/entire_PDB/files/qq/pdb3qq9.ent	H	134	SER	 HB2	 HB3
+../../PDB_files/entire_PDB/files/qr/pdb3qr7.ent	B	162	ARG	 HB3
+../../PDB_files/entire_PDB/files/qr/pdb3qr7.ent	B	162	ARG	 HG3
+../../PDB_files/entire_PDB/files/qt/pdb1qtw.ent	A	263	ILE	HG12	HG13
+../../PDB_files/entire_PDB/files/qz/pdb3qzq.ent	B	181	SER	 HB2	 HB3
+../../PDB_files/entire_PDB/files/r0/pdb3r0f.ent	A	181	SER	 HB2	 HB3
+../../PDB_files/entire_PDB/files/r7/pdb3r72.ent	A	2	MET	 HB2	 HB3
+../../PDB_files/entire_PDB/files/r7/pdb3r72.ent	A	18	LYS	 HZ2
+../../PDB_files/entire_PDB/files/r7/pdb3r72.ent	A	18	LYS	 HE2	 HE3
+../../PDB_files/entire_PDB/files/r7/pdb3r72.ent	A	22	GLN	 HB2	 HB3
+../../PDB_files/entire_PDB/files/r7/pdb3r72.ent	A	23	LYS	 HZ2	 HZ3
+../../PDB_files/entire_PDB/files/r7/pdb3r72.ent	A	23	LYS	 HD2	 HD3
+../../PDB_files/entire_PDB/files/r7/pdb3r72.ent	A	23	LYS	 HE2	 HE3
+../../PDB_files/entire_PDB/files/r7/pdb3r72.ent	A	60	LYS	 HZ2	 HZ3
+../../PDB_files/entire_PDB/files/r7/pdb3r72.ent	A	60	LYS	 HE2	 HE3
+../../PDB_files/entire_PDB/files/rc/pdb1rcf.ent	A	143	LEU	HD11	HD12	HD13
+../../PDB_files/entire_PDB/files/rc/pdb1rcf.ent	A	143	LEU	HD21	HD22	HD23
+../../PDB_files/entire_PDB/files/rc/pdb1rcf.ent	A	143	LEU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/rc/pdb3rcg.ent	A	51	ASP	 HB2	 HB3
+../../PDB_files/entire_PDB/files/rc/pdb3rcg.ent	A	57	LYS	 HG2	 HG3
+../../PDB_files/entire_PDB/files/rc/pdb3rcg.ent	A	91	LYS	 HD2	 HD3
+../../PDB_files/entire_PDB/files/rc/pdb3rcg.ent	A	160	LYS	 HG2	 HG3
+../../PDB_files/entire_PDB/files/rc/pdb3rcg.ent	A	167	LYS	 HD2	 HD3
+../../PDB_files/entire_PDB/files/rg/pdb1rge.ent	B	40	ARG	HH11	HH12
+../../PDB_files/entire_PDB/files/rg/pdb1rge.ent	B	40	ARG	HH21	HH22
+../../PDB_files/entire_PDB/files/rg/pdb1rgf.ent	A	13	PRO	 HB2	 HB3
+../../PDB_files/entire_PDB/files/rg/pdb1rgf.ent	A	20	ASN	 HB2	 HB3
+../../PDB_files/entire_PDB/files/rg/pdb1rgf.ent	A	24	SER	 HB2	 HB3
+../../PDB_files/entire_PDB/files/rg/pdb1rgf.ent	B	40	ARG	HH11	HH12
+../../PDB_files/entire_PDB/files/rg/pdb1rgf.ent	B	40	ARG	HH21	HH22
+../../PDB_files/entire_PDB/files/rg/pdb1rgh.ent	A	42	SER	 HB2	 HB3
+../../PDB_files/entire_PDB/files/rg/pdb1rgh.ent	A	54	GLU	 HG2	 HG3
+../../PDB_files/entire_PDB/files/rg/pdb1rgh.ent	B	3	SER	 HB2	 HB3
+../../PDB_files/entire_PDB/files/rg/pdb1rgh.ent	B	54	GLU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/ro/pdb1rot.ent	A	84	GLU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/ro/pdb1rot.ent	A	84	GLU	 HG2	 HG3
+../../PDB_files/entire_PDB/files/ro/pdb3rof.ent	A	114	GLU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/rr/pdb3rrs.ent	A	803	GLU	 HG2	 HG3
+../../PDB_files/entire_PDB/files/rr/pdb3rrs.ent	B	84	SER	 HB2	 HB3
+../../PDB_files/entire_PDB/files/rs/pdb3rsy.ent	A	65	ALA	HMB1	HMB2	HMB3
+../../PDB_files/entire_PDB/files/rs/pdb3rsy.ent	B	751	GLU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/rt/pdb1rtq.ent	A	105	HIS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/rt/pdb1rtq.ent	A	254	ARG	HH11	HH12
+../../PDB_files/entire_PDB/files/rt/pdb1rtq.ent	A	254	ARG	HH21	HH22
+../../PDB_files/entire_PDB/files/rt/pdb1rtq.ent	A	254	ARG	 HG2	 HG3
+../../PDB_files/entire_PDB/files/rt/pdb2rta.ent	A	59	ARG	HH12
+../../PDB_files/entire_PDB/files/rt/pdb2rta.ent	A	59	ARG	HH21	HH22
+../../PDB_files/entire_PDB/files/rt/pdb2rtj.ent	A	59	ARG	HH12
+../../PDB_files/entire_PDB/files/rt/pdb2rtj.ent	A	59	ARG	HH21	HH22
+../../PDB_files/entire_PDB/files/rt/pdb2rtk.ent	A	59	ARG	HH12
+../../PDB_files/entire_PDB/files/rt/pdb2rtk.ent	A	59	ARG	HH21	HH22
+../../PDB_files/entire_PDB/files/rt/pdb2rtl.ent	A	21	TRP	 HB2	 HB3
+../../PDB_files/entire_PDB/files/rt/pdb2rtl.ent	A	59	ARG	HH12
+../../PDB_files/entire_PDB/files/rt/pdb2rtl.ent	A	59	ARG	HH21	HH22
+../../PDB_files/entire_PDB/files/rt/pdb2rtm.ent	A	59	ARG	HH12
+../../PDB_files/entire_PDB/files/rt/pdb2rtm.ent	A	59	ARG	HH21	HH22
+../../PDB_files/entire_PDB/files/rt/pdb2rtp.ent	D	13	ALA	HMB1	HMB2	HMB3
+../../PDB_files/entire_PDB/files/rt/pdb2rtq.ent	D	13	ALA	HMB1	HMB2	HMB3
+../../PDB_files/entire_PDB/files/rw/pdb1rw1.ent	A	64	ARG	 HB2	 HB3
+../../PDB_files/entire_PDB/files/rx/pdb4rxn.ent	A	1	MET	 HB2	 HB3
+../../PDB_files/entire_PDB/files/rx/pdb4rxn.ent	A	1	MET	 HG2	 HG3
+../../PDB_files/entire_PDB/files/rx/pdb4rxn.ent	A	2	LYS	 HG2	 HG3
+../../PDB_files/entire_PDB/files/rx/pdb4rxn.ent	A	2	LYS	 HD2	 HD3
+../../PDB_files/entire_PDB/files/rx/pdb4rxn.ent	A	3	LYS	 HZ1	 HZ2
+../../PDB_files/entire_PDB/files/rx/pdb4rxn.ent	A	3	LYS	 HG2	 HG3
+../../PDB_files/entire_PDB/files/rx/pdb4rxn.ent	A	3	LYS	 HE2	 HE3
+../../PDB_files/entire_PDB/files/rx/pdb4rxn.ent	A	12	ILE	HD11	HD12	HD13
+../../PDB_files/entire_PDB/files/rx/pdb4rxn.ent	A	12	ILE	HG12
+../../PDB_files/entire_PDB/files/rx/pdb4rxn.ent	A	15	PRO	 HB2	 HB3
+../../PDB_files/entire_PDB/files/rx/pdb4rxn.ent	A	15	PRO	 HD2	 HD3
+../../PDB_files/entire_PDB/files/rx/pdb4rxn.ent	A	17	ASP	 HB2	 HB3
+../../PDB_files/entire_PDB/files/rx/pdb4rxn.ent	A	31	LYS	 HZ1	 HZ2
+../../PDB_files/entire_PDB/files/rx/pdb4rxn.ent	A	31	LYS	 HG2	 HG3
+../../PDB_files/entire_PDB/files/rx/pdb4rxn.ent	A	31	LYS	 HD2	 HD3
+../../PDB_files/entire_PDB/files/rx/pdb4rxn.ent	A	31	LYS	 HE2	 HE3
+../../PDB_files/entire_PDB/files/rx/pdb4rxn.ent	A	32	ASP	 HB2	 HB3
+../../PDB_files/entire_PDB/files/rx/pdb4rxn.ent	A	33	ILE	HD11	HD12	HD13
+../../PDB_files/entire_PDB/files/rx/pdb4rxn.ent	A	33	ILE	HG12
+../../PDB_files/entire_PDB/files/rx/pdb4rxn.ent	A	48	GLU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/rx/pdb4rxn.ent	A	48	GLU	 HG2	 HG3
+../../PDB_files/entire_PDB/files/rx/pdb4rxn.ent	A	50	GLU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/rx/pdb4rxn.ent	A	50	GLU	 HG2	 HG3
+../../PDB_files/entire_PDB/files/rx/pdb4rxn.ent	A	51	GLU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/rx/pdb4rxn.ent	A	51	GLU	 HG2	 HG3
+../../PDB_files/entire_PDB/files/rx/pdb4rxn.ent	A	53	GLU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/rx/pdb4rxn.ent	A	53	GLU	 HG2	 HG3
+../../PDB_files/entire_PDB/files/rx/pdb5rxn.ent	A	5	THR	HG21	HG22	HG23
+../../PDB_files/entire_PDB/files/rx/pdb5rxn.ent	A	12	ILE	HD11	HD12	HD13
+../../PDB_files/entire_PDB/files/rx/pdb5rxn.ent	A	33	ILE	HD11	HD12	HD13
+../../PDB_files/entire_PDB/files/rx/pdb5rxn.ent	A	41	LEU	HD11	HD12	HD13
+../../PDB_files/entire_PDB/files/rx/pdb5rxn.ent	A	41	LEU	HD21	HD22	HD23
+../../PDB_files/entire_PDB/files/rx/pdb5rxn.ent	A	41	LEU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/s0/pdb3s0k.ent	A	50	SER	 HB2	 HB3
+../../PDB_files/entire_PDB/files/s0/pdb3s0k.ent	A	57	LYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/s0/pdb3s0k.ent	A	102	ARG	 HG2	 HG3
+../../PDB_files/entire_PDB/files/s4/pdb3s4b.ent	A	822	LEU	HD11	HD13
+../../PDB_files/entire_PDB/files/s4/pdb3s4b.ent	A	822	LEU	HD21	HD22	HD23
+../../PDB_files/entire_PDB/files/s4/pdb3s4b.ent	A	822	LEU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/s5/pdb1s5m.ent	A	73	ARG	HH11	HH12
+../../PDB_files/entire_PDB/files/s5/pdb1s5m.ent	A	73	ARG	HH21	HH22
+../../PDB_files/entire_PDB/files/s5/pdb1s5m.ent	A	73	ARG	 HG2	 HG3
+../../PDB_files/entire_PDB/files/s5/pdb1s5n.ent	A	75	ARG	HH11	HH12
+../../PDB_files/entire_PDB/files/s5/pdb1s5n.ent	A	75	ARG	HH21	HH22
+../../PDB_files/entire_PDB/files/s5/pdb1s5n.ent	A	75	ARG	 HB2	 HB3
+../../PDB_files/entire_PDB/files/s5/pdb1s5n.ent	A	75	ARG	 HG2	 HG3
+../../PDB_files/entire_PDB/files/s5/pdb1s5s.ent	A	169	LYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/s5/pdb3s5h.ent	A	58	PRO	 HB2	 HB3
+../../PDB_files/entire_PDB/files/s5/pdb3s5h.ent	A	59	GLU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/s5/pdb3s5h.ent	A	376	ASP	 HB2	 HB3
+../../PDB_files/entire_PDB/files/s5/pdb3s5h.ent	A	399	HIS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/s5/pdb3s5h.ent	A	402	SER	 HB2	 HB3
+../../PDB_files/entire_PDB/files/s5/pdb3s5h.ent	A	403	SER	 HB2	 HB3
+../../PDB_files/entire_PDB/files/s5/pdb3s5i.ent	A	376	ASP	 HB2	 HB3
+../../PDB_files/entire_PDB/files/s5/pdb3s5i.ent	A	400	SER	 HB2	 HB3
+../../PDB_files/entire_PDB/files/s5/pdb3s5i.ent	A	401	HIS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/s5/pdb3s5i.ent	A	403	SER	 HB2	 HB3
+../../PDB_files/entire_PDB/files/s5/pdb3s5m.ent	A	73	ILE	HD12	HD13
+../../PDB_files/entire_PDB/files/s5/pdb3s5m.ent	A	73	ILE	HG12	HG13
+../../PDB_files/entire_PDB/files/s5/pdb3s5m.ent	A	231	ASP	 HB2	 HB3
+../../PDB_files/entire_PDB/files/s5/pdb3s5m.ent	A	376	ASP	 HB2	 HB3
+../../PDB_files/entire_PDB/files/s5/pdb3s5m.ent	A	522	SER	 HB2	 HB3
+../../PDB_files/entire_PDB/files/s5/pdb3s5m.ent	A	720	GLU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/s5/pdb3s5m.ent	A	720	GLU	 HG2	 HG3
+../../PDB_files/entire_PDB/files/s5/pdb3s5m.ent	A	721	THR	HG21	HG22	HG23
+../../PDB_files/entire_PDB/files/s5/pdb3s5m.ent	A	772	ASN	HD21	HD22
+../../PDB_files/entire_PDB/files/s5/pdb3s5m.ent	A	772	ASN	 HB2	 HB3
+../../PDB_files/entire_PDB/files/s5/pdb3s5m.ent	A	975	PRO	 HB2	 HB3
+../../PDB_files/entire_PDB/files/s5/pdb3s5m.ent	A	975	PRO	 HG2	 HG3
+../../PDB_files/entire_PDB/files/s5/pdb3s5m.ent	A	975	PRO	 HD2	 HD3
+../../PDB_files/entire_PDB/files/s6/pdb1s6f.ent	A	188	LYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/s6/pdb1s6f.ent	A	221	GLN	 HB2	 HB3
+../../PDB_files/entire_PDB/files/s6/pdb1s6f.ent	A	222	LYS	 HG2	 HG3
+../../PDB_files/entire_PDB/files/s6/pdb1s6f.ent	A	224	LYS	 HG2	 HG3
+../../PDB_files/entire_PDB/files/s6/pdb1s6h.ent	A	187	GLY	 HA2	 HA3
+../../PDB_files/entire_PDB/files/s6/pdb1s6h.ent	A	188	LYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/s6/pdb1s6h.ent	A	216	GLY	 HA2	 HA3
+../../PDB_files/entire_PDB/files/s7/pdb3s7o.ent	A	259	MET	 HB2	 HB3
+../../PDB_files/entire_PDB/files/s7/pdb3s7o.ent	A	261	MET	 HB2	 HB3
+../../PDB_files/entire_PDB/files/s7/pdb3s7p.ent	A	259	MET	 HB2	 HB3
+../../PDB_files/entire_PDB/files/s7/pdb3s7p.ent	A	261	MET	 HB2	 HB3
+../../PDB_files/entire_PDB/files/s8/pdb1s82.ent	A	87	LYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/s8/pdb1s82.ent	A	188	LYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/s8/pdb1s83.ent	A	188	LYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/s8/pdb1s83.ent	A	222	LYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/s8/pdb1s83.ent	A	244	ALA	HMB1	HMB2	HMB3
+../../PDB_files/entire_PDB/files/s8/pdb1s84.ent	A	170	SER	 HB2	 HB3
+../../PDB_files/entire_PDB/files/s8/pdb1s84.ent	A	222	LYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/s8/pdb1s84.ent	A	224	LYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/s9/pdb3s9e.ent	A	150	LYS	 HZ2
+../../PDB_files/entire_PDB/files/s9/pdb3s9e.ent	A	150	LYS	 HE2	 HE3
+../../PDB_files/entire_PDB/files/s9/pdb3s9e.ent	A	158	LYS	 HZ3
+../../PDB_files/entire_PDB/files/s9/pdb3s9e.ent	A	158	LYS	 HE2	 HE3
+../../PDB_files/entire_PDB/files/sa/pdb3sa0.ent	A	330	LYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/sa/pdb3sa0.ent	A	337	ASP	 HB2	 HB3
+../../PDB_files/entire_PDB/files/sh/pdb1sh6.ent	A	40	LEU	HD11	HD12	HD13
+../../PDB_files/entire_PDB/files/sh/pdb1sh6.ent	A	40	LEU	HD21	HD22	HD23
+../../PDB_files/entire_PDB/files/sh/pdb1sh6.ent	A	40	LEU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/sh/pdb1sh6.ent	A	68	ARG	 HB2	 HB3
+../../PDB_files/entire_PDB/files/sh/pdb1sh6.ent	A	150	GLN	 HB2	 HB3
+../../PDB_files/entire_PDB/files/sh/pdb1sh6.ent	A	202	ARG	 HB2	 HB3
+../../PDB_files/entire_PDB/files/sh/pdb1sh6.ent	A	229	VAL	HG11	HG12	HG13
+../../PDB_files/entire_PDB/files/sh/pdb1sh6.ent	A	229	VAL	HG21	HG22	HG23
+../../PDB_files/entire_PDB/files/si/pdb1sii.ent	A	101	LEU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/si/pdb1sii.ent	A	567	LEU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/si/pdb3sig.ent	A	3	ARG	 HB2	 HB3
+../../PDB_files/entire_PDB/files/sn/pdb2sn3.ent	A	6	VAL	HG11	HG12	HG13
+../../PDB_files/entire_PDB/files/sn/pdb2sn3.ent	A	6	VAL	HG21	HG22	HG23
+../../PDB_files/entire_PDB/files/sn/pdb2sn3.ent	A	12	CYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/sn/pdb2sn3.ent	A	29	CYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/sn/pdb2sn3.ent	A	51	LEU	HD11	HD12	HD13
+../../PDB_files/entire_PDB/files/sn/pdb2sn3.ent	A	51	LEU	HD21	HD22	HD23
+../../PDB_files/entire_PDB/files/sn/pdb2sn3.ent	A	51	LEU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/sn/pdb2sn3.ent	A	65	CYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/sp/pdb1sp0.ent	A	102	CYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/sp/pdb1spi.ent	A	11	LYS	 HZ1	 HZ2	 HZ3
+../../PDB_files/entire_PDB/files/t4/pdb3t47.ent	B	30	LYS	 HZ2
+../../PDB_files/entire_PDB/files/t4/pdb3t47.ent	B	30	LYS	 HE2	 HE3
+../../PDB_files/entire_PDB/files/t4/pdb3t49.ent	A	27	LYS	 HZ1
+../../PDB_files/entire_PDB/files/t4/pdb3t49.ent	A	27	LYS	 HE2	 HE3
+../../PDB_files/entire_PDB/files/t4/pdb3t49.ent	A	59	LYS	 HZ1
+../../PDB_files/entire_PDB/files/t4/pdb3t49.ent	A	59	LYS	 HE2	 HE3
+../../PDB_files/entire_PDB/files/t4/pdb3t49.ent	A	74	LYS	 HE2	 HE3
+../../PDB_files/entire_PDB/files/t4/pdb3t49.ent	B	43	LYS	 HZ2
+../../PDB_files/entire_PDB/files/t4/pdb3t49.ent	B	43	LYS	 HE2	 HE3
+../../PDB_files/entire_PDB/files/t4/pdb3t49.ent	B	74	LYS	 HE2	 HE3
+../../PDB_files/entire_PDB/files/t4/pdb3t49.ent	C	69	LYS	 HZ2
+../../PDB_files/entire_PDB/files/t4/pdb3t49.ent	C	69	LYS	 HE2	 HE3
+../../PDB_files/entire_PDB/files/t4/pdb3t49.ent	D	74	LYS	 HZ3
+../../PDB_files/entire_PDB/files/t4/pdb3t49.ent	D	74	LYS	 HE2	 HE3
+../../PDB_files/entire_PDB/files/t5/pdb3t5v.ent	C	53	ALA	HMB1
+../../PDB_files/entire_PDB/files/t5/pdb3t5v.ent	E	166	THR	HG23
+../../PDB_files/entire_PDB/files/tb/pdb1tbd.ent	A	1	GLY	 HA2	 HA3
+../../PDB_files/entire_PDB/files/tb/pdb1tbd.ent	A	1	GLY	HGM1	HGM2	HGM3
+../../PDB_files/entire_PDB/files/tb/pdb1tbr.ent	J	1	GLN	HE22
+../../PDB_files/entire_PDB/files/tc/pdb1tce.ent	B	212	ALA	HMB1	HMB2	HMB3
+../../PDB_files/entire_PDB/files/tc/pdb1tcg.ent	A	11	LYS	 HZ1	 HZ2	 HZ3
+../../PDB_files/entire_PDB/files/tc/pdb1tcg.ent	A	11	LYS	 HG2	 HG3
+../../PDB_files/entire_PDB/files/tc/pdb1tcg.ent	A	11	LYS	 HD2	 HD3
+../../PDB_files/entire_PDB/files/tc/pdb1tcg.ent	A	11	LYS	 HE2
+../../PDB_files/entire_PDB/files/tc/pdb1tch.ent	A	9	LYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/tc/pdb1tch.ent	A	9	LYS	 HG3
+../../PDB_files/entire_PDB/files/tc/pdb1tch.ent	A	9	LYS	 HD2	 HD3
+../../PDB_files/entire_PDB/files/tf/pdb3tf0.ent	B	180	ASN	 HB2	 HB3
+../../PDB_files/entire_PDB/files/tf/pdb3tfd.ent	A	183	ASP	 HB2	 HB3
+../../PDB_files/entire_PDB/files/tg/pdb3tgp.ent	A	63	GLU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/tj/pdb1tjm.ent	A	295	GLU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/tj/pdb1tjm.ent	A	302	MET	 HG2	 HG3
+../../PDB_files/entire_PDB/files/tj/pdb1tjm.ent	A	356	GLN	 HB2	 HB3
+../../PDB_files/entire_PDB/files/tj/pdb1tjx.ent	A	295	GLU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/tj/pdb1tjx.ent	A	302	MET	 HG2	 HG3
+../../PDB_files/entire_PDB/files/tj/pdb1tjx.ent	A	344	SER	 HB2	 HB3
+../../PDB_files/entire_PDB/files/tn/pdb1tnx.ent	A	11	ARG	HH11	HH12
+../../PDB_files/entire_PDB/files/tn/pdb1tnx.ent	A	11	ARG	HH21
+../../PDB_files/entire_PDB/files/tn/pdb1tnx.ent	A	33	GLY	 HA2	 HA3
+../../PDB_files/entire_PDB/files/tn/pdb1tnx.ent	A	34	GLY	 HA2	 HA3
+../../PDB_files/entire_PDB/files/tn/pdb1tnx.ent	A	35	GLY	 HA2	 HA3
+../../PDB_files/entire_PDB/files/tn/pdb1tnx.ent	A	42	LEU	HD13
+../../PDB_files/entire_PDB/files/tn/pdb1tnx.ent	A	103	ARG	HH11
+../../PDB_files/entire_PDB/files/tn/pdb1tnx.ent	A	103	ARG	HH21	HH22
+../../PDB_files/entire_PDB/files/tn/pdb1tnx.ent	A	148	ARG	HH11	HH12
+../../PDB_files/entire_PDB/files/tn/pdb1tnx.ent	A	148	ARG	HH21
+../../PDB_files/entire_PDB/files/tt/pdb1tt8.ent	A	144	LEU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/tt/pdb1ttg.ent	A	9	GLU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/tt/pdb1ttg.ent	A	9	GLU	 HG3
+../../PDB_files/entire_PDB/files/tw/pdb3twc.ent	L	190	ARG	 HB2	 HB3
+../../PDB_files/entire_PDB/files/tw/pdb3twc.ent	L	213	GLU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/tw/pdb3twc.ent	H	31	ARG	 HB2	 HB3
+../../PDB_files/entire_PDB/files/tw/pdb3twc.ent	H	52	ARG	 HB2	 HB3
+../../PDB_files/entire_PDB/files/tw/pdb3twc.ent	H	100	ARG	 HB2	 HB3
+../../PDB_files/entire_PDB/files/tw/pdb3twc.ent	H	228	LYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/tw/pdb3twc.ent	H	229	SER	 HB2	 HB3
+../../PDB_files/entire_PDB/files/tx/pdb1txa.ent	A	1	THR	HG23
+../../PDB_files/entire_PDB/files/tx/pdb1txa.ent	A	20	ILE	HG21	HG22	HG23
+../../PDB_files/entire_PDB/files/tx/pdb1txa.ent	A	20	ILE	HD11	HD12	HD13
+../../PDB_files/entire_PDB/files/tx/pdb1txa.ent	A	20	ILE	HG13
+../../PDB_files/entire_PDB/files/tx/pdb1txa.ent	A	37	ARG	 HB2	 HB3
+../../PDB_files/entire_PDB/files/tx/pdb1txa.ent	A	37	ARG	 HG2	 HG3
+../../PDB_files/entire_PDB/files/tx/pdb1txa.ent	A	40	LEU	HD13
+../../PDB_files/entire_PDB/files/tx/pdb1txa.ent	A	50	LYS	 HZ1	 HZ2	 HZ3
+../../PDB_files/entire_PDB/files/tx/pdb1txa.ent	A	50	LYS	 HD2	 HD3
+../../PDB_files/entire_PDB/files/tx/pdb1txa.ent	A	64	ASN	 HB2	 HB3
+../../PDB_files/entire_PDB/files/tx/pdb1txa.ent	A	65	PRO	 HB2	 HB3
+../../PDB_files/entire_PDB/files/tx/pdb1txa.ent	A	65	PRO	 HD2	 HD3
+../../PDB_files/entire_PDB/files/tx/pdb1txa.ent	A	66	PHE	 HB2	 HB3
+../../PDB_files/entire_PDB/files/uc/pdb1ucs.ent	A	25	GLU	 HG2	 HG3
+../../PDB_files/entire_PDB/files/uc/pdb1ucs.ent	A	56	MET	 HB2	 HB3
+../../PDB_files/entire_PDB/files/un/pdb3unx.ent	A	1	ALA	HMB1	HMB2	HMB3
+../../PDB_files/entire_PDB/files/un/pdb3unx.ent	A	1	ALA	 HM1	 HM2	 HM3
+../../PDB_files/entire_PDB/files/ur/pdb3urc.ent	A	120	GLY	 HA2	 HA3
+../../PDB_files/entire_PDB/files/ur/pdb3urc.ent	A	221	GLY	 HA2	 HA3
+../../PDB_files/entire_PDB/files/ut/pdb1utn.ent	A	219	GLY	 HA2	 HA3
+../../PDB_files/entire_PDB/files/ut/pdb1uto.ent	A	219	GLY	 HA2	 HA3
+../../PDB_files/entire_PDB/files/ut/pdb1utp.ent	A	219	GLY	 HA2	 HA3
+../../PDB_files/entire_PDB/files/uy/pdb3uyi.ent	A	143	LYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/v0/pdb3v0s.ent	A	218	LYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/v0/pdb3v0s.ent	A	219	GLU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/v0/pdb3v0s.ent	A	329	LYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/v1/pdb3v1e.ent	A	44	GLN	 HB2	 HB3
+../../PDB_files/entire_PDB/files/v4/pdb3v4x.ent	B	-1	GLY	 HA2	 HA3
+../../PDB_files/entire_PDB/files/v7/pdb2v7f.ent	A	137	LYS	 HE2	 HE3
+../../PDB_files/entire_PDB/files/v9/pdb2v9l.ent	A	31	GLY	 HA2	 HA3
+../../PDB_files/entire_PDB/files/v9/pdb2v9l.ent	A	142	CYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/v9/pdb2v9l.ent	A	199	GLN	 HB2	 HB3
+../../PDB_files/entire_PDB/files/v9/pdb2v9l.ent	A	203	LYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/v9/pdb2v9l.ent	A	248	LYS	 HE2	 HE3
+../../PDB_files/entire_PDB/files/v9/pdb2v9v.ent	A	407	LEU	HD11	HD12	HD13
+../../PDB_files/entire_PDB/files/v9/pdb2v9v.ent	A	407	LEU	HD21	HD22	HD23
+../../PDB_files/entire_PDB/files/v9/pdb2v9v.ent	A	407	LEU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/v9/pdb2v9v.ent	A	426	LEU	HD11	HD12	HD13
+../../PDB_files/entire_PDB/files/v9/pdb2v9v.ent	A	426	LEU	HD21	HD22	HD23
+../../PDB_files/entire_PDB/files/v9/pdb2v9v.ent	A	426	LEU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/v9/pdb2v9v.ent	A	432	LEU	HD11	HD12	HD13
+../../PDB_files/entire_PDB/files/v9/pdb2v9v.ent	A	432	LEU	HD21	HD22	HD23
+../../PDB_files/entire_PDB/files/v9/pdb2v9v.ent	A	432	LEU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/v9/pdb2v9v.ent	A	464	LEU	HD11	HD12	HD13
+../../PDB_files/entire_PDB/files/v9/pdb2v9v.ent	A	464	LEU	HD21	HD22	HD23
+../../PDB_files/entire_PDB/files/v9/pdb2v9v.ent	A	464	LEU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/v9/pdb2v9v.ent	A	485	LEU	HD11	HD12	HD13
+../../PDB_files/entire_PDB/files/v9/pdb2v9v.ent	A	485	LEU	HD21	HD22	HD23
+../../PDB_files/entire_PDB/files/v9/pdb2v9v.ent	A	485	LEU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/v9/pdb2v9v.ent	A	502	VAL	HG11	HG12	HG13
+../../PDB_files/entire_PDB/files/v9/pdb2v9v.ent	A	502	VAL	HG21	HG22	HG23
+../../PDB_files/entire_PDB/files/v9/pdb2v9v.ent	A	504	LEU	HD11	HD12	HD13
+../../PDB_files/entire_PDB/files/v9/pdb2v9v.ent	A	504	LEU	HD21	HD22	HD23
+../../PDB_files/entire_PDB/files/v9/pdb2v9v.ent	A	504	LEU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/v9/pdb3v98.ent	A	599	TRP	 HB2
+../../PDB_files/entire_PDB/files/v9/pdb3v98.ent	B	-7	HIS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/v9/pdb3v98.ent	B	-1	SER	 HB2	 HB3
+../../PDB_files/entire_PDB/files/vd/pdb1vdp.ent	A	14	ARG	 HG2
+../../PDB_files/entire_PDB/files/vd/pdb1vdp.ent	A	21	ARG	 HG2
+../../PDB_files/entire_PDB/files/vd/pdb1vdp.ent	A	45	ARG	 HG2
+../../PDB_files/entire_PDB/files/vd/pdb1vdp.ent	A	114	ARG	 HG2
+../../PDB_files/entire_PDB/files/vd/pdb1vdp.ent	B	214	ARG	 HG2
+../../PDB_files/entire_PDB/files/vd/pdb1vdp.ent	B	268	ARG	 HG2
+../../PDB_files/entire_PDB/files/vd/pdb1vdp.ent	B	321	GLN	 HG2
+../../PDB_files/entire_PDB/files/vk/pdb1vkg.ent	A	370	LYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/vk/pdb1vkg.ent	A	370	LYS	 HG2	 HG3
+../../PDB_files/entire_PDB/files/vt/pdb3vtp.ent	D	652	GLN	 HB2	 HB3
+../../PDB_files/entire_PDB/files/vu/pdb2vuw.ent	A	481	THR	HG21	HG22	HG23
+../../PDB_files/entire_PDB/files/vu/pdb2vuw.ent	A	540	LYS	 HZ1	 HZ2	 HZ3
+../../PDB_files/entire_PDB/files/vu/pdb2vuw.ent	A	540	LYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/vu/pdb2vuw.ent	A	540	LYS	 HG2	 HG3
+../../PDB_files/entire_PDB/files/vu/pdb2vuw.ent	A	540	LYS	 HD2	 HD3
+../../PDB_files/entire_PDB/files/vu/pdb2vuw.ent	A	540	LYS	 HE2	 HE3
+../../PDB_files/entire_PDB/files/vu/pdb2vuw.ent	A	552	ARG	HH11	HH12
+../../PDB_files/entire_PDB/files/vu/pdb2vuw.ent	A	552	ARG	HH21	HH22
+../../PDB_files/entire_PDB/files/vu/pdb2vuw.ent	A	552	ARG	 HG2	 HG3
+../../PDB_files/entire_PDB/files/vu/pdb2vuw.ent	A	556	PHE	 HB2	 HB3
+../../PDB_files/entire_PDB/files/vu/pdb2vuw.ent	A	557	ILE	HG21	HG22	HG23
+../../PDB_files/entire_PDB/files/vu/pdb2vuw.ent	A	562	VAL	HG11	HG12	HG13
+../../PDB_files/entire_PDB/files/vu/pdb2vuw.ent	A	562	VAL	HG21	HG22	HG23
+../../PDB_files/entire_PDB/files/vu/pdb2vuw.ent	A	624	THR	HG21	HG22	HG23
+../../PDB_files/entire_PDB/files/vu/pdb2vuw.ent	A	642	SER	 HB2	 HB3
+../../PDB_files/entire_PDB/files/vu/pdb2vuw.ent	A	674	SER	 HB2	 HB3
+../../PDB_files/entire_PDB/files/vu/pdb2vuw.ent	A	689	THR	HG21	HG22	HG23
+../../PDB_files/entire_PDB/files/vu/pdb2vuw.ent	A	695	ARG	HH11	HH12
+../../PDB_files/entire_PDB/files/vu/pdb2vuw.ent	A	695	ARG	HH21	HH22
+../../PDB_files/entire_PDB/files/vu/pdb2vuw.ent	A	695	ARG	 HB2	 HB3
+../../PDB_files/entire_PDB/files/vu/pdb2vuw.ent	A	695	ARG	 HG2	 HG3
+../../PDB_files/entire_PDB/files/vu/pdb2vuw.ent	A	714	ASP	 HB2	 HB3
+../../PDB_files/entire_PDB/files/vu/pdb2vuw.ent	A	779	ARG	HH11	HH12
+../../PDB_files/entire_PDB/files/vu/pdb2vuw.ent	A	779	ARG	HH21	HH22
+../../PDB_files/entire_PDB/files/vu/pdb2vuw.ent	A	779	ARG	 HB2	 HB3
+../../PDB_files/entire_PDB/files/vu/pdb2vuw.ent	A	779	ARG	 HG2	 HG3
+../../PDB_files/entire_PDB/files/vu/pdb2vuw.ent	A	785	SER	 HB2	 HB3
+../../PDB_files/entire_PDB/files/vu/pdb2vuw.ent	A	793	GLN	HE21	HE22
+../../PDB_files/entire_PDB/files/vu/pdb2vuw.ent	A	793	GLN	 HB2	 HB3
+../../PDB_files/entire_PDB/files/vu/pdb2vuw.ent	A	793	GLN	 HG2	 HG3
+../../PDB_files/entire_PDB/files/vy/pdb1vyr.ent	A	270	MET	 HE1	 HE2	 HE3
+../../PDB_files/entire_PDB/files/vy/pdb1vyr.ent	A	270	MET	 HG2
+../../PDB_files/entire_PDB/files/w2/pdb1w2z.ent	A	613	MET	 HG2	 HG3
+../../PDB_files/entire_PDB/files/w2/pdb1w2z.ent	B	147	GLU	 HB3
+../../PDB_files/entire_PDB/files/w2/pdb1w2z.ent	B	613	MET	 HG2	 HG3
+../../PDB_files/entire_PDB/files/w2/pdb1w2z.ent	C	147	GLU	 HB2
+../../PDB_files/entire_PDB/files/w2/pdb1w2z.ent	C	613	MET	 HG2	 HG3
+../../PDB_files/entire_PDB/files/w2/pdb1w2z.ent	D	87	ARG	 HB3
+../../PDB_files/entire_PDB/files/w2/pdb1w2z.ent	D	613	MET	 HG2	 HG3
+../../PDB_files/entire_PDB/files/w4/pdb1w4n.ent	A	602	MET	 HG2	 HG3
+../../PDB_files/entire_PDB/files/w4/pdb1w4n.ent	B	602	MET	 HG2	 HG3
+../../PDB_files/entire_PDB/files/w6/pdb1w6g.ent	A	602	MET	 HG2	 HG3
+../../PDB_files/entire_PDB/files/w7/pdb1w7c.ent	A	57	LYS	 HD2	 HD3
+../../PDB_files/entire_PDB/files/w7/pdb1w7c.ent	A	141	LYS	 HD2	 HD3
+../../PDB_files/entire_PDB/files/w7/pdb1w7c.ent	A	367	LYS	 HD2	 HD3
+../../PDB_files/entire_PDB/files/w7/pdb1w7c.ent	A	482	PHE	 HB2	 HB3
+../../PDB_files/entire_PDB/files/w7/pdb1w7c.ent	A	493	GLU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/w7/pdb1w7c.ent	A	542	GLY	 HA2	 HA3
+../../PDB_files/entire_PDB/files/w7/pdb1w7c.ent	A	589	GLU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/w7/pdb1w7c.ent	A	615	MET	 HB2	 HB3
+../../PDB_files/entire_PDB/files/w7/pdb1w7c.ent	A	626	LYS	 HD2	 HD3
+../../PDB_files/entire_PDB/files/wa/pdb1war.ent	A	153	ARG	 HG2	 HG3
+../../PDB_files/entire_PDB/files/wq/pdb2wqf.ent	A	41	PHE	 HB2	 HB3
+../../PDB_files/entire_PDB/files/wq/pdb2wqf.ent	A	159	GLU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/wq/pdb2wqf.ent	A	202	LYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/wy/pdb2wyt.ent	A	2	THR	HG21	HG22	HG23
+../../PDB_files/entire_PDB/files/wy/pdb2wyt.ent	A	142	SER	 HB2	 HB3
+../../PDB_files/entire_PDB/files/wy/pdb2wyt.ent	F	59	SER	 HB2	 HB3
+../../PDB_files/entire_PDB/files/wy/pdb2wyt.ent	F	102	SER	 HB2	 HB3
+../../PDB_files/entire_PDB/files/wy/pdb2wyt.ent	F	132	GLU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/wy/pdb2wyt.ent	F	132	GLU	 HG2	 HG3
+../../PDB_files/entire_PDB/files/x5/pdb2x5n.ent	A	28	ALA	HMB1	HMB2	HMB3
+../../PDB_files/entire_PDB/files/x5/pdb2x5n.ent	A	37	PHE	 HB2	 HB3
+../../PDB_files/entire_PDB/files/x5/pdb2x5n.ent	A	45	PRO	 HB2	 HB3
+../../PDB_files/entire_PDB/files/x5/pdb2x5n.ent	A	45	PRO	 HG2	 HG3
+../../PDB_files/entire_PDB/files/x5/pdb2x5n.ent	A	49	CYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/x5/pdb2x5n.ent	A	56	ASP	 HB2	 HB3
+../../PDB_files/entire_PDB/files/x5/pdb2x5n.ent	A	57	ASN	HD21	HD22
+../../PDB_files/entire_PDB/files/x5/pdb2x5n.ent	A	57	ASN	 HB2	 HB3
+../../PDB_files/entire_PDB/files/x5/pdb2x5n.ent	A	59	PRO	 HB2	 HB3
+../../PDB_files/entire_PDB/files/x5/pdb2x5n.ent	A	59	PRO	 HD2	 HD3
+../../PDB_files/entire_PDB/files/x5/pdb2x5n.ent	A	78	ASP	 HB2	 HB3
+../../PDB_files/entire_PDB/files/x5/pdb2x5n.ent	A	80	PRO	 HB2	 HB3
+../../PDB_files/entire_PDB/files/x5/pdb2x5n.ent	A	80	PRO	 HD2	 HD3
+../../PDB_files/entire_PDB/files/x5/pdb2x5n.ent	A	117	PRO	 HB2	 HB3
+../../PDB_files/entire_PDB/files/x5/pdb2x5n.ent	A	117	PRO	 HD2	 HD3
+../../PDB_files/entire_PDB/files/x5/pdb2x5n.ent	A	124	ASN	HD21	HD22
+../../PDB_files/entire_PDB/files/x5/pdb2x5n.ent	A	124	ASN	 HB2	 HB3
+../../PDB_files/entire_PDB/files/x5/pdb2x5n.ent	A	137	VAL	HG11	HG12	HG13
+../../PDB_files/entire_PDB/files/x5/pdb2x5n.ent	A	137	VAL	HG21	HG22	HG23
+../../PDB_files/entire_PDB/files/x5/pdb2x5n.ent	A	151	SER	 HB2	 HB3
+../../PDB_files/entire_PDB/files/x5/pdb2x5n.ent	A	172	PRO	 HB2	 HB3
+../../PDB_files/entire_PDB/files/x5/pdb2x5n.ent	A	172	PRO	 HD2	 HD3
+../../PDB_files/entire_PDB/files/x5/pdb2x5n.ent	A	173	PRO	 HB2	 HB3
+../../PDB_files/entire_PDB/files/x5/pdb2x5n.ent	A	173	PRO	 HD2	 HD3
+../../PDB_files/entire_PDB/files/x5/pdb2x5n.ent	A	175	PRO	 HB2	 HB3
+../../PDB_files/entire_PDB/files/x5/pdb2x5n.ent	A	175	PRO	 HG2	 HG3
+../../PDB_files/entire_PDB/files/x5/pdb2x5n.ent	A	186	PRO	 HB2	 HB3
+../../PDB_files/entire_PDB/files/x5/pdb2x5n.ent	A	186	PRO	 HD2	 HD3
+../../PDB_files/entire_PDB/files/x6/pdb1x6x.ent	X	68	LYS	 HE2	 HE3
+../../PDB_files/entire_PDB/files/x6/pdb1x6x.ent	X	88	LYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/x6/pdb1x6x.ent	X	104	MET	 HG2	 HG3
+../../PDB_files/entire_PDB/files/x6/pdb1x6x.ent	X	110	LYS	 HD2	 HD3
+../../PDB_files/entire_PDB/files/x6/pdb1x6x.ent	X	112	LYS	 HD2	 HD3
+../../PDB_files/entire_PDB/files/x6/pdb1x6z.ent	A	68	LYS	 HZ3
+../../PDB_files/entire_PDB/files/x6/pdb1x6z.ent	A	68	LYS	 HE2	 HE3
+../../PDB_files/entire_PDB/files/x6/pdb1x6z.ent	A	88	LYS	 HG2	 HG3
+../../PDB_files/entire_PDB/files/x6/pdb1x6z.ent	A	104	MET	 HB2	 HB3
+../../PDB_files/entire_PDB/files/x6/pdb1x6z.ent	A	110	LYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/x6/pdb1x6z.ent	A	112	LYS	 HD2	 HD3
+../../PDB_files/entire_PDB/files/x9/pdb2x9g.ent	D	230	ARG	 HG2	 HG3
+../../PDB_files/entire_PDB/files/xb/pdb2xb0.ent	X	43	GLU	 HG2	 HG3
+../../PDB_files/entire_PDB/files/xb/pdb2xb0.ent	X	62	GLU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/xb/pdb2xb0.ent	X	65	LYS	 HG2	 HG3
+../../PDB_files/entire_PDB/files/xb/pdb2xb0.ent	X	76	LYS	 HG2	 HG3
+../../PDB_files/entire_PDB/files/xb/pdb2xb0.ent	X	97	LYS	 HG2	 HG3
+../../PDB_files/entire_PDB/files/xb/pdb2xb0.ent	X	111	LYS	 HG2	 HG3
+../../PDB_files/entire_PDB/files/xb/pdb2xb0.ent	X	122	LYS	 HG2	 HG3
+../../PDB_files/entire_PDB/files/xb/pdb2xb0.ent	X	241	LYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/xj/pdb2xjp.ent	A	18	ARG	 HG2	 HG3
+../../PDB_files/entire_PDB/files/xj/pdb2xjp.ent	A	21	HIS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/xj/pdb2xjp.ent	A	22	MET	 HB2	 HB3
+../../PDB_files/entire_PDB/files/xq/pdb1xqn.ent	A	122	GLU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/xq/pdb1xqn.ent	A	122	GLU	 HG2	 HG3
+../../PDB_files/entire_PDB/files/xq/pdb1xqn.ent	A	207	ALA	HMB1	HMB2	HMB3
+../../PDB_files/entire_PDB/files/xt/pdb2xtt.ent	A	18	ARG	 HB2	 HB3
+../../PDB_files/entire_PDB/files/xt/pdb2xtt.ent	A	35	HIS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/xt/pdb2xtt.ent	B	73	ILE	HG12	HG13
+../../PDB_files/entire_PDB/files/xu/pdb2xub.ent	A	404	MET	 HB2	 HB3
+../../PDB_files/entire_PDB/files/xv/pdb1xvm.ent	A	88	ARG	 HB2	 HB3
+../../PDB_files/entire_PDB/files/xy/pdb1xy1.ent	A	8	LEU	HD21
+../../PDB_files/entire_PDB/files/y1/pdb2y1q.ent	A	70	ARG	 HB2	 HB3
+../../PDB_files/entire_PDB/files/y5/pdb2y5f.ent	A	64	PHE	 HB2	 HB3
+../../PDB_files/entire_PDB/files/y9/pdb1y93.ent	A	136	LYS	 HZ2	 HZ3
+../../PDB_files/entire_PDB/files/y9/pdb1y93.ent	A	136	LYS	 HE2	 HE3
+../../PDB_files/entire_PDB/files/y9/pdb1y93.ent	A	146	PRO	 HB2	 HB3
+../../PDB_files/entire_PDB/files/y9/pdb1y93.ent	A	146	PRO	 HG2	 HG3
+../../PDB_files/entire_PDB/files/y9/pdb1y93.ent	A	146	PRO	 HD2	 HD3
+../../PDB_files/entire_PDB/files/y9/pdb1y93.ent	A	229	SER	 HB2	 HB3
+../../PDB_files/entire_PDB/files/y9/pdb1y93.ent	A	233	LYS	 HZ1	 HZ3
+../../PDB_files/entire_PDB/files/y9/pdb1y93.ent	A	233	LYS	 HD2	 HD3
+../../PDB_files/entire_PDB/files/y9/pdb1y93.ent	A	233	LYS	 HE2	 HE3
+../../PDB_files/entire_PDB/files/yb/pdb2yby.ent	A	357	GLU	 HB2
+../../PDB_files/entire_PDB/files/yb/pdb2yby.ent	A	357	GLU	 HG2
+../../PDB_files/entire_PDB/files/ye/pdb2yeu.ent	C	40	ARG	HH11
+../../PDB_files/entire_PDB/files/ye/pdb2yeu.ent	C	40	ARG	HH22
+../../PDB_files/entire_PDB/files/yh/pdb2yha.ent	A	872	LEU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/yl/pdb2yl1.ent	A	19	MET	 HB2	 HB3
+../../PDB_files/entire_PDB/files/yl/pdb2yl1.ent	A	40	GLN	 HB2	 HB3
+../../PDB_files/entire_PDB/files/yl/pdb2yl1.ent	A	46	GLU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/yl/pdb2yl1.ent	A	92	LYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/yl/pdb2yl1.ent	A	104	LYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/yl/pdb2yl1.ent	A	115	SER	 HB2	 HB3
+../../PDB_files/entire_PDB/files/yl/pdb2ylg.ent	A	18	LEU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/yn/pdb2ynv.ent	B	61	ILE	HG21	HG22	HG23
+../../PDB_files/entire_PDB/files/yn/pdb2ynv.ent	B	61	ILE	HD11	HD12	HD13
+../../PDB_files/entire_PDB/files/yn/pdb2ynv.ent	B	61	ILE	HG12	HG13
+../../PDB_files/entire_PDB/files/yn/pdb2ynx.ent	B	17	ASN	 HB2	 HB3
+../../PDB_files/entire_PDB/files/yn/pdb2ynx.ent	B	103	LYS	 HD2	 HD3
+../../PDB_files/entire_PDB/files/ys/pdb1ysn.ent	A	101	PHE	 HB2	 HB3
+../../PDB_files/entire_PDB/files/ys/pdb1ysn.ent	A	182	LEU	HD11
+../../PDB_files/entire_PDB/files/ys/pdb1ysn.ent	A	183	GLU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/ys/pdb1ysn.ent	A	183	GLU	 HG2	 HG3
+../../PDB_files/entire_PDB/files/ys/pdb1ysw.ent	A	200	GLY	 HA2	 HA3
+../../PDB_files/entire_PDB/files/ys/pdb1ysw.ent	A	201	PRO	 HD2	 HD3
+../../PDB_files/entire_PDB/files/yu/pdb1yur.ent	B	1	MET	 HB2	 HB3
+../../PDB_files/entire_PDB/files/yu/pdb1yur.ent	B	1	MET	 HG2	 HG3
+../../PDB_files/entire_PDB/files/yu/pdb1yur.ent	B	1	MET	 HM1	 HM2	 HM3
+../../PDB_files/entire_PDB/files/yu/pdb1yur.ent	B	2	ALA	HMB1	HMB2	HMB3
+../../PDB_files/entire_PDB/files/yu/pdb1yur.ent	B	26	GLN	 HB2	 HB3
+../../PDB_files/entire_PDB/files/yu/pdb1yur.ent	B	26	GLN	 HG2	 HG3
+../../PDB_files/entire_PDB/files/yu/pdb1yur.ent	B	50	LEU	HD12
+../../PDB_files/entire_PDB/files/yu/pdb1yur.ent	B	90	LYS	 HZ1	 HZ2	 HZ3
+../../PDB_files/entire_PDB/files/yu/pdb1yur.ent	B	90	LYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/yu/pdb1yur.ent	B	90	LYS	 HG2
+../../PDB_files/entire_PDB/files/yu/pdb1yur.ent	B	90	LYS	 HD2	 HD3
+../../PDB_files/entire_PDB/files/yu/pdb1yur.ent	B	90	LYS	 HE2	 HE3
+../../PDB_files/entire_PDB/files/yu/pdb1yut.ent	A	51	LYS	 HZ2
+../../PDB_files/entire_PDB/files/yu/pdb1yut.ent	A	51	LYS	 HE2	 HE3
+../../PDB_files/entire_PDB/files/yu/pdb1yut.ent	A	94	LYS	 HZ3
+../../PDB_files/entire_PDB/files/yu/pdb1yut.ent	A	94	LYS	 HE2	 HE3
+../../PDB_files/entire_PDB/files/yu/pdb1yut.ent	A	97	LYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/yu/pdb1yut.ent	A	97	LYS	 HG2	 HG3
+../../PDB_files/entire_PDB/files/yu/pdb1yut.ent	A	98	LYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/yu/pdb1yut.ent	A	98	LYS	 HG2	 HG3
+../../PDB_files/entire_PDB/files/yu/pdb1yut.ent	B	94	LYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/yu/pdb1yut.ent	B	94	LYS	 HG2	 HG3
+../../PDB_files/entire_PDB/files/z3/pdb1z3j.ent	A	108	VAL	HG11	HG12	HG13
+../../PDB_files/entire_PDB/files/z3/pdb1z3j.ent	A	108	VAL	HG21	HG22	HG23
+../../PDB_files/entire_PDB/files/zd/pdb1zdb.ent	A	1	ALA	 HM3
+../../PDB_files/entire_PDB/files/zd/pdb1zdb.ent	A	3	ALA	HMB1	HMB2	HMB3
+../../PDB_files/entire_PDB/files/zg/pdb3zgv.ent	A	247	MET	 HE1	 HE2	 HE3
+../../PDB_files/entire_PDB/files/zg/pdb3zgv.ent	A	247	MET	 HB3
+../../PDB_files/entire_PDB/files/zg/pdb3zgv.ent	A	247	MET	 HG2	 HG3
+../../PDB_files/entire_PDB/files/zh/pdb3zhn.ent	A	36	ARG	 HB2	 HB3
+../../PDB_files/entire_PDB/files/zh/pdb3zhn.ent	A	42	LYS	 HD2	 HD3
+../../PDB_files/entire_PDB/files/zh/pdb3zhn.ent	A	57	ASN	 HB2	 HB3
+../../PDB_files/entire_PDB/files/zh/pdb3zhn.ent	A	88	GLU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/zh/pdb3zhn.ent	A	89	GLN	 HB2	 HB3
+../../PDB_files/entire_PDB/files/zo/pdb2zo5.ent	A	61	MET	 HB2	 HB3
+../../PDB_files/entire_PDB/files/zo/pdb2zo5.ent	A	204	GLU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/zo/pdb2zo5.ent	A	213	GLU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/zo/pdb2zo5.ent	A	216	GLU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/zo/pdb2zo5.ent	A	275	GLN	 HB2	 HB3
+../../PDB_files/entire_PDB/files/zo/pdb2zo5.ent	A	278	ARG	 HB2	 HB3
+../../PDB_files/entire_PDB/files/zo/pdb2zo5.ent	B	61	MET	 HB2	 HB3
+../../PDB_files/entire_PDB/files/zo/pdb2zo5.ent	B	88	LEU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/zo/pdb2zo5.ent	B	216	GLU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/zo/pdb2zo5.ent	B	316	ARG	 HB2	 HB3
+../../PDB_files/entire_PDB/files/zo/pdb2zo5.ent	B	348	ARG	 HB2	 HB3
+../../PDB_files/entire_PDB/files/zo/pdb2zo5.ent	B	456	LYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/zq/pdb3zqv.ent	A	5	PRO	 HB2	 HB3
+../../PDB_files/entire_PDB/files/zq/pdb3zqv.ent	A	10	LYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/zq/pdb3zqv.ent	A	14	SER	 HB2	 HB3
+../../PDB_files/entire_PDB/files/zq/pdb3zqv.ent	A	18	LEU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/zq/pdb3zqv.ent	A	37	ASP	 HB2	 HB3
+../../PDB_files/entire_PDB/files/zq/pdb3zqv.ent	A	40	GLN	 HB2	 HB3
+../../PDB_files/entire_PDB/files/zq/pdb3zqv.ent	A	46	GLU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/zq/pdb3zqv.ent	A	49	LYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/zq/pdb3zqv.ent	A	52	SER	 HB2	 HB3
+../../PDB_files/entire_PDB/files/zq/pdb3zqv.ent	A	69	ARG	 HB2	 HB3
+../../PDB_files/entire_PDB/files/zq/pdb3zqv.ent	A	78	SER	 HB2	 HB3
+../../PDB_files/entire_PDB/files/zq/pdb3zqv.ent	A	82	LYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/zq/pdb3zqv.ent	A	89	ASN	 HB2	 HB3
+../../PDB_files/entire_PDB/files/zq/pdb3zqv.ent	A	106	ARG	 HB2	 HB3
+../../PDB_files/entire_PDB/files/zq/pdb3zqv.ent	A	125	LYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/zq/pdb3zqy.ent	A	19	MET	 HB2	 HB3
+../../PDB_files/entire_PDB/files/zq/pdb3zqy.ent	A	37	ASP	 HB2	 HB3
+../../PDB_files/entire_PDB/files/zq/pdb3zqy.ent	A	40	GLN	 HB2	 HB3
+../../PDB_files/entire_PDB/files/zq/pdb3zqy.ent	A	92	LYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/zq/pdb3zqy.ent	A	104	LYS	 HB2	 HB3
+../../PDB_files/entire_PDB/files/zq/pdb3zqy.ent	A	115	SER	 HB2	 HB3
+../../PDB_files/entire_PDB/files/zu/pdb3zu1.ent	A	4	GLU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/zu/pdb3zu1.ent	A	14	TYR	 HB2	 HB3
+../../PDB_files/entire_PDB/files/zu/pdb3zu1.ent	B	1	PHE	 HB2	 HB3
+../../PDB_files/entire_PDB/files/zu/pdb3zu1.ent	B	13	GLU	 HG2	 HG3
+../../PDB_files/entire_PDB/files/zu/pdb3zu1.ent	B	21	GLU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/zu/pdb3zu1.ent	D	13	GLU	 HB2	 HB3
+../../PDB_files/entire_PDB/files/zx/pdb3zxu.ent	B	122	VAL	HG12	HG13
+../../PDB_files/entire_PDB/files/zx/pdb3zxu.ent	B	122	VAL	HG21	HG22	HG23
+../../PDB_files/entire_PDB/files/zx/pdb3zxu.ent	D	122	VAL	HG12	HG13
+../../PDB_files/entire_PDB/files/zx/pdb3zxu.ent	D	122	VAL	HG21	HG22	HG23

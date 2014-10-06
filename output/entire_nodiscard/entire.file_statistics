@@ -1,0 +1,8 @@
+Single model of protein consisting only of natural amino acids	84548
+Ensemble of models						9391
+Single model of molecule with non-amino-acid residues		6655
+Unknown atom found						114
+No DBREF entry							20
+No ATOM or DBREF entry						64
+Residue indices out of order within a single chain		402
+Found terminal atom types in non-terminal residues		13

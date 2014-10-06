@@ -1,0 +1,84 @@
+ H  1 
+ H2 1 
+ HA 1 
+ HB11 
+ HB21 
+ HB31 
+ HXT1 
+ HB 1 
+ HB21 
+ HB31 
+ HG 1 
+ HG11 
+ HG21 
+HG111 
+HG121 
+HG131 
+HG211 
+HG221 
+HG231 
+ HG31 
+ HD21 
+ HD31 
+ HD11 
+HD111 
+HD121 
+HD131 
+HD211 
+HD221 
+HD231 
+ HE 1 
+ HE11 
+ HE21 
+ HE31 
+HE211 
+HE221 
+ HZ 1 
+ HZ11 
+ HZ21 
+ HZ31 
+ HH 1 
+ HH21 
+HH111 
+HH121 
+HH211 
+HH221 
+ HA21 
+ HA31 
+ C  6 
+ CA 6 
+ CB 6 
+ CG 6 
+ CG16 
+ CG26 
+ CD 6 
+ CD16 
+ CD26 
+ CE 6 
+ CE16 
+ CE26 
+ CE36 
+ CZ 6 
+ CZ26 
+ CZ36 
+ CH26 
+ N  7 
+ ND17 
+ NE 7 
+ NE17 
+ NE27 
+ NH17 
+ NH27 
+ ND27 
+ NZ 7 
+ O  8 
+ OXT8 
+ OG 8 
+ OG18 
+ OD18 
+ OD28 
+ OE18 
+ OE28 
+ OH 8 
+ SG 16
+ SD 16
