@@ -128,10 +128,12 @@ int main(int argc, char *argv[]){
     for(i=0;i<max_overlapping_atoms;i++) allocate_array(char, (overlapping_atoms_list[i].filename), maxstringlength);
     int **foundbond, *Nangles, ***angle_index, *Ntetrahedra, ***tetrahedraindices, *Nrings, **ringsize, **number_dependent_atoms, ***ringatomindex;
     double **maxbondlength, **minbondlength, **angles;
-    setup_bond_length_structure(covalent_bond_lengths_file, &foundbond, &maxbondlength, &minbondlength);
-    setup_bond_angles_structure(bond_angles_file, amino_acid_list, &Nangles, &angles, &angle_index);
-    setup_tetrahedra_structure(tetrahedral_file, amino_acid_list, &Ntetrahedra, &tetrahedraindices);
-    setup_rings_structure(rings_file, amino_acid_list, &Nrings, &ringsize, &number_dependent_atoms, &ringatomindex);
+    if(discard==1){
+        setup_bond_length_structure(covalent_bond_lengths_file, &foundbond, &maxbondlength, &minbondlength);
+        setup_bond_angles_structure(bond_angles_file, amino_acid_list, &Nangles, &angles, &angle_index);
+        setup_tetrahedra_structure(tetrahedral_file, amino_acid_list, &Ntetrahedra, &tetrahedraindices);
+        setup_rings_structure(rings_file, amino_acid_list, &Nrings, &ringsize, &number_dependent_atoms, &ringatomindex);
+    }
 
     //  Create structures for calculating direct properties of PDB
 
