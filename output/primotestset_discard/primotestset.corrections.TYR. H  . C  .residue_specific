@@ -1,0 +1,26 @@
+Correcting atom position in corrected atom frame:
+Average:		nan	nan	nan
+Standard deviation:	nan	nan	nan
+
+Change in corrected atom position in corrected atom frame (after applying correction):
+Average:		nan	nan	nan
+
+Cross correlation between corrected atom position and correcting atom position:
+nan	nan	nan
+nan	nan	nan
+nan	nan	nan
+
+Self cross correlation for correcting atom position:
+nan	nan	nan
+nan	nan	nan
+nan	nan	nan
+
+Corrected atom position += B + M x (Correcting atom position)
+
+B:
+nan	nan	nan
+
+M:
+nan	nan	nan
+nan	nan	nan
+nan	nan	nan

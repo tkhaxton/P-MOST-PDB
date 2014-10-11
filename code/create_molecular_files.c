@@ -12,7 +12,7 @@
 #include "protein_functions.h"
 
 int main(int argc, char *argv[]){
-    int Nresidues, i, j, covariancecount=0, type, nrecords=0, terminiierror, errorfilefirst=0, N_sidechain_corrections, read, N_backbone_atom_types, backbone_Oindex, backbone_Nindex, backbone_Hindex, backbone_Cindex, discard, do_amino_acid_examples, N_overlapping_atoms;
+    int Nresidues, i, j, covariancecount=0, type, nrecords=0, terminiierror, errorfilefirst=0, N_sidechain_corrections, read, N_backbone_atom_types, backbone_Oindex, backbone_Nindex, backbone_Hindex, backbone_Cindex, discard, do_amino_acid_examples, N_overlapping_atoms, dbref;
     char **backbone_atom_types, **Cterminusatomnames;
 	FILE *inp;
     amino_acid_struct *amino_acid_list;
@@ -55,6 +55,7 @@ int main(int argc, char *argv[]){
     //  Options
     
     discard=loadparam(argc, "-discard", argv, "1").i;
+    dbref=loadparam(argc, "-dbref", argv, "1").i;
     do_amino_acid_examples=loadparam(argc, "-do_amino_acid_examples", argv, "1").i;
 
     //  Inputs
@@ -149,7 +150,7 @@ int main(int argc, char *argv[]){
         input_correction(&(sidechain_corrections[i]), outputfile);
     }
     
-    type=read_pdb_to_residuearray(pdbfile, amino_acid_list, &residuearray, &Nresidues, 1);
+    type=read_pdb_to_residuearray(pdbfile, amino_acid_list, &residuearray, &Nresidues, 1, dbref);
     if(type>0) print_error(type);
     if(type==0){
         reassign_Nterminus_atoms(residuearray, Nresidues, amino_acid_list, Nterminus_error_file, pdbfile, 1, 1);

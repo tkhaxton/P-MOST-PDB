@@ -691,7 +691,7 @@ void initialize_correction_structure(correction_structure *pmystructure){
     (*pmystructure).count=0;
 }
 
-int read_pdb_to_residuearray(char *filename, amino_acid_struct *amino_acid_list, residuedata **presiduearray, int *pNresidues, int record_all_data){
+int read_pdb_to_residuearray(char *filename, amino_acid_struct *amino_acid_list, residuedata **presiduearray, int *pNresidues, int record_all_data, int dbref){
 	
     //  Read data from a .pdb file and convert to an array of residue structures containing atomic coordinates and connectivity information
 	
@@ -770,31 +770,33 @@ int read_pdb_to_residuearray(char *filename, amino_acid_struct *amino_acid_list,
                 resseq=atoi(field);
                 extract_piece_of_string(linechar, icode, 27, 27);
                 if(foundatom==0){
-                    if(founddbref==0){
-                        
-                        //  No DBREF entries found
-                        
-						free(linechar);
-						free(label);
-						free(field);
-						free(chainid);
-						free(lastchainid);
-						free(icode);
-						free(lasticode);
-						free(atomname);
-						free(readres);
-						free(mychaindata);
-						fclose(inp);
-						return 4;
-					}
-                    if(Nchains==0) my_exit("ATOM data found before any DBREF data");
-                    for(i=0;i<Nchains;i++){
-						if(mychaindata[i].seqend>mychaindata[i].dbseqend){
-							(*pNresidues)+=(1+mychaindata[i].seqend);
-						}
-						else (*pNresidues)+=(1+mychaindata[i].dbseqend);
-                        if(mychaindata[i].seqbegin<0){
-                            (*pNresidues)-=mychaindata[i].seqbegin;
+                    if(dbref==1){
+                        if(founddbref==0){
+                            
+                            //  No DBREF entries found
+                            
+                            free(linechar);
+                            free(label);
+                            free(field);
+                            free(chainid);
+                            free(lastchainid);
+                            free(icode);
+                            free(lasticode);
+                            free(atomname);
+                            free(readres);
+                            free(mychaindata);
+                            fclose(inp);
+                            return 4;
+                        }
+                        if(Nchains==0) my_exit("ATOM data found before any DBREF data");
+                        for(i=0;i<Nchains;i++){
+                            if(mychaindata[i].seqend>mychaindata[i].dbseqend){
+                                (*pNresidues)+=(1+mychaindata[i].seqend);
+                            }
+                            else (*pNresidues)+=(1+mychaindata[i].dbseqend);
+                            if(mychaindata[i].seqbegin<0){
+                                (*pNresidues)-=mychaindata[i].seqbegin;
+                            }
                         }
                     }
                     rescounter=0;
@@ -2399,7 +2401,7 @@ void map_to_cgmodel(int Nresidues, residuedata *residuearray, amino_acid_struct 
 	
     //  Map all-atom configuration (residuearray) to coarse-grained configuration (cgresiduearray)
 	
-    int rescounter, i, j, aminoacidindex, atomindex, secondatomindex;
+    int rescounter, i, j, aminoacidindex, atomindex, secondatomindex, nextfoundres;
     double mynorm;
 	double_triple vector;
     allocate_array(cgresidue, (*pcgresiduearray), Nresidues);
@@ -2409,7 +2411,10 @@ void map_to_cgmodel(int Nresidues, residuedata *residuearray, amino_acid_struct 
 		if(aminoacidindex>=0){
 			(*pcgresiduearray)[rescounter].Nsites=amino_acid_list[aminoacidindex].Nsites;
             if((*pcgresiduearray)[rescounter].Nsites>0){
-                if((rescounter==Nresidues-1)||(residuearray[rescounter].chainid!=residuearray[rescounter+1].chainid)){
+                nextfoundres=rescounter+1;
+                while((nextfoundres<Nresidues)&&(residuearray[nextfoundres].residnumber<0)) nextfoundres++;
+                if((nextfoundres==Nresidues)||(residuearray[rescounter].chainid!=residuearray[nextfoundres].chainid)){
+                //if((rescounter==Nresidues-1)||(residuearray[rescounter].chainid!=residuearray[rescounter+1].chainid)){
                     ((*pcgresiduearray)[rescounter]).Cterminussite=(*pcgresiduearray)[rescounter].Nsites;
                     allocate_array(cgcoord, (((*pcgresiduearray)[rescounter]).coord), ((*pcgresiduearray)[rescounter].Nsites+1));
                     allocate_array(int, (((*pcgresiduearray)[rescounter]).sitedefined), ((*pcgresiduearray)[rescounter].Nsites+1));
@@ -2532,6 +2537,8 @@ void record_moments_relative_to_oriented_cg_sites(int Nresidues, residuedata *re
                         amino_acid_list[aminoacidindex].varpos[index].y+=(orientedpos.y*orientedpos.y);
                         amino_acid_list[aminoacidindex].varpos[index].z+=(orientedpos.z*orientedpos.z);
                         amino_acid_list[aminoacidindex].count[index]++;
+                        
+                        
                     }
                 }
             }

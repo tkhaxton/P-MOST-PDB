@@ -160,7 +160,7 @@ typedef struct atomlookup_tag{
 void create_amino_acid_struct(char *directory, char *site_director_atoms_file, char *site_atoms_file, char *corrections_parameter_file, char *elements_file, char *Cterminus_atoms_file, char *indistinguishable_atoms_file, char *radial_atoms_file, amino_acid_struct **pamino_acid_list, int *pN_sidechain_corrections, char ***psidechain_correction_identifiers, char ***pbackbone_atom_types, int *pN_backbone_atom_types, int *pbackbone_Oindex, int *pbackbone_Nindex, int *pbackbone_Hindex, int *pbackbone_Cindex, char ***pCterminusatomnames, char *aromatic_hydrogens_file);
 void change_atom_names_in_amino_acid_struct(amino_acid_struct *amino_acid_list, char *change_atom_names_file, int *pN_backbone_atom_types, char **backbone_atom_types);
 void initialize_correction_structure(correction_structure *pmystructure);
-int read_pdb_to_residuearray(char *filename, amino_acid_struct *amino_acid_list, residuedata **presiduearray, int *pNresidues, int record_all_data);
+int read_pdb_to_residuearray(char *filename, amino_acid_struct *amino_acid_list, residuedata **presiduearray, int *pNresidues, int record_all_data, int dbref);
 void calculate_average_radial_distances(amino_acid_struct *amino_acid_list, int Nresidues, residuedata *residuearray);
 void output_error_filename(char *file, char *base, int type, int *pfirst);
 void reassign_Nterminus_atoms(residuedata *residuearray, int Nresidues, amino_acid_struct *amino_acid_list, char *output_file, char *pdb_file, int dowrite, int record_all_data);

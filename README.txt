@@ -39,7 +39,8 @@ Berkeley National Laboratory.
 I ask that users please cite my publication [1] in any publication presenting 
 results produced with P-MOST-PDB-Map.
 
-The latest version of P-MOST-PDB-Map can be found at ...
+The latest version of P-MOST-PDB-Map can be found at 
+http://nanotheory.lbl.gov/peptoid_code.
 
 Contact: Tom Haxton (tomhaxton@gmail.com)
 
