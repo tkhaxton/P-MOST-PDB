@@ -3381,6 +3381,20 @@ void output_rmsd_onlyspecific(char *filename, amino_acid_struct *amino_acid_list
     free(atomaveragesitecount);
     free_matrix(atomspersite, Naminoacids);
     free(backboneH);
+    
+    //  Zero running totals
+    
+    for(i=0;i<Naminoacids;i++){
+        for(j=0;j<amino_acid_list[i].Natoms+amino_acid_list[i].NCterminusatoms;j++){
+            amino_acid_list[i].msdcount[j]=0;
+            amino_acid_list[i].msd_residuespecific[j].x=amino_acid_list[i].msd_residuespecific[j].y=amino_acid_list[i].msd_residuespecific[j].z=0;
+            amino_acid_list[i].fourthmoment_residuespecific[j]=0;
+        }
+        for(j=0;j<amino_acid_list[i].Nsites;j++){
+            amino_acid_list[i].sitecount[j]=0;
+        }
+    }
+
 }
 
 void output_file_type_statistics(int *Ntype, char *filename){
@@ -3402,6 +3416,14 @@ void extract_piece_of_string(char *instring, char *outstring, int start, int end
     int i;
     for(i=0;i<=end-start;i++){
         outstring[i]=instring[start-1+i];
+    }
+    outstring[end-start+1]='\0';
+}
+
+void extract_piece_of_string_lowercase(char *instring, char *outstring, int start, int end){
+    int i;
+    for(i=0;i<=end-start;i++){
+        outstring[i]=tolower(instring[start-1+i]);
     }
     outstring[end-start+1]='\0';
 }
@@ -4319,4 +4341,26 @@ void print_sites(FILE *outp, cgresidue mycgresidue){
         end=add_double_triple(mycgresidue.coord[i].pos, scalar_multiply_double_triple(mycgresidue.coord[i].ez, arrowlength));
         fprintf(outp, "draw arrow {%f %f %f} {%f %f %f} %s\n", start.x, start.y, start.z, end.x, end.y, end.z, color);
     }
+}
+
+int convert_entry_to_integer(char *entry_id){
+    int i, letterint, integer=0, base=1;
+    for(i=0;i<4;i++){
+        letterint=((int) entry_id[i]) - ((int) 'a');
+        if(letterint<0){
+            if(letterint>=-26){
+                letterint=((int) entry_id[i]) - ((int) 'A');
+            }
+            else{
+                letterint=26+((int) entry_id[i]) - ((int) '0');
+            }
+        }
+        if((letterint<0)||(letterint>=36)){
+            printf("letter int %i!\n", letterint);
+            exit(1);
+        }
+        integer+=(letterint*base);
+        base*=36;
+    }
+    return integer;
 }

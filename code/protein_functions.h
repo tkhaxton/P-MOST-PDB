@@ -193,6 +193,7 @@ void output_rmsd_onlyspecific(char *filename, amino_acid_struct *amino_acid_list
 void output_file_type_statistics(int *Ntype, char *filename);
 
 void extract_piece_of_string(char *instring, char *outstring, int start, int end);
+void extract_piece_of_string_lowercase(char *instring, char *outstring, int start, int end);
 void print_error(int type);
 
 void input_cg_coords(char *filename, amino_acid_struct *amino_acid_list, char **Cterminusatomnames);
@@ -204,6 +205,7 @@ void print_position(FILE *outp, char *element, double_triple position);
 void print_bond(FILE *outp, int a, int b);
 void setup_tcl(FILE *outp, int ***foundmatrix, int doleft, int doright, int doCterminus);
 void print_sites(FILE *outp, cgresidue mycgresidue);
+int convert_entry_to_integer(char *entry_id);
 
 
 
